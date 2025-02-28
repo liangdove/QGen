@@ -97,7 +97,7 @@ tools = [
 for topic in topic_options_crawler:
     messages=[
             {"role": "system", "content": sys_prompt},
-            {"role": "user", "content": f"请收集最近互联网上关于{topic}的信息,，并根据收集到的内容精心设计出3个问题，每个问题字数在50字左右。搜索范围要多样化比如从央视网、微博、知乎、虎扑、贴吧、抖音、sohu等平台收集{topic}的相关信息，给出使用搜索工具搜索出的来源。"},
+            {"role": "user", "content": f"请收集最近互联网上关于{topic}的信息,，并根据收集到的内容精心设计出3个问题，每个问题字数在50字左右。搜索范围要多样化，比如从央视网、微博、知乎、虎扑、贴吧、抖音、sohu等平台收集{topic}的相关信息，给出使用搜索工具搜索出的来源。"},
         ]
     response = client.chat.completions.create(
         model="step-1-8k",
