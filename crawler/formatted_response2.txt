@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 307,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": null,
+            "title": "销量大跌，反马斯克浪潮冲击特斯拉",
+            "description": "特斯拉在部分全球大型电动汽车市场的销量大跌。彭博社周二发文称，埃隆·马斯克(Elon Musk)的政治言论和行动引发了特斯拉车主的反感和抵制。为了与马斯克切割，一些车主决定卖掉手中的特斯拉或者购买其他品牌汽车，影响了特斯拉销量。\r\n抗议者手举抵制特斯拉的标识泰·赫尔顿(Tae Helton)是一位汽车发烧友，住在距离特斯拉加州旗舰工厂几分钟车程的地方。他为自己的家用车购买了一辆特斯拉，去年差点又买了一辆。切割然而，在马斯克上月在特朗普总统就职典礼上做出类似行纳粹礼的手势后，他决定与这个品牌彻底断绝关系。“我驾驶它…",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1481736.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2025/0226/04df54e9035ef91.png",
+            "publishedAt": "2025-02-26T10:35:13Z",
+            "content": "·(Tae Helton)\r\n2500Model 349\r\n2024145%\r\n12%\r\n41%159%\r\n2025Saxo·(Jacob Falkencrone)1050\r\n20235000\r\nX\r\n·(Tom Price)DOGE()\r\nModel Y48%Model 331%\r\n·(Eric Thurber)2021 Model 3 \r\n58Model 32.7Carvana2.2i4\r\n… [+37 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "中央社",
+            "title": "馬斯克：聯邦政府若不削減開支，美國將破產",
+            "description": "獲美國總統川普任命負責刪減聯邦政府成本的科技億萬富翁馬斯克（Elon Musk）今天表示，美國如果不刪減開支，將走上「破產」一途。 法新社報導，執掌政府效率部（DOGE）的馬斯克在白宮和川普共同發表談話時，特別提到美國上個財政年度財政赤字高達1.8兆美元，且所要支付的國債利息極為高昂。 他告訴媒體，...",
+            "url": "https://finance.technews.tw/2025/02/12/elon-musk-federal-government-bankruptcy-warning/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2023/09/08105130/dan-dennis-HFTPruAfDKU-unsplash.jpg",
+            "publishedAt": "2025-02-12T08:15:11Z",
+            "content": "© 2013-2025 TechNews Inc. All rights reserved. | | | |"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "MoneyDJ",
+            "title": "反馬斯克示威蜂起 特斯拉面臨抵制、股價連五黑",
+            "description": "特斯拉執行長馬斯克熱衷政治、帶領政府效率部（DOGE）大幅裁減聯邦僱員，引發民怨，全美各地示威活動蜂起、高呼抵制特斯拉；特斯拉股價已連五個交易日走跌，從高點修正四成。 Business Insider報導，美國民眾對馬斯克的不滿情緒已從社群媒體蔓延至街頭，多個城市出現抵制特斯拉的示威活動，抗議者也呼...",
+            "url": "https://finance.technews.tw/2025/02/27/tesla-is-stumbling-and-analysts-think-elon-musks-politics-are-to-blame/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2022/01/04161551/shutterstock_1140629366.jpg",
+            "publishedAt": "2025-02-27T05:15:26Z",
+            "content": "© 2013-2025 TechNews Inc. All rights reserved. | | | |"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": null,
+            "title": "马斯克的政府效率部成绩存疑 官网数据远不如宣传的鲜亮",
+            "description": "以削减联邦开支为己任的美国政府效率部（DOGE）宣称，迄今已经为联邦节约了550亿美元开支，但该部门官网只显示了其中的166亿美元。这还不包括DOGE网站上数据的一个错误，其将一份合同错误标记为80亿美元，后来在联邦数据库中金额被更正为只有800万美元。这使得包括合同和租赁在内的DOGE联邦支出节省总额减少了近一半，至86亿美元左右。\r\n作为总统特朗普的亲密盟友和DOGE掌门人，马斯克承诺“最大限度地保持透明度”，“所有行动都是公开的”。但DOGE的账目让人怀疑其自我报告的可靠性和问责程度。尽管名为政府效率部，但…",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1480076.htm",
+            "urlToImage": "https://n.sinaimg.cn/finance/transform/116/w550h366/20250220/1d41-769c18c116aa3db5dcf1b2cb7452d714.jpg",
+            "publishedAt": "2025-02-19T17:05:22Z",
+            "content": "DOGE550166DOGE80800DOGE86"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "黃 嬿",
+            "title": "馬斯克雇青年工程師大軍，將以 AI 顛覆美國政府",
+            "description": "馬斯克的政府效率部 (DOGE)，建立一個據稱只有 19~25 歲組成的青年大軍，要攻破美國政府支付系統，最近已經在美國大搞內戰，目的是查看美國政府支出當中的浪費與濫用項目，領導技術部門的馬斯克盟友已告知員工，他們將建立統合的政府資料庫，使用 AI 工具抓爛帳。 與收購 Twitter 時手法如出一...",
+            "url": "https://technews.tw/2025/02/06/young-team-to-upside-down-us-government/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2022/02/24114254/cyber-g35b3541bf_1280.jpg",
+            "publishedAt": "2025-02-06T04:16:31Z",
+            "content": "© 2013-2025 TechNews Inc. All rights reserved. | | | |"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "中央社",
+            "title": "馬斯克政府效率部出招，多個監察中國 NGO 資助遭叫停",
+            "description": "紐約時報報導，美國科技億萬富翁馬斯克執掌的政府效率部，不再交付原來分配給國家民主基金會的資金，該基金會對多個監察中國人權等狀況的非政府組織（NGO）的資助也暫停，這些組織的工作受影響。 美國總統川普任命馬斯克（Elon Musk）執掌政府效率部（DOGE），負責刪減聯邦政府開支。 紐約時報14日報導...",
+            "url": "https://technews.tw/2025/02/17/cuts-to-u-s-backed-rights-groups-seen-as-a-win-for-china/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2022/03/08095336/engin-akyurt-CTsI2OuMYaM-unsplash-e1646704437609.jpg",
+            "publishedAt": "2025-02-17T02:00:06Z",
+            "content": "NGO\r\nElon MuskDOGE\r\n14National Endowment for DemocracyNEDNED\r\nNED\r\nChina Digital Times2013NEDChrystia Freeland\r\nWorld Uyghur CongressNED\r\nChina Labor WatchNED23\r\nUnsplash"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "中央社",
+            "title": "美 19 州興訟，力阻馬斯克所掌部會取得財政部紀錄",
+            "description": "美國 19 州的民主黨籍州檢察長今天控告總統川普，盼阻止科技大亨馬斯克執掌的政府效率部（DOGE）取得財政部紀錄，內含許多美國人的敏感個人資料，例如社會安全碼與銀行帳號。 美聯社報導，由紐約市聯邦法院提出的這起案件，指控川普政府讓馬斯克（Elon Musk）團隊取得財政部中央支付系統的權限，違反聯邦...",
+            "url": "https://infosecu.technews.tw/2025/02/08/federal-judge-blocks-elon-musks-doge-from-accessing-sensitive-us-treasury-department-material/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2024/01/23081044/security-data.jpg",
+            "publishedAt": "2025-02-08T08:45:44Z",
+            "content": "© 2013-2025 TechNews Inc. All rights reserved. | | | |"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "中央社",
+            "title": "美官員：馬斯克助手誤獲權限，可修改財政部支付系統",
+            "description": "美國財政部一名官員 12 日指出，執掌政府效率部（DOGE）的科技大亨馬斯克旗下一名助手，被錯誤授權可以修改財政部高度敏感的支付系統，這套系統內含數以百萬計美國人民個資。 法新社報導，財政部官員在向聯邦法官提交的宣誓聲明中承認，億萬富翁馬斯克（Elon Musk）旗下這名25歲員工，有權限可編輯涉及...",
+            "url": "https://infosecu.technews.tw/2025/02/13/marko-elez-united-states-department-of-the-treasury/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2022/01/11171737/code-gd7e19d2e6_1280.jpg",
+            "publishedAt": "2025-02-13T01:45:15Z",
+            "content": "© 2013-2025 TechNews Inc. All rights reserved. | | | |"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "中央社",
+            "title": "馬斯克政府效率部出招，多個監察中國 NGO 資助遭叫停",
+            "description": "《紐約時報》報導，美國科技億萬富翁馬斯克執掌的政府效率部，不再交付原來分配給國家民主基金會的資金，對多個監察中國人權等的非政府組織（NGO）資助也暫停，這些組織的工作受影響。 美國總統川普任命馬斯克（Elon Musk）執掌政府效率部（DOGE），負責刪減聯邦政府開支。 《紐約時報》14日報導，政府...",
+            "url": "https://finance.technews.tw/2025/02/17/cuts-to-u-s-backed-rights-groups-seen-as-a-win-for-china/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2022/03/08095336/engin-akyurt-CTsI2OuMYaM-unsplash-e1646704437609.jpg",
+            "publishedAt": "2025-02-17T02:00:06Z",
+            "content": "NGO\r\nElon MuskDOGE\r\n14National Endowment for DemocracyNEDNED\r\nNED\r\nChina Digital Times2013NEDChrystia Freeland\r\nWorld Uyghur CongressNED\r\nChina Labor WatchNED23\r\nUnsplash"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "中央社",
+            "title": "川普精簡聯邦機構，大刀砍向稅務員與火箭科學家",
+            "description": "美國聯邦法官允許總統川普繼續進行前所未見的公務員改革，至少目前是如此，川普政府 18 日將銀行監管人員、火箭科學家與稅務執法人員列為解僱目標。 路透社報導，自川普上月就任總統並任命科技億萬富豪馬斯克（Elon Musk）負責對政府進行大刀闊斧的改革以來，馬斯克領導的政府效率部（DOGE）便橫掃各大聯...",
+            "url": "https://technews.tw/2025/02/19/trump-streamlines-federal-agencies-targeting-tax-collectors-and-rocket-scientists/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2023/01/11172554/shutterstock_358278062.jpg",
+            "publishedAt": "2025-02-19T07:00:37Z",
+            "content": "18 \r\nElon MuskDOGE\r\nOffice of Personnel Management188\r\n28\r\nMcLaurine Pinover\r\nJudge Tanya Chutkan\r\nInternal Revenue Service7,500\r\nFederal Deposit Insurance Corporation6,000\r\nNASA1,000\r\nFederal Emerge… [+92 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "中央社",
+            "title": "抗議所為讓美國處於危險，政府效率部三分之一員工辭職",
+            "description": "由億萬富豪馬斯克（Elon Musk）帶領的美國政府效率部（DOGE）約三分之一員工辭職以示抗議，表示他們不會推行讓國家處於危險之中的改革工作。 法新社所見由21名政府效率部員工致白宮幕僚長威爾斯（Susan Wiles）的信函指出：「我們矢言為美國人民服務，歷任總統任期恪遵我們對憲法的誓言。然而，...",
+            "url": "https://technews.tw/2025/02/26/one-third-of-musks-doge-staff-resign-in-protest/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2018/04/11141623/shutterstock_571663528-e1523427455137.jpg",
+            "publishedAt": "2025-02-26T07:00:05Z",
+            "content": "© 2013-2025 TechNews Inc. All rights reserved. | | | |"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "馬斯克兒子「挖鼻屎」抹總統桌　川普反應曝",
+            "description": "[NOWnews今日新聞]美國億萬富豪馬斯克（ElonMusk）週二（11日）與美國總統川普一起出現在白宮橢圓形辦公室，為他主持的政府效率部（DOGE）推動削減聯邦成本計畫進行辯護，不過比起DOGE是...",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2783e805-7979-4a67-9a66-10d89a92f71a",
+            "urlToImage": null,
+            "publishedAt": "2025-02-12T06:04:59Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "周刊王CTWANT |廖梓翔",
+            "title": "馬斯克大動作整頓美國政府　DOGE抓到五角大廈「數十億美元」詐欺濫用行為",
+            "description": "[周刊王CTWANT] 根據《半島電視台》報導指出，馬斯克被川普任命領導新成立的政府效率部，這讓馬斯克得以存取美國政府單位的機密資料，以便推動大規模審計工作。但有批評者則認為，此舉可能導致機密資訊外洩，甚至未經國會批准便徹底重組政府機構，形同「對民主的摧毀」。而美國五角大廈的年...",
+            "url": "https://tw.news.yahoo.com/%E9%A6%AC%E6%96%AF%E5%85%8B%E5%A4%A7%E5%8B%95%E4%BD%9C%E6%95%B4%E9%A0%93%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C-doge%E6%8A%93%E5%88%B0%E4%BA%94%E8%A7%92%E5%A4%A7%E5%BB%88-%E6%95%B8%E5%8D%81%E5%84%84%E7%BE%8E%E5%85%83-%E8%A9%90%E6%AC%BA%E6%BF%AB%E7%94%A8%E8%A1%8C%E7%82%BA-002453013.html",
+            "urlToImage": "https://media.zenfs.com/zh-tw/ctwant_com_582/8e094badf03056c13094ef5f526cb331",
+            "publishedAt": "2025-02-09T16:24:53Z",
+            "content": "[CTWANT] (Department of Government Efficiency, DOGE)DOGE\r\n1202412 (Joe Biden) 9308,950\r\n9\r\n24\r\n (Mike Waltz) \r\n (United States Agency for International Development, USAID) USAID\r\n8 (Consumer Financia… [+47 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "德正",
+            "title": "马斯克政府效率部切断资金 多个聚焦中国人权NGO受影响",
+            "description": "马斯克执掌的政府效率部（DOGE）切断了美国国家民主基金会（NED）的援助资金，让多个本已面临中共威胁的聚焦中国人权问题的NGO组织雪上加霜。",
+            "url": "https://www.dw.com/zh/%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%BF%E5%BA%9C%E6%95%88%E7%8E%87%E9%83%A8%E5%88%87%E6%96%AD%E8%B5%84%E9%87%91-%E5%A4%9A%E4%B8%AA%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83ngo%E5%8F%97%E5%BD%B1%E5%93%8D/a-71642727",
+            "urlToImage": "https://static.dw.com/image/71545415_6.jpg",
+            "publishedAt": "2025-02-17T16:03:00Z",
+            "content": "NED\r\nDOGEUSAIDNEDNED \r\n202525: J. Scott Applewhite/AP/picture alliance\r\nNGO\r\nChrystia FreelandChina Digital TimesNED 404\r\nXiao Qiang\r\n404: Privat\r\nWorld Uyghur Congress NED\r\nNED \r\nChina Labor WatchLi… [+110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "三立新聞網",
+            "title": "威力彩頭獎20.07億一注獨得！「貳獎也7注中獎」各分585萬",
+            "description": "先前威力彩連33槓，今（24）日開獎，頭獎金額為20.07億元，頭獎稍早由新北市樹林區中山路1段73之1號的金發野彩券行開出，頭獎是一注獨得。另外，貳獎則是由7注分得，一注585萬。",
+            "url": "https://tw.news.yahoo.com/%E5%A8%81%E5%8A%9B%E5%BD%A9%E9%A0%AD%E7%8D%8E20-07%E5%84%84-%E6%B3%A8%E7%8D%A8%E5%BE%97-%E8%B2%B3%E7%8D%8E%E4%B9%9F7%E6%B3%A8%E4%B8%AD%E7%8D%8E-%E5%90%84%E5%88%86585%E8%90%AC-144300014.html",
+            "urlToImage": "https://media.zenfs.com/vi/setn.com.tw/94d22f1d66b2639d83b5ed9ab354f539",
+            "publishedAt": "2025-02-24T06:43:00Z",
+            "content": "MoneyDJ 2025-02-24 14:23:01 MarketWatch(223)(AAII)833.9%202311(BofA)2215.3VIX18.4520 Fundstrat Global Advisors LLCTom LeeMarketWatchEPFR2 (Apollo Global Management, Inc.)(Torsten Slok)(DOGE) 21827-13… [+7 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Storm.mg"
+            },
+            "author": "德國之聲",
+            "title": "今天沒有彙報工作進展，就視同提交辭呈！馬斯克對聯邦僱員下達最後通牒，川普拍手叫好",
+            "description": "美國政府效率部（DOGE ）負責人、億萬富翁馬斯克（Elon Musk）周六（2月22日）在社媒平台X上寫道：「根據川普總統的指示，...",
+            "url": "https://www.storm.mg/article/5328725",
+            "urlToImage": "https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2025/02/24/20250224-101347_U29228_M1033526_12ea.jpg?m_VTPzHGZuME0RUvlx9kAiRF8OiI03Vi&itok=g0uP3KDF",
+            "publishedAt": "2025-02-24T04:40:01Z",
+            "content": "DOGE Elon Musk222X\r\n&lt;Google&gt; \r\nAFGEEverett Kelley\r\nNational Treasury Employees Union\r\nTruth Social X\r\n5%\r\nDWInstagramdw.chinese© 2025"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": null,
+            "title": "马斯克发布Grok-3：性能更强了，但真有新突破？",
+            "description": "2月19日消息，美国时间周一，埃隆·马斯克（Elon Musk）旗下的人工智能初创公司xAI发布了其最新大模型Grok-3。该公司不仅演示了新模型的强大性能，还展示了由20万块GPU组成的计算集群，预示着更大的野心。\r\n在发布会上，马斯克及其团队重点强调了Grok-3强大的计算能力、基准测试表现以及即将推出的功能，尽管多数演示内容与竞争对手已实现的功能高度相似。xAI发布会初段的焦点并非人工智能本身，而是名为“巨像”（Colossus）的超级计算集群，该集群由20万块GPU组成，为Grok-3的训练提供算力支撑。…",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1479816.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2025/0219/596ebdd309a214e.jpg",
+            "publishedAt": "2025-02-19T01:36:47Z",
+            "content": "Grok-3\r\nxAIColossus20GPUGrok-310GPU1229220GPUxAI\r\nxAIGPUGPU\r\nGrok-3AIAIMEGPOALCB\r\nxAIChocolateGrok-3LLM ArenaELOGrok-3\r\nGrok-3\"\"Reasoning BetaAIME 20259387\r\nGrok-3 MiniGrok-3\r\nGrok-3xAIChatGPTClaudeG… [+354 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": null,
+            "title": "砸车喷漆放火，特斯拉美国车主因马斯克瑟瑟发抖",
+            "description": "如果说以前拥有特斯拉，会让车主感到骄傲，那么现在美国的特斯拉车主，则担心自己的爱车会因为马斯克的争议言行，而成为发泄的对象。越来越多的特斯拉被喷漆、砸车甚至是纵火。\r\n“这是真的仇恨。特斯拉这个品牌已经毁了。我得卖掉我的CyberTruck。”在目睹一辆特斯拉CyberTruck被喷上“Fxxk 马斯克”字样之后，美国知名投资者罗斯·盖博（Ross Gerber）这样感慨说。他共同创办的Gerber Kawasaki财富管理公司是特斯拉的早期投资者，也因为特斯拉股价从2019年以来的持续飙升而赚得钵满盆满。尽管此…",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1481002.htm",
+            "urlToImage": "https://n.sinaimg.cn/finance/transform/290/w550h540/20250224/c88f-81fcab0bda16629edc5a78713fbf72ac.png",
+            "publishedAt": "2025-02-24T04:05:39Z",
+            "content": "CyberTruckCyberTruckFxxk ·Ross GerberGerber Kawasaki2019\r\nGerber Kawasaki12025\r\n2.5\r\nDOGE\r\nNHTSA\r\nLoveland\r\nSalem\r\n85%\r\nPew Research Center1500054%67%85%73%\r\n22024273%70%\r\n1\r\n1791.1%36.7%34.8%18.3%8.… [+253 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": null,
+            "title": "X正在禁止转向Signal加密消息服务的链接 因为联邦雇员通过它向记者爆料",
+            "description": "埃隆-马斯克（Elon Musk）的社交媒体平台 X 正在禁止指向\"Signal.me\"的链接，这是加密信息服务 Signal 使用的一个 URL。\"Signal.me\"域名是该服务专门使用的，用户可以通过该消息应用程序发送快速链接，直接与目标联系人取得联系。\r\n</form>X（Twitter 的前身）阻止用户通过 DM、公开发布甚至在个人资料页面中发布\"Signal.me\"链接。 在尝试发布 Signal 链接时，用户会收到各种不同的\"消息失败\"提示，这取决于他们使用的 X 平台版本（如 X for Web、…",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1479402.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2025/0217/89cf8025e8d8b50.webp",
+            "publishedAt": "2025-02-17T12:36:30Z",
+            "content": "XTwitter DM\"Signal.me\" Signal \"\" X X for WebX for iPhone \r\nX \"Signal.me\"\" X \"\r\n\"\"\" \"\r\n\"Signal.me\"\" \"\r\nX URL \"Signal.me\"\r\n X \"Signal.me\" X \" X URL X \"Signal.me\"URL\r\nX \"Signal.me\" \"Signal.me\" Signal Si… [+149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Secretchina.com"
+            },
+            "author": "www.secretchina.com",
+            "title": "川普下令联邦机构披露浪费性支出细节(图)",
+            "description": "美国总统川普周二（2月18日）向联邦政府官员发出严正警告，要求各行政部门和联邦机构的领导人全面公开财政支出情况，并强调政府资金的使用必须做到“彻底透明”。这一指令正值“政府效率部”（DOGE）大规模审计联邦机构之际。",
+            "url": "https://www.secretchina.com/news/gb/2025/02/19/1077901.html",
+            "urlToImage": "https://img6.secretchina.com/pic/2025/2-19/p3621241a638251203-ss.jpg",
+            "publishedAt": "2025-02-19T00:59:52Z",
+            "content": "2025214SAUL LOEB/AFP via Getty Images \r\n2025219()218DOGE \r\n• \r\n• \r\n• \r\n• \r\nKaroline LeavittHannityDOGE \r\nDOGE \r\n:\r\n:\r\n."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Secretchina.com"
+            },
+            "author": "www.secretchina.com",
+            "title": "DOGE调查FBI官员名单 5000特工或被解雇(图)",
+            "description": "埃隆・马斯克的DOGE迫使FBI交出参与1月6日案件的5,000名官员名单，这些官员因未通过川普为普通员工设立的“忠诚度测试”而可能被解雇。",
+            "url": "https://www.secretchina.com/news/gb/2025/02/05/1077146.html",
+            "urlToImage": "https://img6.secretchina.com/pic/2024/9-4/p3534861a307150799-ss.jpg",
+            "publishedAt": "2025-02-04T23:12:41Z",
+            "content": "2001718FBIAlex Wong/Getty Images \r\n202525DOGEFBI165,000() \r\nCNNDOGEFBIFBI \r\n202116\r\nFBIFBI2016 \r\nRichard DurbinJames McHenryFBIBrian DriscollFBI \r\nEmil Bove131FBI16FBI\r\nQAnonSamuel FisherAR-15 \r\n5,00… [+104 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Secretchina.com"
+            },
+            "author": "www.secretchina.com",
+            "title": "USAID关闭 中共别有用心想填空有能力吗？(图)",
+            "description": "中国对受援国的政治治理能力建设从不缺席，投资的主要是政党执政能力、中国共产党的执政历程和治理经验、中国改革开放的实践等等。 新闻 美国 - 看中国》是总部设于美国、以复兴传统中华文化为理念的独立媒体。自2001年起，坚持报道最新社会焦点和传统文化专题，中文报纸已在北美、欧洲、澳洲、亚洲等17个国家发行。中国新闻,中国大陆新闻,内幕新闻,中文媒体,新闻评论,时事,财经,博谈,历史,文化,养生,娱乐,奇闻。",
+            "url": "https://www.secretchina.com/news/gb/2025/02/22/1078039.html",
+            "urlToImage": "https://img6.secretchina.com/pic/2025/2-7/p3617061a144453781-ss.jpg",
+            "publishedAt": "2025-02-21T17:45:36Z",
+            "content": "2006510USAIDCARE international:  JAMAL ARURI/AFP via Getty Images)  \r\n2025222()(DOGE)(USAID)1201281300 \r\n—— \r\nhttps://foreignassistance.gov202342017094703513117.47.216 \r\n180 \r\n20212013201827022015415… [+116 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Secretchina.com"
+            },
+            "author": "www.secretchina.com",
+            "title": "川普100％反对限制DOGE权限 称法官裁决荒谬(图)",
+            "description": "在接受《福克斯新闻》专访时，美国总统川普表示，他“百分之百”反对联邦法官周六的裁决，该裁决禁止政府效率部（DOGE）访问财政部系统。 新闻 美国 - 看中国》是总部设于美国、以复兴传统中华文化为理念的独立媒体。自2001年起，坚持报道最新社会焦点和传统文化专题，中文报纸已在北美、欧洲、澳洲、亚洲等17个国家发行。中国新闻,中国大陆新闻,内幕新闻,中文媒体,新闻评论,时事,财经,博谈,历史,文化,养生,娱乐,奇闻。",
+            "url": "https://www.secretchina.com/news/gb/2025/02/10/1077468.html",
+            "urlToImage": "https://img6.secretchina.com/pic/2025/1-31/p3613252a373113014-ss.jpg",
+            "publishedAt": "2025-02-10T15:12:02Z",
+            "content": "2025130Chip Somodevilla/Getty Images \r\n2025210/()DOGE \r\nBret Baier19DOGE\r\n28Paul Engelmayer19214 \r\nLetitia JamesScott Bessent \r\nDOGE211 \r\nX \r\nDOGEMarco Rubio \r\nHarrison Fields \r\nJustin Trudeau512000 … [+8 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Secretchina.com"
+            },
+            "author": "www.secretchina.com",
+            "title": "马斯克在川普批准下连夜关闭USAID 600人失业(图)",
+            "description": "埃隆・马斯克在川普接管美国国际开发署（USAID）仅数小时后，批准关闭该机构，并连夜让600名员工失去工作。 新闻 美国 - 看中国》是总部设于美国、以复兴传统中华文化为理念的独立媒体。自2001年起，坚持报道最新社会焦点和传统文化专题，中文报纸已在北美、欧洲、澳洲、亚洲等17个国家发行。中国新闻,中国大陆新闻,内幕新闻,中文媒体,新闻评论,时事,财经,博谈,历史,文化,养生,娱乐,奇闻。",
+            "url": "https://www.secretchina.com/news/gb/2025/02/03/1077068.html",
+            "urlToImage": "https://img6.secretchina.com/pic/2025/1-23/p3607572a951630079-ss.jpg",
+            "publishedAt": "2025-02-03T13:43:11Z",
+            "content": "SpaceXX·2025120·Kevin Lamarque - Pool/Getty Images \r\n202523()USAID600\r\nUSAID \r\nX\r\nUSAID2016USAID10,23520234001%130283 \r\nUSAID60023Gavin KligerDOGEOPM \r\nUSAIDUSAIDDOGE \r\nDOGE——John VoorheesBrian McGil… [+144 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Moneydj理財網",
+            "title": "美國消費者信心下滑、逾5成預期利率將在1年內走高",
+            "description": "MoneyDJ新聞 2025-02-26 06:57:17 記者 賴宏昌 報導經濟諮商理事會(The Conference Board)週二(2月25日)公布，2025年2月美國消費者信心指數下跌7.0點至98.3(1985年=100)。經濟諮商理事會委託Toluna進行的調查初步結果截止日期為2025年2月19日。 Reuters週二報導，美國2月消費者信心指數創2024年6月以來最低、遜於經濟學家預期的102.5。 美國2月消費者信心指數調查顯示，回答「工作機會很多」的受訪者比例自1月的33.9%降至33.4…",
+            "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E6%B6%88%E8%B2%BB%E8%80%85%E4%BF%A1%E5%BF%83%E4%B8%8B%E6%BB%91-%E9%80%BE5%E6%88%90%E9%A0%90%E6%9C%9F%E5%88%A9%E7%8E%87%E5%B0%87%E5%9C%A81%E5%B9%B4%E5%85%A7%E8%B5%B0%E9%AB%98-225700243.html",
+            "urlToImage": "https://media.zenfs.com/ko/moneydj.tw/f22aaba342838e252712340c8cad7c7d",
+            "publishedAt": "2025-02-25T14:57:00Z",
+            "content": "MoneyDJ 2025-02-26 06:57:17 \r\n(The Conference Board)(225)202527.098.3(1985=100)Toluna2025219\r\nReuters220246102.5\r\n2133.9%33.4%14.5%16.3%119.417.1\r\n(BLS)24202412(JOLTS)33.4%202023.9%\r\n23.4136.59.372.9… [+185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Secretchina.com"
+            },
+            "author": "www.secretchina.com",
+            "title": "解密文件揭USAID曾资助基地组织恐怖分子大学学费(图)",
+            "description": "据最新解密文件显示，美国国际开发署（USAID）曾为后来成为基地组织重要成员的安瓦尔・奥拉基（Anwar al－Awlaki）提供科罗拉多州立大学的全额学费资助。这一发现在当前美国政府严查该机构背景下引发广泛关注。 新闻 美国 - 看中国》是总部设于美国、以复兴传统中华文化为理念的独立媒体。自2001年起，坚持报道最新社会焦点和传统文化专题，中文报纸已在北美、欧洲、澳洲、亚洲等17个国家发行。中国新闻,中国大陆新闻,内幕新闻,中文媒体,新闻评论,时事,财经,博谈,历史,文化,养生,娱乐,奇闻。",
+            "url": "https://www.secretchina.com/news/gb/2025/02/12/1077521.html",
+            "urlToImage": "https://img6.secretchina.com/pic/2025/2-11/p3618671a93760018-ss.jpg",
+            "publishedAt": "2025-02-12T00:50:28Z",
+            "content": "202527USAIDKayla Bartkowski/Getty Images \r\n2025211/USAIDAnwar alAwlaki \r\n2011Obama2009Fort HoodNidal Hasan13 \r\nDOGE\r\n19906USAID1971Las Cruces \r\nGeorge Washington University20151994 \r\n200420009/11Khal… [+188 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "鉅亨網記者張韶雯 台北",
+            "title": "美股不「美」了？專家：逢低進場「這主題」ETF搭MAGA順風車",
+            "description": "美股近來不平靜，川普日前宣布對加、墨、中加徵關稅，以及研議將徵收晶片關稅，美股震盪持續，加上近期公布經濟數據及就業市場佳，市場擔憂通膨重燃、並使聯準會暫停降息，面對開年即疲弱的股市，應如何操作？野村投信根據過往統計，在美",
+            "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%8D-%E7%BE%8E-%E4%BA%86-%E5%B0%88%E5%AE%B6-%E9%80%A2%E4%BD%8E%E9%80%B2%E5%A0%B4-025452026.html",
+            "urlToImage": "https://media.zenfs.com/ko/cnyes.com.tw/d4d59484fb843d974b6e63fc5389719b",
+            "publishedAt": "2025-02-03T18:54:52Z",
+            "content": "S&amp;P 500 3 3.41% 13.77% 20%\r\n00971 ETF 10 S&amp;P 500 60 120a 240 ( 3 6 1 ) + 3.41%+6.50% + 13.77%\r\n NASDAQ + 4.24%+7.80% + 16.77% 10 60 120 240 + 4.70%+9.07% + 19.77% S&amp;P 500 NASDAQ \r\n2025 IT… [+93 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "邱立玲",
+            "title": "美國聯邦機關「優離方案」被推遲　馬斯克多了4天可遊說更多公務員辭職",
+            "description": "儘管特斯拉執行長馬斯克領導的美國政府效率部（DOGE）遭遇越來越多阻力，並招致多",
+            "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E8%81%AF%E9%82%A6%E6%A9%9F%E9%97%9C-%E5%84%AA%E9%9B%A2%E6%96%B9%E6%A1%88-%E8%A2%AB%E6%8E%A8%E9%81%B2-%E9%A6%AC%E6%96%AF%E5%85%8B%E5%A4%9A%E4%BA%864%E5%A4%A9%E5%8F%AF%E9%81%8A%E8%AA%AA%E6%9B%B4%E5%A4%9A%E5%85%AC%E5%8B%99%E5%93%A1%E8%BE%AD%E8%81%B7-090520820.html",
+            "urlToImage": "https://media.zenfs.com/no/cmmedia.com.tw/7fbfdaee6db34ce6febe33e86227cf34",
+            "publishedAt": "2025-02-08T01:05:20Z",
+            "content": "[CTWANT] 1251009060602452624.537112523.58..."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": null,
+            "title": "马斯克的DOGE风风火火降开支 但债市根本不买账",
+            "description": "尽管DOGE团队声称已经实现了550亿美元的支出削减，但这一数字占年度预算的比例极其微小，远不足以影响1.8万亿美元的预算赤字。自特朗普上任以来，10年期美债收益率一直在4.4%至4.7%之间波动，高于他当选前夕的4.3%左右。在特朗普第二任期伊始，马斯克领导的政府效率部（DOGE）掀起了一场声势浩大的削减开支运动。\r\n尽管DOGE团队声称已经实现了550亿美元的支出削减，但这一数字占年度预算的比例极其微小，远不足以影响1.8万亿美元的预算赤字。此外，这场运动的成效似乎并未得到美债市场的认可。自特朗普上任以来，1…",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1481438.htm",
+            "urlToImage": "https://n.sinaimg.cn/spider20250225/141/w1024h717/20250225/c119-11e3c6885478f12b594b3c9cb0bf7450.png",
+            "publishedAt": "2025-02-25T08:35:54Z",
+            "content": "DOGE5501.8\r\n104.4%4.7%4.3%\r\n2000Anna Wong4000GDP\r\nDOGE55071%1.8\r\nKent Smetters\r\nXDOGE104.4%4.7%DOGE3.8%104.37%\r\nDOGE13%\r\nAlphaSimplex GroupKathryn Kaminski\r\nING Financial MarketsPadhraic Garvey4%\r\n20… [+17 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": null,
+            "title": "DOGE爆发内讧，三分之一员工集体辞职：不会再帮马斯克",
+            "description": "据美国全国公共广播电台（NPR）周二报道，美国政府效率部（DOGE）已有21名员工辞职，占该部门员工数量的三分之一。报道称，提出辞职的21名员工，主要由软件工程师和产品经理构成。他们曾是美国数字服务局（US Digital Service）的成员，该机构后更名为美国政府效率部，也就是现在的DOGE。\r\n辞职的21名员工曾是美国数字服务局的成员，他们在辞职信表示，拒绝利用自己的技能帮助马斯克“破坏关键的公共服务”，并强调，马斯克只关心夺取权力，让自己的财富更加丰厚。DOGE 员工集体出走，给“马部长”的改革大业蒙上…",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1481774.htm",
+            "urlToImage": "https://n.sinaimg.cn/sinakd20250209s/125/w1035h690/20250209/0a34-6a08ea4cfa6254a3ac03cbb052106d8b.png",
+            "publishedAt": "2025-02-26T13:05:09Z",
+            "content": "NPRDOGE2121US\r\n Digital ServiceDOGE"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "民視新聞網",
+            "title": "新北重啟前30分鐘免費 29行政區\"區區有YouBike\"",
+            "description": "社會中心／吳玟誼 李奕翰 新北報導腳踏車族有福啦！3月1號起，新北市重新啟動YouBike前30分鐘免費，同時貢寮區、烏來區也進駐YouBike租賃站，達到新北市29個行政區、區區有YouBike。另外，世壯運即將到來，也在場館周邊增加站點，讓民眾看比賽更便利。",
+            "url": "https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E9%87%8D%E5%95%9F%E5%89%8D30%E5%88%86%E9%90%98%E5%85%8D%E8%B2%BB-29%E8%A1%8C%E6%94%BF%E5%8D%80-%E5%8D%80%E5%8D%80%E6%9C%89youbike-063347404.html",
+            "urlToImage": "https://media.zenfs.com/ko/ftvn.com.tw/b3a526204d02daa95ff9f8efc0f9b2a9",
+            "publishedAt": "2025-02-26T01:16:04Z",
+            "content": "[NOWnews]DonaldTrumpElonMuskDepartmentofGovernmentEfficiency,DOGE..."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "記者林則澄／台北即時報導",
+            "title": "吃藥壓胃痛！ 40多歲公司高管罹患「萎縮性胃炎」",
+            "description": "一名40多歲電子公司高階主管，由於胃部頻繁悶脹，就醫檢查出萎縮性胃炎。經醫師問診後發現，偏好重口味飲食、嗜菸酒的他，有慢...",
+            "url": "https://tw.news.yahoo.com/%E5%90%83%E8%97%A5%E5%A3%93%E8%83%83%E7%97%9B-40%E5%A4%9A%E6%AD%B2%E5%85%AC%E5%8F%B8%E9%AB%98%E7%AE%A1%E7%BD%B9%E6%82%A3-%E8%90%8E%E7%B8%AE%E6%80%A7%E8%83%83%E7%82%8E-073220141.html",
+            "urlToImage": "https://media.zenfs.com/ko/udn.com/4f14f1c775c009aab34d62f9e1fed4f9",
+            "publishedAt": "2025-02-23T23:32:20Z",
+            "content": "[NOWnews]DonaldTrumpElonMuskDepartmentofGovernmentEfficiency,DOGE..."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Storm.mg"
+            },
+            "author": "中央社",
+            "title": "瘦身聯邦政府揮大刀！馬斯克：正關閉美國國際開發總署，「這就是個犯罪組織」",
+            "description": "獲美國總統川普欽點掌管政府效率部（DOGE）的馬斯克3日說明聯邦政府瘦身政策的最新執行狀況，並稱正關閉規模全球最大的美國援外機構「...",
+            "url": "https://www.storm.mg/article/5317827",
+            "urlToImage": "https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2025/01/21/20250121-022023_U1085_M1026029_64db.jpg?82IrgL4ognup9znFP7fYGtZEBIVniRyG&itok=1mlFqL-C",
+            "publishedAt": "2025-02-04T00:55:27Z",
+            "content": "DOGE3USAID\r\nElon Musk3XDOGEVivek RamaswamyJoni ErnstUSAIDUSAIDCovid-19\r\n&lt;Google&gt; \r\n3CNNUSAIDUSAID1USAIDUSAID\r\n2USAID133\r\nUSAID12023720238102024USAID42%\r\nCNNDepartment of Government EfficiencyDO… [+61 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Storm.mg"
+            },
+            "author": "風傳媒綜合報導",
+            "title": "馬斯克大查帳效應　美聯邦這幾個部會成立內部小組梳理資金運用",
+            "description": "美國政府效率部（DOGE）近期在特斯拉執行長馬斯克（Elon Musk）的領導下，展開大規模聯邦政府預算改革，成效開始逐步顯現。...",
+            "url": "https://www.storm.mg/article/5325063",
+            "urlToImage": "https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2025/02/04/20250204-054641_U29228_M1028769_e1b1.jpg?uMyMrkUW7VIYLbFhM.4y5Txg.zEX1Tes&itok=tLabX53R",
+            "publishedAt": "2025-02-17T03:28:10Z",
+            "content": "DOGEElon MuskHUD14\r\n&lt;Google&gt; \r\nHUD1519\r\nHUD\r\nEPALee Zeldin145000Climate Justice Alliance5000\r\nPete Hegseth"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Storm.mg"
+            },
+            "author": "風傳媒綜合報導",
+            "title": "馬斯克要美國公務員交代「上周做什麼」　這些部會回應了",
+            "description": "美國國防部近日通知其文職人員，無需理會億萬富翁、政府效能部（DOGE）負責人伊隆．馬斯克（Elon Musk）要求回報生產力的指示，...",
+            "url": "https://www.storm.mg/article/5328990",
+            "urlToImage": "https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2025/02/24/20250224-101347_U29228_M1033526_12ea.jpg?m_VTPzHGZuME0RUvlx9kAiRF8OiI03Vi&itok=g0uP3KDF",
+            "publishedAt": "2025-02-24T04:47:43Z",
+            "content": "FBIKash PatelFBIOPMFBI22PTibor P. Nagy"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Storm.mg"
+            },
+            "author": "田暢",
+            "title": "北京觀察》美國家民主基金會資金被凍結　中共黨媒：「第二中情局」早該關門了！",
+            "description": "馬斯克領導的政府效率部（DOGE）大刀揮向長期關注大陸異見動態的非政府組織，及為媒體提供幫助的「美國國家民主基金會」（NED），...",
+            "url": "https://www.storm.mg/article/5325248",
+            "urlToImage": "https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2025/02/17/20250217-032255_U1004_M1031968_56d2.jpg?LZkh2yudoccK1rPhshB89NdbqueaVZz2&itok=sgHNLid-",
+            "publishedAt": "2025-02-17T09:01:49Z",
+            "content": "NED2011·2011Washington Oxi Day Foundation"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Storm.mg"
+            },
+            "author": "吳辰君",
+            "title": "川普強推裁員，自己人也挺不下去！政府效率部3分之1員工辭職，馬斯克回應：這些「殘渣」遲早也會被我開除",
+            "description": "由馬斯克（Elon Musk）掌管的美國政府效率部（DOGE）3分之1的員工在25日集體辭職，他們表示不願推動川普和馬斯克要求的改革，...",
+            "url": "https://www.storm.mg/article/5330795",
+            "urlToImage": "https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2025/02/27/20250227-095638_U1085_M1034503_1e79.jpg?A8FrmOdK4z.9Pd6kEmVmstQXcR4Hmgae&itok=QOEC7-VZ",
+            "publishedAt": "2025-02-27T02:04:49Z",
+            "content": "Elon MuskDOGE3125X\r\n21US Digital Service, USDS Google Amazon120\r\n&lt;Google&gt; \r\nKaroline Leavitt\r\nDepartment of Veterans Affairs251,4002131,000Jonathan Kamens24\r\nIRS7,000DOGE2302"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "祝潤霖",
+            "title": "馬斯克滅蛀蟲砍到沈伯洋？USAID遭爆資助台1組織4千萬",
+            "description": "美國總統川普上任後，由特斯拉創辦人馬斯克領軍的政府效率部（DOGE）對政府各單位進行樽節開支。據外媒報導，DOGE大刀一砍，影響的單位竟包括與綠委沈伯洋有關的「台灣民主實驗室」。粉專狠批沈伯洋打著民主名堂跟美國拿錢。",
+            "url": "https://tw.news.yahoo.com/%E9%A6%AC%E6%96%AF%E5%85%8B%E6%BB%85%E8%9B%80%E8%9F%B2%E7%A0%8D%E5%88%B0%E6%B2%88%E4%BC%AF%E6%B4%8B-usaid%E9%81%AD%E7%88%86%E8%B3%87%E5%8A%A9%E5%8F%B01%E7%B5%84%E7%B9%944%E5%8D%83%E8%90%AC-134436907.html",
+            "urlToImage": "https://media.zenfs.com/zh-tw/chinatimes.com.tw/2c1948e12269a0605273c4f4e6a4e787",
+            "publishedAt": "2025-02-23T05:44:36Z",
+            "content": "DOGEDOGE\r\nUSAIDDOGE\r\n20202020199800202249988020236513496004425"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Storm.mg"
+            },
+            "author": "風傳媒綜合報導",
+            "title": "拜登偷看劇本「預赦免」？馬斯克宣稱抗新冠要角主導機構有流向不明資金",
+            "description": "美國政府效率部（DOGE）負責人馬斯克（Elon Musk）大動作整頓聯邦政府部門，獲得美國總統川普（Donald Trump）全力支持。...",
+            "url": "https://www.storm.mg/article/5318765",
+            "urlToImage": "https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2022/08/23/20220823-102129_U1085_M787078_0657.jpg?itok=SYv-hiZi",
+            "publishedAt": "2025-02-05T04:54:45Z",
+            "content": "DOGEElon MuskDonald TrumpUSAIDTesla\r\n&lt;Google&gt; \r\n38Covid-19AIDS2014\r\n2014\r\nMark Milley"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Secretchina.com"
+            },
+            "author": "www.secretchina.com",
+            "title": "俄占乌领地向中共释危险讯号？川普：有胆试试看(图)",
+            "description": "美国总统川普于2月26日召开第二任内首次内阁会议，就记者提出的有关如何尽快结束俄乌战争的尖锐问题，川普及其副总统万斯都给予了明智回答。 新闻 美国 - 看中国》是总部设于美国、以复兴传统中华文化为理念的独立媒体。自2001年起，坚持报导最新社会焦点和传统文化专题，中文报纸已在北美、欧洲、澳洲、亚洲等17个国家发行。中国新闻,中国大陆新闻,内幕新闻,中文媒体,新闻评论,时事,财经,博谈,历史,文化,养生,娱乐,奇闻。",
+            "url": "https://www.secretchina.com/news/gb/2025/02/27/1078309.html",
+            "urlToImage": "https://img6.secretchina.com/pic/2025/2-27/p3624402a561431699-ss.jpg",
+            "publishedAt": "2025-02-27T06:06:55Z",
+            "content": "2025 2 26 ··SpaceXDOGE(Andrew Harnik/Getty Images) \r\n2025227/226 \r\n226 \r\n· \r\n-212 \r\n24 \r\n26\r\n4 \r\n227 \r\n26 \r\n28 \r\n225 \r\n50% \r\nThe Government of the United States of America supports Ukraine’s efforts … [+157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "美官員披露：馬斯克助手誤獲權限 可修改財政部支付系統",
+            "description": "（法新社華盛頓11日電） 美國財政部1名官員今天指出，執掌政府效率部（DOGE）的科技大亨馬斯克旗下1名助手，被錯誤授權可以修改財政部高度敏感的支付系統，這套系統內含數以百萬計美國人民個資。財政部官員在向聯邦法官提交的宣誓聲明中承認，億萬富翁馬斯克（Elon Musk）旗下這名25歲員工，有權限可編輯涉及數以兆計美元的政府支付系統。",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5969a317-398f-46b3-8b4a-e3d3f5812fab",
+            "urlToImage": null,
+            "publishedAt": "2025-02-12T05:50:01Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "財訊快報",
+            "title": "馬斯克DOGE大刀砍向FDA負責審查Neuralink員工",
+            "description": "【財訊快報／陳孟朔】據兩位知情人士向路透透露，美國食品藥物管理局(FDA)負責審查馬斯克(Elon Musk)腦機接口公司Neuralink的員工上週末被解雇，這是政府效率部(DOGE)大裁員的一部分。據這兩名不願透露姓名的消息人士透露，此次在FDA神經和物理醫學設備辦公室有約20人被裁，其中幾人曾負責審查Neuralink的工作。但這兩位消息人士都提到，他們並不認為這些員工是因為從事與Neuralink有關的工作而被裁的。據消息人士和外部專家表示，大約20名員工的流失將阻礙該機構快速、安全地處理包括Neural…",
+            "url": "https://tw.stock.yahoo.com/news/%E9%A6%AC%E6%96%AF%E5%85%8Bdoge%E5%A4%A7%E5%88%80%E7%A0%8D%E5%90%91fda%E8%B2%A0%E8%B2%AC%E5%AF%A9%E6%9F%A5neuralink%E5%93%A1%E5%B7%A5-014329268.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-17T17:43:29Z",
+            "content": "(FDA)(Elon Musk)Neuralink(DOGE)FDA20Neuralink\r\nNeuralink\r\n20Neuralink\r\nFDAVictor Krauthamer\"NeuralinkFDA\""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "編譯簡國帆／綜合外電",
+            "title": "葉倫等五位美國前財長聯名投書 抨擊馬斯克DOGE恐有違憲之虞",
+            "description": "葉倫（Janet L. Yellen）與桑默斯（Lawrence H. Summers）等五位美國前財長聯名投書紐約時報...",
+            "url": "https://tw.news.yahoo.com/%E8%91%89%E5%80%AB%E7%AD%89%E4%BA%94%E4%BD%8D%E7%BE%8E%E5%9C%8B%E5%89%8D%E8%B2%A1%E9%95%B7%E8%81%AF%E5%90%8D%E6%8A%95%E6%9B%B8-%E6%8A%A8%E6%93%8A%E9%A6%AC%E6%96%AF%E5%85%8Bdoge%E6%81%90%E6%9C%89%E9%81%95%E6%86%B2%E4%B9%8B%E8%99%9E-223146163.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-11T14:31:46Z",
+            "content": "Janet L. YellenLawrence H. SummersDOGE\r\nRobert E. RubinTimothy F. GeithnerJacob J. Lew\r\nDOGE\r\nDOGE80\r\n18\r\nKevin Hassett\r\nudn4AV 750NCC Cheap1"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "國際中心顏得智／綜合報導",
+            "title": "美國白宮打破慣例！將自行決定誰能採訪川普",
+            "description": "[NOWnews今日新聞]美國白宮今天宣布，將收回白宮記者協會（WhiteHouseCorrespondents'Association）選擇白宮採訪記者團的權力，未來將由白宮自行決定誰能採訪...",
+            "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E7%99%BD%E5%AE%AE%E6%89%93%E7%A0%B4%E6%85%A3%E4%BE%8B-%E5%B0%87%E8%87%AA%E8%A1%8C%E6%B1%BA%E5%AE%9A%E8%AA%B0%E8%83%BD%E6%8E%A1%E8%A8%AA%E5%B7%9D%E6%99%AE-103149911.html",
+            "urlToImage": "https://media.zenfs.com/ko/nownews.com/dd124d0194449fd861338c3c859e9594",
+            "publishedAt": "2025-02-26T02:31:49Z",
+            "content": "[NOWnews] White House Correspondents' Association\r\nKaroline Leavitt\r\nAir Force One\r\nGulf of MexicoGulf of America\r\nEugene Daniels\r\n NOWnews DOGE"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Secretchina.com"
+            },
+            "author": "www.secretchina.com",
+            "title": "法官裁决：暂不阻止马斯克解雇联邦工作人员和获取数据(图)",
+            "description": "一位美国法官拒绝立即阻止由唐纳德・川普总统组建、埃隆・马斯克领导的实体“政府效率部”（DOGE）下令解雇联邦工作人员或访问七个机构的数据库。",
+            "url": "https://www.secretchina.com/news/gb/2025/02/19/1077893.html",
+            "urlToImage": "https://img6.secretchina.com/pic/2025/2-19/p3621182a846429786-ss.jpg",
+            "publishedAt": "2025-02-18T23:17:50Z",
+            "content": "Copyright © 2001 - Kanzhongguo.com All Rights Reserved."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "黃凡甄採訪",
+            "title": "美聯邦法院緊急下令 阻止馬斯克效率部取得財政部資料",
+            "description": "法新社報導，美國一名法官今天(8日)發出緊急命令，阻止科技大亨馬斯克(Elon Musk)領導的政府效率部(DOGE)取得財政部的紀錄，當中包含民眾的個人資料。 美國聯邦地區法院法官恩格邁爾(Paul A. Engelmayer)下令，限制 「所有政治任命者、特殊政府雇員以及財政部以外機構派遣的政府雇員」取得財政部支付系統和其他資料的權限。 這項臨時禁制令的效力將持續到2月14日聽證會前，該命令並要求任何在川普1月20日就任後取得財政部紀錄的相關人員，必須「把所有下載的資料立即銷毀」。 世界首富馬斯克被川普任命為…",
+            "url": "https://tw.news.yahoo.com/%E7%BE%8E%E8%81%AF%E9%82%A6%E6%B3%95%E9%99%A2%E7%B7%8A%E6%80%A5%E4%B8%8B%E4%BB%A4-%E9%98%BB%E6%AD%A2%E9%A6%AC%E6%96%AF%E5%85%8B%E6%95%88%E7%8E%87%E9%83%A8%E5%8F%96%E5%BE%97%E8%B2%A1%E6%94%BF%E9%83%A8%E8%B3%87%E6%96%99-133729220.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-08T05:37:29Z",
+            "content": "(8)(Elon Musk)(DOGE)\r\n(Paul A. Engelmayer) \r\n214120\r\n197(Scott Bessent)\r\n(Bureau of the Fiscal Service)\r\n19 X"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "The Central News Agency 中央通訊社",
+            "title": "傳美推動台積電與英特爾合資 專家：比課關稅更不利",
+            "description": "（中央社記者張建中新竹13日電）根據國際金融服務供應商貝雅（Baird）發布報告指出，美國政府可能正在推動一項涉及晶片製造商英特爾（Intel）和台積電組成合資公司的計畫，消息一出引發市場震撼，半導體業專家直言，這對台積電是最差的選項，比起課徵關稅更不利，台積電會面臨技術外流風險。",
+            "url": "https://tw.news.yahoo.com/%E5%82%B3%E7%BE%8E%E6%8E%A8%E5%8B%95%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%88%87%E8%8B%B1%E7%89%B9%E7%88%BE%E5%90%88%E8%B3%87-%E5%B0%88%E5%AE%B6-%E6%AF%94%E8%AA%B2%E9%97%9C%E7%A8%85%E6%9B%B4%E4%B8%8D%E5%88%A9-033915469.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-12T19:39:15Z",
+            "content": "(Office of Personnel Management, OPM)1275,000(Donald Trump) 230 70% 10314 (Elon Musk)(Department of Government Efficiency, DOGE)6.751"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "工商時報 大陸國際新聞中心",
+            "title": "美國｜DOGE獲取資料受阻 馬斯克痛罵法官",
+            "description": "特斯拉執行長馬斯克率領的政府效率部（DOGE）上周遭美國聯邦法院暫時禁止登入財政部中央支付系統後，馬斯克勃然大怒，不僅在X平台上痛罵法官恩格邁爾（Paul Engelmayer）「腐敗」，還發文要求國會即刻彈劾恩格邁爾。美國總統川普欽點馬斯克領導政府效率部把關聯邦預算後，馬斯克已鎖定美國國際開發署（USAID）。",
+            "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B-doge%E7%8D%B2%E5%8F%96%E8%B3%87%E6%96%99%E5%8F%97%E9%98%BB-%E9%A6%AC%E6%96%AF%E5%85%8B%E7%97%9B%E7%BD%B5%E6%B3%95%E5%AE%98-180516473.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-10T10:05:16Z",
+            "content": "[FTNN]10226.130.96%23,252.143253.17..."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "德國之聲",
+            "title": "倫敦上千人抗議興建巨型中國使館",
+            "description": "由於擔心中國可能在倫敦市中心建設巨型大使館，數千人周六聚集在前皇家鑄幣廠抗議。工黨和保守黨政治家對於是否應批准建造申請持不同看法，該提案的聽證會將於下周開始。",
+            "url": "https://tw.news.yahoo.com/%E5%80%AB%E6%95%A6%E4%B8%8A%E5%8D%83%E4%BA%BA%E6%8A%97%E8%AD%B0%E8%88%88%E5%BB%BA%E5%B7%A8%E5%9E%8B%E4%B8%AD%E5%9C%8B%E4%BD%BF%E9%A4%A8-142400492.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-09T06:24:00Z",
+            "content": "(Consumer Finance Protection Bureau,CFPB)8(Elon Musk) 7XCFPB X CFPB(DOGE) 1008CFPB(Donald Trump) (Office of Management and Budget,OMB)OMB(Russell Vought)7"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Secretchina.com"
+            },
+            "author": "www.secretchina.com",
+            "title": "DOGE终止近10亿美元教育合同 削减DEI项目(图)",
+            "description": "国政府效率部（DOGE）2月10日宣布，终止近10亿美元与联邦教育部的合同，其中包括一份价值150万美元的“邮寄和文书操作观察”合同，以及大量涉及多元化、公平和包容性（DEI）项目的拨款。 新闻 美国 - 看中国》是总部设于美国、以复兴传统中华文化为理念的独立媒体。自2001年起，坚持报道最新社会焦点和传统文化专题，中文报纸已在北美、欧洲、澳洲、亚洲等17个国家发行。中国新闻,中国大陆新闻,内幕新闻,中文媒体,新闻评论,时事,财经,博谈,历史,文化,养生,娱乐,奇闻。",
+            "url": "https://www.secretchina.com/news/gb/2025/02/12/1077541.html",
+            "urlToImage": "https://img6.secretchina.com/pic/2025/2-12/p3618801a390722753-ss.jpg",
+            "publishedAt": "2025-02-12T00:40:51Z",
+            "content": "2025211JIM WATSON/AFP via Getty Images \r\n2025212/DOGE21010150DEI \r\nDOGE898.8129DEI1.01 \r\nInstitute of Education SciencesIESNAEPPISA \r\nNAEPUSASpendinggovIES82416.6 \r\n——American Educational Research As… [+523 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ithome.com"
+            },
+            "author": null,
+            "title": "Nature：全球博士生数量锐减，钱少、事多、前途迷茫",
+            "description": "过去几年，一些国家的博士项目申请人数出现下滑，有专家警告称，这是一个令人担忧的趋势。从澳大利亚、日本到巴西和英国，高昂的生活成本、微薄的助学金以及毕业后有限的就业前景，正在阻碍人们攻读博士学位。据经合组织（OECD）巴黎总部项目负责人斯拉里科表示，这些下降的数据应该「敲响警钟」。「这表明我们需要改革（博士生的）工作条件，并考虑多样化的职业选择 —— 否则，我们将面临人才流失的风险，最终将拖慢科学进步的步伐。」，他说。2023 年，澳大利亚大学和澳大利亚研究生院理事会（ACGR）发布的最新数据显示（截至 2023 …",
+            "url": "https://www.ithome.com/0/831/249.htm",
+            "urlToImage": null,
+            "publishedAt": "2025-02-16T03:34:32Z",
+            "content": "OECD\r\n2023 ACGR 2023 1 7% 2018 2023 8%\r\nNature Cruz 62500 \r\n 20 37000 2024 7 50000 \r\n 10 \r\n2024 2 \r\n 1287 458 17% 13% 13%\r\n 161 \r\nHealthy Living Lab Defeyter 20% 6-10%)\r\n 32,000 20,000 ACGR Louise Sh… [+473 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "鄭景懋採訪",
+            "title": "馬斯克要求回報上週工作內容 多個聯邦機構指示員工暫不回覆",
+            "description": "隨著一場混亂的削減聯邦勞動力的行動持續推進，多個美國聯邦機構已經告知員工，不要立即回覆美國總統川普(Donald Trump)的顧問馬斯克(Elon Musk)要求回報上週工作成果、否則將被解雇的電子郵件。 由川普政府認命的聯邦調查局(FBI)和國務院官員已經致函員工，告訴他們不要對指揮鏈以外的要求做出回應，這可能是在削減230萬聯邦文職人員的行動上，共和黨政府成員與世界首富馬斯克之間關係出現緊張的跡象。 路透社引述川普任命的FBI局長巴特爾(Kash Patel)寫給員工的信件：「FBI通過局長辦公室負責我們所…",
+            "url": "https://tw.news.yahoo.com/%E9%A6%AC%E6%96%AF%E5%85%8B%E8%A6%81%E6%B1%82%E5%9B%9E%E5%A0%B1%E4%B8%8A%E9%80%B1%E5%B7%A5%E4%BD%9C%E5%85%A7%E5%AE%B9-%E5%A4%9A%E5%80%8B%E8%81%AF%E9%82%A6%E6%A9%9F%E6%A7%8B%E6%8C%87%E7%A4%BA%E5%93%A1%E5%B7%A5%E6%9A%AB%E4%B8%8D%E5%9B%9E%E8%A6%86-000218991.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-23T16:02:18Z",
+            "content": "(Donald Trump)(Elon Musk)\r\n(FBI)230\r\nFBI(Kash Patel)FBI\r\n(DOGE)27.5(CFPB)\r\n36\r\n22241159(1259)X\r\n(FDIC)(National Institutes of Health)\r\n(National Centers for Environmental Information)\r\n(Ed Martin)\r\n(… [+34 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "德正",
+            "title": "牆外文摘：馬斯克送給中共的禮物，胡錫進表示贊賞",
+            "description": "有文章指出，美國政府關閉USAID及凍結NED資金，將讓中國政府坐收漁利。不僅長期被中共視為眼中釘的公民社會組織陷入困境，而且趁機填補空白的中國援助方式，可能會對受援國的治理體系產生腐蝕性影響。",
+            "url": "https://tw.news.yahoo.com/%E7%89%86%E5%A4%96%E6%96%87%E6%91%98-%E9%A6%AC%E6%96%AF%E5%85%8B%E9%80%81%E7%B5%A6%E4%B8%AD%E5%85%B1%E7%9A%84%E7%A6%AE%E7%89%A9-%E8%83%A1%E9%8C%AB%E9%80%B2%E8%A1%A8%E7%A4%BA%E8%B4%8A%E8%B3%9E-144000551.html",
+            "urlToImage": "https://media.zenfs.com/zh-tw/www_dw_com_641/987797227ea8c203649ba1eb2ab392c6",
+            "publishedAt": "2025-02-16T06:40:00Z",
+            "content": "NED“The Wire”DOGE Eliot ChenNED\r\n 90 USAID“”DOGENED \r\n“”Maya WangNEweiwuerD “”“” NED NED \r\n“”“”\r\nDavid PiersonBerry Wang“”DOGENED\r\nNED“”\r\n NED “”NED “”\r\nUSAID\r\nUSAIDHelen DavidsonAmy\r\nHawkinsUSAID\r\n2… [+72 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": null,
+            "title": "特朗普：考虑将政府效率部削减开支所节省的20%发给美国纳税人",
+            "description": "美国总统唐纳德·特朗普提出，由埃隆·马斯克监督的联邦成本削减行动中，部分节省出来的资金可以发给美国纳税人，另一部分可以用于削减赤字。特朗普周三在迈阿密出席由沙特主权财富基金支持的投资峰会上发表讲话，他在提及政府效率部（DOGE）的工作时表示，“我们甚至正在考虑一个新的概念，把政府效率部所削减开支的20%发给国民，20%用于偿还债务，因为这些数字令人难以置信。”\r\n特朗普的这一想法此前马斯克也提到过，后者也参加了此次峰会。本周，马斯克在其社交媒体平台X上发帖，建议特朗普宣布一项“DOGE回报”，向纳税家庭发放一张5…",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1480144.htm",
+            "urlToImage": "https://n.sinaimg.cn/sinakd20250209s/125/w1035h690/20250209/0a34-6a08ea4cfa6254a3ac03cbb052106d8b.png",
+            "publishedAt": "2025-02-20T01:35:48Z",
+            "content": "NVIDIA \"\" RTX 5080 5090 FE GPU\r\n2025-02-20 590"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "工商時報 鄭勝得",
+            "title": "馬斯克對聯邦員工下通牒 不回報工作表現視同辭職",
+            "description": "因應美國總統川普加大縮減聯邦支出的呼籲，執掌政府效率部（DOGE）的馬斯克對聯邦員工下達最後通牒，要求這群人必須回報自己上周工作表現，否則將面臨遭到開除的命運。",
+            "url": "https://tw.stock.yahoo.com/news/%E9%A6%AC%E6%96%AF%E5%85%8B%E5%B0%8D%E8%81%AF%E9%82%A6%E5%93%A1%E5%B7%A5%E4%B8%8B%E9%80%9A%E7%89%92-%E4%B8%8D%E5%9B%9E%E5%A0%B1%E5%B7%A5%E4%BD%9C%E8%A1%A8%E7%8F%BE%E8%A6%96%E5%90%8C%E8%BE%AD%E8%81%B7-133617575.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-23T05:36:17Z",
+            "content": "Gerber KawasakiRoss Gerber202550%"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "賴宇萍",
+            "title": "14兆黃金去哪？ 美最大金庫50年無人查核 馬斯克要動手了",
+            "description": "特斯拉執行長馬斯克主導的政府效率部門（DOGE）即將揭開美國神秘的黃金儲備面紗？馬斯克已經在社群平台X上發文暗示，他可能將對位於肯塔基州、美國最大的金庫諾克斯堡（Fort Knox）進行審查。",
+            "url": "https://tw.stock.yahoo.com/news/14%E5%85%86%E9%BB%83%E9%87%91%E5%8E%BB%E5%93%AA-%E7%BE%8E%E6%9C%80%E5%A4%A7%E9%87%91%E5%BA%AB50%E5%B9%B4%E7%84%A1%E4%BA%BA%E6%9F%A5%E6%A0%B8-%E9%A6%AC%E6%96%AF%E5%85%8B%E8%A6%81%E5%8B%95%E6%89%8B%E4%BA%86-112133479.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-18T03:21:33Z",
+            "content": "20250218(3021) 1133 1.:114/02/182.:113Q33.:4.:5.:NA6.::(:)1133(1) 113930 ---------------------- ---------- -------- ---------- 1,119,428 (78,111) 1,041,317 622,625 18,787 641,412 785,554 (9,098) 776,… [+61 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "工商時報 顏嘉南",
+            "title": "美國五位前財長聯合示警 馬斯克置國家於違約風險",
+            "description": "葉倫與桑默斯等美國五名前財長10日聯合示警，川普內閣官員和馬斯克領導的政府效率部（DOGE）近期在財政部的一連串行動，令人嚴重擔憂美國的財政承諾遭到非法破壞，恐將美國置於違約風險。",
+            "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E4%BA%94%E4%BD%8D%E5%89%8D%E8%B2%A1%E9%95%B7%E8%81%AF%E5%90%88%E7%A4%BA%E8%AD%A6-%E9%A6%AC%E6%96%AF%E5%85%8B%E7%BD%AE%E5%9C%8B%E5%AE%B6%E6%96%BC%E9%81%95%E7%B4%84%E9%A2%A8%E9%9A%AA-141112454.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-11T06:11:12Z",
+            "content": "10DOGE\r\nRobert RubinLarry SummersTimothy GeithnerJacob Lew\r\nNECKevin HassettScott Bessent\r\npolitical actor\r\n100 400 2750 NCC"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "顏嘉南／綜合外電報導",
+            "title": "擔憂財政承諾遭到非法破壞 5位前財長示警：美陷違約風險",
+            "description": "葉倫與桑默斯等美國五名前財長10日聯合示警，川普內閣官員和馬斯克領導的政府效率部（DOGE）近期在財政部的一連串行動，令人嚴重擔憂美國的財政承諾遭到非法破壞，恐將美國置於違約風險。",
+            "url": "https://tw.stock.yahoo.com/news/%E6%93%94%E6%86%82%E8%B2%A1%E6%94%BF%E6%89%BF%E8%AB%BE%E9%81%AD%E5%88%B0%E9%9D%9E%E6%B3%95%E7%A0%B4%E5%A3%9E-5%E4%BD%8D%E5%89%8D%E8%B2%A1%E9%95%B7%E7%A4%BA%E8%AD%A6-%E7%BE%8E%E9%99%B7%E9%81%95%E7%B4%84%E9%A2%A8%E9%9A%AA-201000420.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-11T12:10:00Z",
+            "content": "111,0001,5001602019130202216020231,235200"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": null,
+            "title": "马斯克的政府效率部正试图访问美国国税局大量纳税人的数据",
+            "description": "据CNN报道，政府效率部（DOGE）已要求访问美国国税局的纳税人数据系统，这可能使其获得高度敏感的信息，包括社会安全号码和纳税申报单。 国家税务总局还在 X 上推出了一个监督国税局的专用账户，并在该机构内征集\"关于查找和解决浪费、欺诈和滥用问题的见解\"。\r\n此前《纽约时报》报道称，DOGE 正在寻求并很可能获得对包括综合数据检索系统（IDRS）在内的系统的访问权限，该系统包含大量纳税人的个人身份信息，包括银行账号、社会保险号、地址、报税表等。 国税局内部对访问 IDRS 系统有严格限制，不当访问会被处以罚款和监禁…",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1479448.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2025/0218/016714c6505a2df.png",
+            "publishedAt": "2025-02-17T23:05:43Z",
+            "content": "iPhone SE 3Lumia 1020 iOS\r\n2025-02-17 4120"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "美財部對馬斯克開大門 惹議",
+            "description": "紐約時報引述知情人士報導，美國財長貝森特日前批准馬斯克的政府效率部門（DOGE）一些代表取得財政部支付系統的訪問權限，可...",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e94a2547-d871-476c-bb24-7ed9ef696fbd",
+            "urlToImage": null,
+            "publishedAt": "2025-02-02T13:54:13Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "風傳媒綜合報導",
+            "title": "拜登偷看劇本「預赦免」？馬斯克宣稱抗新冠要角主導機構有流向不明資金",
+            "description": "美國政府效率部（DOGE）負責人馬斯克（Elon Musk）大動作整頓聯邦政府部門，獲得美國總統川普（Donald Trump）全力支持。...",
+            "url": "https://tw.news.yahoo.com/%E6%8B%9C%E7%99%BB%E5%81%B7%E7%9C%8B%E5%8A%87%E6%9C%AC-%E9%A0%90%E8%B5%A6%E5%85%8D-%E9%A6%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A8%B1%E6%8A%97%E6%96%B0%E5%86%A0%E8%A6%81%E8%A7%92%E4%B8%BB%E5%B0%8E%E6%A9%9F%E6%A7%8B%E6%9C%89%E6%B5%81%E5%90%91%E4%B8%8D%E6%98%8E%E8%B3%87%E9%87%91-065445229.html",
+            "urlToImage": "https://media.zenfs.com/ca/stormmediagroup.com/7ceb6c1bbf7ec4d2302ea01136e9ad75",
+            "publishedAt": "2025-02-04T22:54:45Z",
+            "content": "[NOWnews]5AIMLCCMLCC32.1..."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "馬斯克領軍「政府效率部」開工　美媒：考慮解散教育部",
+            "description": "川普政府考慮解散美國教育部，傳出這次計畫也是由全球首富馬斯克主導的「政府效率部」(DOGE)，目的在於控制支出並縮減政府員工規模。",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fa5db877-7c9f-4d1c-8b07-3f2ba86a6050",
+            "urlToImage": null,
+            "publishedAt": "2025-02-04T00:36:45Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "馬斯克大查帳效應　美聯邦這幾個部會成立內部小組梳理資金運用",
+            "description": "美國政府效率部（DOGE）近期在特斯拉執行長馬斯克（Elon Musk）的領導下，展開大規模聯邦政府預算改革，成效開始逐步顯現。...",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_05b085a4-9396-46ca-9835-a18574f095b8",
+            "urlToImage": null,
+            "publishedAt": "2025-02-16T21:28:10Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "馬斯克太惹人怨！加國民眾請願撤銷公民身份",
+            "description": "[NOWnews今日新聞]美國總統川普（DonaldTrump）上任後，時常與其一搭一唱的全球富豪、聯邦政府效率部（DepartmentofGovernmentEfficiency，DOGE）部長馬斯...",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bb98cb9f-fa31-427e-9463-fe3160e740f1",
+            "urlToImage": null,
+            "publishedAt": "2025-02-24T09:24:43Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "鐵飯碗或不保 聯邦雇員憂心 地方部門也人心惶惶",
+            "description": "領導川普2.0政府效率部(DOGE)的馬斯克關閉援外機構USAID，引起輿論譁然，更掀起聯邦雇員對於工作前景的擔憂，維吉...",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5b582f06-c6f8-4eda-b31e-7185a6255f75",
+            "urlToImage": null,
+            "publishedAt": "2025-02-04T22:15:04Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "主筆室",
+            "title": "【重磅快評】從川普DOGE到陸AI戰略 台灣政府治理錯過多少？",
+            "description": "美國總統統川普回鍋後迄今對內最大的變革，就是與科技巨頭馬斯克合作成立政府效率部（DOGE），希望通過AI技術清查前民主黨...",
+            "url": "https://tw.news.yahoo.com/%E9%87%8D%E7%A3%85%E5%BF%AB%E8%A9%95-%E5%BE%9E%E5%B7%9D%E6%99%AEdoge%E5%88%B0%E9%99%B8ai%E6%88%B0%E7%95%A5-%E5%8F%B0%E7%81%A3%E6%94%BF%E5%BA%9C%E6%B2%BB%E7%90%86%E9%8C%AF%E9%81%8E%E5%A4%9A%E5%B0%91-220032831.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-11T14:00:32Z",
+            "content": "[CTWANT] Salvador Nasralla..."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "3男假冒DOGE人員要求金山市府交資料 遭員工識破報警後閃離",
+            "description": "三名身分不明男子14日中午疑似假冒政府效率部(DOGE)人員，試圖向舊金山市政府索取敏感性資料，遭市府員工拒絕後，在警方...",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_453a4ca3-42d1-4ee1-92dd-462b72940df5",
+            "urlToImage": null,
+            "publishedAt": "2025-02-15T22:15:15Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "國際中心徐筱晴／綜合報導",
+            "title": "「馬斯克坐總統寶座」成時代封面　川普回應",
+            "description": "[NOWnews今日新聞]美國總統川普（DonaldTrump）在上任後，賦予特斯拉執行長馬斯克（ElonMusk）及政府效率部（DOGE）極大權力，讓他裁減聯邦政府機構及職員，近日引發反彈。美國《時...",
+            "url": "https://tw.news.yahoo.com/%E9%A6%AC%E6%96%AF%E5%85%8B%E5%9D%90%E7%B8%BD%E7%B5%B1%E5%AF%B6%E5%BA%A7-%E6%88%90%E6%99%82%E4%BB%A3%E5%B0%81%E9%9D%A2-%E5%B7%9D%E6%99%AE%E5%9B%9E%E6%87%89-002418969.html",
+            "urlToImage": "https://media.zenfs.com/en/nownews.com/8dc1fb3ed40545d4a8ea7a21069fae7e",
+            "publishedAt": "2025-02-08T16:24:18Z",
+            "content": "[NOWnews] Donald TrumpElon MuskDOGE\r\n7Resolute Desk\r\nCNNDOGE\r\n11Citizen Musk\r\n7\r\n2024The Apprentice\r\n2017Steve BannonThe Great Manipulator\r\nX\r\n NOWnews 4.2 IG"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "提告了 美14州控馬斯克職權違憲 「用筆或滑鼠」就裁掉公部門",
+            "description": "美國14個州13日狀告「特別政府雇員」馬斯克、他領導的政府效率部（DOGE）與川普總統，主張馬斯克全面削減政府開支的行動...",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_87f22004-6271-499a-95a5-34d5acffdf45",
+            "urlToImage": null,
+            "publishedAt": "2025-02-14T05:10:04Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "風傳媒綜合報導",
+            "title": "馬斯克要美國公務員交代「上周做什麼」　這些部會回應了",
+            "description": "美國國防部近日通知其文職人員，無需理會億萬富翁、政府效能部（DOGE）負責人伊隆．馬斯克（Elon Musk）要求回報生產力的指示，...",
+            "url": "https://tw.news.yahoo.com/%E9%A6%AC%E6%96%AF%E5%85%8B%E8%A6%81%E7%BE%8E%E5%9C%8B%E5%85%AC%E5%8B%99%E5%93%A1%E4%BA%A4%E4%BB%A3-%E4%B8%8A%E5%91%A8%E5%81%9A%E4%BB%80%E9%BA%BC-%E9%80%99%E4%BA%9B%E9%83%A8%E6%9C%83%E5%9B%9E%E6%87%89%E4%BA%86-064743561.html",
+            "urlToImage": "https://media.zenfs.com/ca/stormmediagroup.com/bfedfec9c794624bf4a4fd5f513bacee",
+            "publishedAt": "2025-02-23T22:47:43Z",
+            "content": "(FBI)43(Aurora Phelps)..."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "財訊快報",
+            "title": "馬斯克政府效率部尋求獲得美國政府中央會計系統唯讀訪問權限",
+            "description": "【財訊快報／劉敏夫】外電報導指出，熟知內情的消息人士透露，馬斯克本週將派遣政府效率部(DOGE)的一個團隊前往西維吉尼亞州帕克斯堡(Parkersburg)，該團隊將在當地獲得美國政府中央會計系統的只讀訪問權限。這將為外界一窺美國政府最敏感的財務數據打開新窗口。上週，一位聯邦法官裁定暫時限制了馬斯克的DOGE團隊對財政部支付系統的訪問權限。馬斯克以DOGE部長的新身份尋求直接訪問聯邦數據系統的權限。馬斯克在旗下社交媒體平台X上宣稱已取消數十億美元的合約和撥款，但財政部官員堅稱其無權透過支付系統實施此類操作。知情人…",
+            "url": "https://tw.stock.yahoo.com/news/%E9%A6%AC%E6%96%AF%E5%85%8B%E6%94%BF%E5%BA%9C%E6%95%88%E7%8E%87%E9%83%A8%E5%B0%8B%E6%B1%82%E7%8D%B2%E5%BE%97%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C%E4%B8%AD%E5%A4%AE%E6%9C%83%E8%A8%88%E7%B3%BB%E7%B5%B1%E5%94%AF%E8%AE%80%E8%A8%AA%E5%95%8F%E6%AC%8A%E9%99%90-004626764.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-09T16:46:26Z",
+            "content": "2025 02 10(6757) 20251 ()1,691,8241,289,683402,14131.181,691,8241,289,683402,14131.18"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Secretchina.com"
+            },
+            "author": "www.secretchina.com",
+            "title": "马斯克呼吁弹劾阻止DOGE访问财政部系统的法官(图)",
+            "description": "埃隆・马斯克近日强烈呼吁弹劾一名联邦法官，该法官于周六凌晨裁定，财政部必须限制政府效率部（DOGE）对其支付系统的访问权限，仅允许公务员在履行工作职责的情况下使用。",
+            "url": "https://www.secretchina.com/news/gb/2025/02/09/1077399.html",
+            "urlToImage": "https://img6.secretchina.com/pic/2025/1-3/p3594111a855541230-ss.jpg",
+            "publishedAt": "2025-02-09T14:09:20Z",
+            "content": "Copyright © 2001 - Kanzhongguo.com All Rights Reserved."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Secretchina.com"
+            },
+            "author": "www.secretchina.com",
+            "title": "关停美国国际开发署 川普外交政策大回旋(图)",
+            "description": "据DOGE的审计，拜登四年给这个机构的资金总额为2,000亿美元，年均500亿，这是相当阔绰的资金供应，因为2024年全球193个国家当中，GDP总量超过500亿美元的国家，总共只有90个。目前对USAID最集中的指控就是腐败",
+            "url": "https://www.secretchina.com/news/gb/2025/02/18/1077855.html",
+            "urlToImage": "https://img6.secretchina.com/pic/2025/2-14/p3619461a968388581-ss.jpg",
+            "publishedAt": "2025-02-18T01:43:59Z",
+            "content": "JIM WATSON/AFP via Getty Images \r\n()DOGEUnited States Agency for International DevelopmentUSAIDDOGEUSAID214USAID \r\nDEIUSAID\r\nUSAIDDEI90RSF2.682023USAID6200707279 \r\nDOGEBBCPoliticalBBC23StatementBBC20… [+428 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Secretchina.com"
+            },
+            "author": "www.secretchina.com",
+            "title": "马斯克向美公务员发最后通牒：不回复第二封邮件将被解雇(图)",
+            "description": "美国政府效率部门（DOGE）负责人马斯克周一晚（2月24日）向联邦政府员工发出警告，未回复第二封工作成果邮件的员工将面临解雇处理。这一举措引发了政府内部分歧和法律争议。",
+            "url": "https://www.secretchina.com/news/gb/2025/02/25/1078234.html",
+            "urlToImage": "https://img6.secretchina.com/pic/2025/2-26/p3623901a760264681-ss.jpg",
+            "publishedAt": "2025-02-25T15:55:30Z",
+            "content": "2025211SpaceXAndrew Harnik/Getty Images \r\n2025225DOGE224 \r\n200OPMX \r\nFBI \r\nOPM \r\nX \r\n()\r\n‘’ \r\nOPMAdministrative Procedure Act \r\nX \r\nX \r\n:\r\n:\r\n."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": null,
+            "title": "法官最后时刻叫停DOGE“买断计划” 已有超6万政府雇员接收“劝退”",
+            "description": "6万人约占美国联邦政府劳动者总人数的3%，而马斯克希望减员10%。法官暂时将“买断计划”搁置到下周一。特朗普政府要求联邦政府机构，提供过去三年绩效低的员工名单，称在制定新的绩效评估指标。\r\n在距离截止期还剩11个小时的倒计时阶段，美国法官暂时叫停了特朗普政府为大幅减员给美国公务员提供的延期退休“买断计划”。据央视报道，当地时间2月6日周四，美国马萨诸塞州联邦法官乔治·图尔（George O’Toole Jr．）将联邦雇员接受“买断计划”的最后期限推迟至2月10日下周一。法官图尔在裁决中表示，在相关法律问题下周一得…",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1476684.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2025/0121/8ff4cc3be91a304.webp",
+            "publishedAt": "2025-02-07T01:36:06Z",
+            "content": "OpenAISchulman AnthropicMurati\r\n2025-02-07 320"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": null,
+            "title": "白宫称马斯克身份是总统顾问而非DOGE雇员 没有决策权",
+            "description": "美国白宫当地时间周一在一份法庭文件中表示，亿万富翁埃隆·马斯克在特朗普政府中的角色是白宫雇员和总统高级顾问，而不是政府效率部（DOGE）的雇员，也没有决策权。\r\n根据白宫行政办公室主任约书亚·费舍尔（Joshua Fisher）签署的一份文件，马斯克只能向总统提供建议，并传达总统的指示。文件称：“与其他白宫高级顾问一样，马斯克没有制定政府决策的实际或正式权力。” 查看评论",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1479560.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2025/0207/c72dee5a07197e3.jpg",
+            "publishedAt": "2025-02-18T07:06:37Z",
+            "content": "iPhone SE 3Lumia 1020 iOS\r\n2025-02-17 5110"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "為DOGE辯護 馬斯克在白宮橢圓形辦公室發表談話",
+            "description": "法新社報導，億萬富豪馬斯克(Elon Musk)11日在白宮橢圓形辦公室(Oval Office)表示，美國如果不削減預算的話會「破產」。這位全球首富獲得美國總統川普(Donald Trump)任命，主導對聯邦支出的削減工作。 馬斯克在新成立的政府效率部(DOGE)帶領下展開這項努力，而川普則在最近數週發布了一系列旨在削減聯邦支出的命令。 馬斯克和川普11日在白宮發表談話時，特別鎖定美國在上個財政年度時突破1.8兆美元的預算赤字。 他表示，減少聯邦支出並不是可供選擇的事。 然而，馬斯克發表這番談話之際，正值聯邦法…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_220c4aaf-2e42-46f6-b9a0-75448508d241",
+            "urlToImage": null,
+            "publishedAt": "2025-02-11T14:17:43Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "財訊快報",
+            "title": "美聯邦政府員工自願離職人數增至7.5萬或3%，未達DOGE一成目標",
+            "description": "【財訊快報／陳孟朔】外電報導，美國聯邦政府員工自願離職計劃目前收到約7.5萬人回覆，佔聯邦政府員工數量約3%，仍未達到總統川普與掌管政府效率部(DOGE)的馬斯克裁減一成聯邦政府員工的目標。川普政府曾多次警告員工，今次的自願離職計劃將是最佳機會，並已通告聯邦機構要為裁員做好準備。根據這項計劃，相關員工於2月自願離職後，仍然領取工資直至今年9月底。",
+            "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%81%AF%E9%82%A6%E6%94%BF%E5%BA%9C%E5%93%A1%E5%B7%A5%E8%87%AA%E9%A1%98%E9%9B%A2%E8%81%B7%E4%BA%BA%E6%95%B8%E5%A2%9E%E8%87%B37-5%E8%90%AC%E6%88%963-%E6%9C%AA%E9%81%94doge-%E6%88%90%E7%9B%AE%E6%A8%99-072511232.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-12T23:25:11Z",
+            "content": "202521336.39%3.96%(2007)(2014)(2022)(2028)(2032)(2034)(2038)10.8520.510.123.7516.0522.818.4(2002)8.96%21.9(1101)4.86%(1102)3.12%3"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "邱立玲",
+            "title": "馬斯克為DOGE付出代價 特斯拉遭抵制銷量腰斬　身家蒸發200多億美金",
+            "description": "綜合《彭博》與《CNN》報導，2月25日，特斯拉執行長馬斯克的財富一夕縮水222",
+            "url": "https://tw.news.yahoo.com/%E9%A6%AC%E6%96%AF%E5%85%8B%E7%82%BAdoge%E4%BB%98%E5%87%BA%E4%BB%A3%E5%83%B9-%E7%89%B9%E6%96%AF%E6%8B%89%E9%81%AD%E6%8A%B5%E5%88%B6%E9%8A%B7%E9%87%8F%E8%85%B0%E6%96%AC-%E8%BA%AB%E5%AE%B6%E8%92%B8%E7%99%BC200%E5%A4%9A%E5%84%84%E7%BE%8E%E9%87%91-074754932.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Xb5oPCXxedpUtuEK5Y7uUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/no/cmmedia.com.tw/5a702a64fd14386c45daf21e9a327c31",
+            "publishedAt": "2025-02-25T23:47:54Z",
+            "content": "9,488.1520241171\r\nCNN2252224DOGETesla\r\n2400\r\nTesla27.73 8.39302.814.420.2\r\n9,488.152024117132402\r\n1\r\n(ACEA)202519,94518,16145%1.81\r\n145\r\n(AfD)1AfD\r\n224AfD (Alice Weidel)AfDAfD\r\nKeir Starmer\r\n1 (Emman… [+152 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Koc.com.tw"
+            },
+            "author": "達小編",
+            "title": "馬斯克表示應該關閉美國之音和自由電台，無人收聽又耗費美國納稅人的錢",
+            "description": "最近由馬斯克帶領的政府效率部門 DOGE 正在大刀闊斧對美國政府相關部門進行監督，美國人民對於馬斯克的一舉一動都相當關心。最近馬斯克表示由美國政府資助的自由歐洲電台和美國之音這兩家媒體機構應該被關閉，因為它們又花錢又只會自言自語，無法為美國提供任何有用的幫助。不知道",
+            "url": "https://www.koc.com.tw/archives/586269",
+            "urlToImage": "https://www.koc.com.tw/wp-content/uploads/2025/02/20250211000833_0_8da7a3.jpg",
+            "publishedAt": "2025-02-10T16:30:39Z",
+            "content": "Radio Free Europe and Voice of America are media outlets paid for by the American taxpayers. \r\nIt is state-owned media. \r\nThese outlets are filled with far left activists. \r\nIve worked with these rep… [+127 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "美國安顧問：USAID任務計畫 不符合「抗中」戰略利益",
+            "description": "（中央社華盛頓9日綜合外電報導）白宮國家安全顧問瓦爾茲今天表示，他力挺政府效率部（DOGE）出手整頓援外機構美國國際開發總署（USAID），並表示該機構的任務與計畫不符合「抗中」等戰略利益或總統願景。",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c7ca3928-f132-4003-ba1c-da6a03675b42",
+            "urlToImage": null,
+            "publishedAt": "2025-02-10T06:35:01Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "川普問閣員有誰不爽馬斯克？語畢哄堂大笑",
+            "description": "[NOWnews今日新聞]美國總統川普26日召開上任後首場內閣會議，主導政府效率部（DOGE）的特斯拉創辦人馬斯克雖非內閣成員，仍出席了這場會議並發言。川普當場問所有內閣官員，有誰對馬斯克不滿，還稱如...",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6e74a496-14fe-4b71-bf54-293a919a5078",
+            "urlToImage": null,
+            "publishedAt": "2025-02-26T21:21:48Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "馬斯克揚言關閉美國之音和自由電台",
+            "description": "[NOWnews今日新聞]特斯拉創辦人馬斯克執掌美國「政府效率部」（DOGE）後，頻頻整肅美國聯邦機構，繼美國國際開發署（USAID）被凍結並裁撤人員後，下一個目標轉向美國之音和自由電台兩家國營媒體，...",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e1d2fc30-5e88-4655-ab6e-76e2447b4534",
+            "urlToImage": null,
+            "publishedAt": "2025-02-10T04:20:42Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "150歲還在領社福金？馬斯克DOGE查帳　赫見美財政黑洞亂象",
+            "description": "美國億萬富豪、「政府效率部」（DOGE）負責人馬斯克近日對聯邦政府「查帳」，赫然發現黑幕重重，他表示，財政部每年向身份不明個人發放超過1千億美元福利金，此外還有12個「150歲老人」領取社會保障金。",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_97399568-88e7-47eb-b78f-91a09a7b86ea",
+            "urlToImage": null,
+            "publishedAt": "2025-02-09T20:11:57Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "川普矛頭指向五角大廈 要馬斯克徹查詐欺濫用",
+            "description": "（中央社華盛頓9日綜合外電報導）美國總統川普今天說，他期望執掌政府效率部（DOGE）的科技大亨馬斯克（Elon Musk）在審計國防部的過程中找到數以千億美元計的詐欺和濫用。",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d74f5509-8ff0-423d-8fe2-394c05f9715e",
+            "urlToImage": null,
+            "publishedAt": "2025-02-09T19:14:02Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "不打勤不打懶專打薪水小偷　馬斯克學川普：You are fired",
+            "description": "什麼都懂的川普投顧與最會省錢的馬斯克，是一起讓美國再次偉大的絕佳雙人組，其中，事業做得順風順水的馬斯克在成立「政府效率部（DOGE）」之後，計畫關閉的「國際開發署」（USAID）一案，就因可能涉及內部腐敗問題，而成為首批被盯上，基於節源考量而必須關閉的政府機構。",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e64e6126-89df-4445-92d3-808b8cccffd7",
+            "urlToImage": null,
+            "publishedAt": "2025-02-07T04:00:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com.tw"
+            },
+            "author": null,
+            "title": "法官似乎对阻止马斯克 “政府效率部”行动的相关证据不足表示担忧",
+            "description": "数千名联邦政府雇员要么接受了政府效率部（DOGE）提出的延期辞职提议，要么已遭解雇。这个由美国总统特朗普设立、埃隆・马斯克领导的部门，其迅速且突然的举措，让一些政府工作人员大为震惊，律师和法院也忙着梳理这些裁员行动的合法性。\r\n埃隆・马斯克上周在白宫椭圆形办公室聆听特朗普讲话。在周一的一场听证会上，一位联邦法官似乎对阻止马斯克及政府效率部（DOGE）的行动缺乏证据表示担忧。与此同时，马斯克领导的部门正试图从联邦机构获取数据，以试探其权力范围。以下是政府效率部（DOGE）的行动及其面临法律挑战的最新情况：DOGE …",
+            "url": "https://www.cnbeta.com.tw/articles/tech/1479472.htm",
+            "urlToImage": "https://n.sinaimg.cn/finance/transform/116/w550h366/20250218/7094-df79ef019953cb048b4e9e470baaf2a4.png",
+            "publishedAt": "2025-02-18T01:36:09Z",
+            "content": "iPhone SE 3Lumia 1020 iOS\r\n2025-02-17 4200"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "郭宜欣",
+            "title": "馬斯克逐步掌握美政府？取得財政部「敏感支付系統」權限",
+            "description": "川普上任後，由特斯拉執行長馬斯克（Elon Musk）領導的諮詢機構政府效率部（DOGE）展開行動，美聯社引述知情人士說法指出，效率部已經獲得財政部的部分敏感資料，包括社會保障與醫療保險支付系統的權限，引發爭議。",
+            "url": "https://tw.stock.yahoo.com/news/%E9%A6%AC%E6%96%AF%E5%85%8B%E9%80%90%E6%AD%A5%E6%8E%8C%E6%8F%A1%E7%BE%8E%E6%94%BF%E5%BA%9C-%E5%8F%96%E5%BE%97%E8%B2%A1%E6%94%BF%E9%83%A8-%E6%95%8F%E6%84%9F%E6%94%AF%E4%BB%98%E7%B3%BB%E7%B5%B1-%E6%AC%8A%E9%99%90-070007156.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-01T23:00:07Z",
+            "content": "DeepseekDeepshock? DeepSeek105,0006%100,000"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "工商時報 鍾志恆",
+            "title": "市場憂馬斯克事務繁重 難專心經營特斯拉",
+            "description": "特斯拉股價自4日來累計大跌16％，外界擔心其執行長馬斯克工作太繁重，無法專心經營好公司所致。因為他主導政府效率部（DOGE）對聯邦政府查帳外，帶領財團出價收購AI新創公司OpenAI，還要面對勁敵比亞迪的強力挑戰。",
+            "url": "https://tw.stock.yahoo.com/news/%E5%B8%82%E5%A0%B4%E6%86%82%E9%A6%AC%E6%96%AF%E5%85%8B%E4%BA%8B%E5%8B%99%E7%B9%81%E9%87%8D-%E9%9B%A3%E5%B0%88%E5%BF%83%E7%B6%93%E7%87%9F%E7%89%B9%E6%96%AF%E6%8B%89-142145901.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-12T06:21:45Z",
+            "content": "3111131223,0511125492.4415,3751,3459.59"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "工商時報 陳怡均",
+            "title": "別理他！馬斯克要求回報生產力 美政府首長指示員工「這樣做」",
+            "description": "根據執掌美國政府效率部（DOGE）的馬斯克要求，美國數百萬名聯邦僱員都必須在24日午夜以前回報自己上周生產力表現，否則面臨丟飯碗的命運。然而此令一出，立即引起美國政府員工一片嘩然，不滿情緒湧現，一些政府機關首長直接要求下屬忽略此要求。",
+            "url": "https://tw.stock.yahoo.com/news/%E5%88%A5%E7%90%86%E4%BB%96-%E9%A6%AC%E6%96%AF%E5%85%8B%E8%A6%81%E6%B1%82%E5%9B%9E%E5%A0%B1%E7%94%9F%E7%94%A2%E5%8A%9B-%E7%BE%8E%E6%94%BF%E5%BA%9C%E9%A6%96%E9%95%B7%E6%8C%87%E7%A4%BA%E5%93%A1%E5%B7%A5-%E9%80%99%E6%A8%A3%E5%81%9A-045557053.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-23T20:55:57Z",
+            "content": "[FTNN]/2123,573.8023,461.431210..."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "陳怡均／綜合外電報導",
+            "title": "川普大裁員 經濟衝擊恐掀骨牌效應",
+            "description": "川普上任後雷厲風行整頓美政府機關，在馬斯克執掌的政府效率部（DOGE）協助下大幅裁減聯邦僱員，經濟學家估計影響人數可能接近30萬，將是美國史上最大規模裁員，並對民眾消費力與經濟造成衝擊，尤其華府等政府機關所在地。",
+            "url": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E5%A4%A7%E8%A3%81%E5%93%A1-%E7%B6%93%E6%BF%9F%E8%A1%9D%E6%93%8A%E6%81%90%E6%8E%80%E9%AA%A8%E7%89%8C%E6%95%88%E6%87%89-201000999.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-24T12:10:00Z",
+            "content": "-KY696512,47120185.12263197.8575,8926.09"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "特朗普簽「瘦身」行政命令　要求聯邦政府員工「走4才能補1」",
+            "description": "美國總統特朗普於周二(11日)簽署行政命令，要求聯邦政府配合高級顧問、Tesla創辦人馬斯克的裁員計劃，以節省行政成本。該命令規定，政府機構每4名員工離職後，才可招聘不多於1名新員工，並要求新招聘必須與馬斯克領導的美國政府效率部(DOGE)協商。",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a25f6219-5b42-4d37-9267-f11d44c9dfd4",
+            "urlToImage": null,
+            "publishedAt": "2025-02-11T20:36:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "(影) DOGE砍人惹眾怒! 美一政府總部大樓內 所有螢幕播川普舔馬斯克腳",
+            "description": "[Newtalk新聞] 美國今（25）日發生一起極為特殊的事件，美國住房和城市發展部總部大樓內所有屏幕，都循環播放美國總統川普舔政府效率部領導人馬斯克的影片。大樓工作人員因不知道如何關閉影片，只能到每一層樓將電視插頭拔掉。 X 帳號「方舟子」今日分享相關影片。影片中屏幕顯示川普舔馬斯克雙腳，且川普神情十分享受。另外屏幕還顯示國王萬歲（long live the king），可說是諷刺度拉滿。 事實上近日關於馬斯克的特殊事情不僅如此。X 帳號「NEXTA」指出，加拿大人收集了近 18 萬個簽名，要求取消馬斯克的雙重…",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a8c3f829-8e66-4a28-ad7b-e235a5f3ba2d",
+            "urlToImage": null,
+            "publishedAt": "2025-02-25T00:24:32Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "葉倫等5位前財長投書紐時 抨擊馬斯克DOGE有「違憲」之虞",
+            "description": "葉倫（Janet L. Yellen）與桑默斯（Lawrence H. Summers）等五位美國前財長聯名投書紐約時報...",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e8a4e15e-20a1-457a-b93b-39cf9fd5281c",
+            "urlToImage": null,
+            "publishedAt": "2025-02-10T21:10:43Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "馬斯克率DOGE大砍美政府支出　法院「這理由」下令暫停",
+            "description": "即時中心／林耿郁報導美國聯邦法官於美東時間8號一早裁定，阻止億萬富翁馬斯克執掌的政府效率部（DOGE）取得財政部的內部紀錄。這些紀錄包含美國人的社會安全碼與銀行帳號等敏感個資，以防外洩。法院此舉預計將會打擊川普、馬斯克削減美國政府支出的努力。",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c08c0e42-78b7-481b-8148-9c423251b88b",
+            "urlToImage": null,
+            "publishedAt": "2025-02-08T06:05:30Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "世界日報",
+            "title": "路透民調：逾半支持驅逐無證客 反對DOGE大量刪支出",
+            "description": "路透與艾普索斯民調公司(Ipsos)最新聯合民調顯示，55%受訪者支持川普總統驅逐非法移民，科技富豪馬斯克(Elon M...",
+            "url": "https://tw.news.yahoo.com/%E8%B7%AF%E9%80%8F%E6%B0%91%E8%AA%BF-%E9%80%BE%E5%8D%8A%E6%94%AF%E6%8C%81%E9%A9%85%E9%80%90%E7%84%A1%E8%AD%89%E5%AE%A2-%E5%8F%8D%E5%B0%8Ddoge%E5%A4%A7%E9%87%8F%E5%88%AA%E6%94%AF%E5%87%BA-062027532.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2025-02-23T22:20:27Z",
+            "content": "(Ipsos)55%(Elon Musk)42%53%\r\n2131841452%(Gaza)\r\n202458%32%\r\n23\r\n25%68%50%46%9%88%\r\n(Department of Government EfficiencyDOGE)82%16%9%90%\r\n86%9%24%74%\r\n(Hudson Valley)66(Gerald Dunn)\r\n Model Y"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "馬斯克公報私仇？美FDA負責審查Neuralink的員工被裁",
+            "description": "美國總統川普任命大金主馬斯克主導「政府效率部」（DOGE），大刀刪減聯邦機構員工。最新消息指出，馬斯克團隊上週末裁撤多名美國食品暨藥物管理局（FDA）人員，而這些人的工作「恰巧」就是負責審查馬斯克旗下大腦晶片公司Neuralink的腦接產品。",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_da103092-f76d-4014-b4a7-5f28f38a662e",
+            "urlToImage": null,
+            "publishedAt": "2025-02-17T16:32:44Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "周刊王CTWANT |李羿璇",
+            "title": "馬斯克登《時代》雜誌「坐總統辦公桌」　川普一句話狠酸",
+            "description": "[周刊王CTWANT] 根據《mint》的報導，該報導探討了馬斯克作為川普政府「政府效率部」（DOGE）負責人的角色，以及他在精簡聯邦政府運作中發揮的影響力。而當被記者問及對這期封面的看法時，川普不以為然地回應，「《時代》雜誌還在營業嗎？我都不知道。」此番言論引發現場一陣笑聲。儘管對《...",
+            "url": "https://tw.news.yahoo.com/%E9%A6%AC%E6%96%AF%E5%85%8B%E7%99%BB-%E6%99%82%E4%BB%A3-%E9%9B%9C%E8%AA%8C-%E5%9D%90%E7%B8%BD%E7%B5%B1%E8%BE%A6%E5%85%AC%E6%A1%8C-%E5%B7%9D%E6%99%AE-010445746.html",
+            "urlToImage": "https://media.zenfs.com/ko/ctwant_com_582/f2cd658605451056ed2ab5262112637c",
+            "publishedAt": "2025-02-08T17:04:45Z",
+            "content": "Donald TrumpElon MuskDOGE\r\n[CTWANT] Donald TrumpElon MuskDOGEDonald Trump7TIME\r\nmintDOGE\r\nUSAID\r\nDOGETeslaSpaceXUSAID\r\nOPMGSA\r\n CTWANT 3 1"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "美官員：馬斯克助手誤獲權限 可修改財政部支付系統",
+            "description": "（中央社華盛頓11日綜合外電報導）美國財政部1名官員今天指出，執掌政府效率部（DOGE）的科技大亨馬斯克旗下1名助手，被錯誤授權可以修改財政部高度敏感的支付系統，這套系統內含數以百萬計美國人民個資。",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cf649291-3ede-47dd-a1b7-91ce0e204cf1",
+            "urlToImage": null,
+            "publishedAt": "2025-02-12T05:35:39Z",
+            "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "羅勻",
+            "title": "馬斯克掌權大砍預算！　14州檢察長怒提告「違憲擴權」",
+            "description": "美國總統川普（Donald Trump）上任後，任命首富馬斯克（Elon Musk）掌管新設機構「政府效率部」（DOGE），以大幅削減聯邦開支。然而，此舉引發憲政爭議，美國14個民主黨籍州檢察長於13日聯合提告，指控馬斯克濫權擴權，已超越憲法規範。",
+            "url": "https://tw.news.yahoo.com/%E9%A6%AC%E6%96%AF%E5%85%8B%E6%8E%8C%E6%AC%8A%E5%A4%A7%E7%A0%8D%E9%A0%90%E7%AE%97-14%E5%B7%9E%E6%AA%A2%E5%AF%9F%E9%95%B7%E6%80%92%E6%8F%90%E5%91%8A-%E9%81%95%E6%86%B2%E6%93%B4%E6%AC%8A-051800931.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/t4SG4XMSWc6.bbZH4LZOmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Njk-/https://media.zenfs.com/ko/mirrormedia.mg/887dc9d31fbce4aff46b965778c81e44",
+            "publishedAt": "2025-02-13T21:18:00Z",
+            "content": "Donald TrumpElon MuskDOGE1413\r\n14\r\nState Democracy Defenders FundMarziani, Stevens &amp; Gonzalez\r\n3USAID9\r\n11\r\n19"
+        }
+    ]
+}
