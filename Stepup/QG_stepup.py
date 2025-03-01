@@ -10,8 +10,8 @@ from crawler.NewsAPI import NewsAPI_everything, NewsAPI_headlines # 一天100次
 # 存储模块
 all_json_response = []  # 用于存储所有的json响应
 all_ques_response = []  # 用于存储所有问题
-json_save_path = 'result_json.json'
-ques_save_path = 'result_ques.txt'
+json_save_path = 'result_json_stepup.json'
+ques_save_path = 'result_ques_stepup.txt'
 
 # topic提取模块
 topic_options = []
@@ -39,26 +39,28 @@ topic_options_LLM = ["GPT-4.5", "微软 Copilot for MacOS",
                 "退役风机叶片防沙材料", "随嫦娥六号返回的新疆牧草种子", "12 届世界运动会火炬 “竹梦”", "第七批国家级烈士纪念设施", 
                 "8600 车双燃料汽车运输船交付", "促进再生稻发展工作导引", "摩根士丹利人形机器人报告"]
 
-# NewsAPI_list = ["华盛顿", "乌克兰", "泽连斯基", "GPT4.5", "清洁能源", "哪吒2", "加沙", "NBA"]
-
 # def extend_NewsAPI(q:str):
 #     topic_options.extend(NewsAPI_everything(q))
 
 def extend_clawler(file_path:str):
     topic_options.extend(read_file_to_list(file_path))
     
-# def extend_LLM_generated(list:list):
-#     topic_options.extend(list)
+def extend_LLM_generated(list:list):
+    topic_options.extend(list)
 
+# News API慎用，效果不好
+# NewsAPI_list = ["华盛顿", "乌克兰", "泽连斯基", "GPT4.5", "清洁能源", "哪吒2", "加沙", "NBA"]
 # for q in NewsAPI_list:
 #     extend_NewsAPI(q)
 #     time.sleep(0.2)
-# extend_clawler("crawler\weibo.txt")
+
+# 爬虫方案
 # extend_clawler("crawler\zhihu.txt")
-# extend_LLM_generated(topic_options_LLM)
-# read_list_to_file(topic_options)
-# print(topic_options)
 extend_clawler("crawler\weibo_3.txt")
+
+# LLM自己寻找话题方案
+extend_LLM_generated(topic_options_LLM)
+
 print("所有话题为:\n", topic_options)
 
 # LLM生成模块
@@ -148,7 +150,7 @@ for i, topic in enumerate(topic_options):
             time.sleep(2)  # 等待 2 秒后重试
 
     if retries == MAX_RETRIES:
-        print(f"请求 {topic} 失败，已达到最大重试次数，跳过该话题。")
+        print(f"请求 {topic} 失败，已达到最大重试次数，跳过该话题。\n")
         continue  # 跳过当前话题，进入下一个话题的循环
 
     if (i + 1) % 5 == 0 and i != 0: 
@@ -168,5 +170,4 @@ print("已经全部保存")
 # 总耗时
 all_time_cost = time.time() - start_time
 print(f"总耗时：{all_time_cost:.3f}")
-
 

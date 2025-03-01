@@ -28,12 +28,12 @@ def read_list_to_file(list:list, path:str):
             # 将每一项和换行符写入文件
             file.write(item + '\n')
             
-    print("ques问题已成功写入文件。")
+    print("列表项已成功写入txt文件。")
 
 # dict转为JSON
 def Dic2JSON(dic:dict):
     json_response = json.dumps(dic, indent=4, ensure_ascii=False) # JSON格式化字典
-    print(json_response)
+    # print(json_response)
     return json_response
 
 # dict list 存为 JSON 文件
