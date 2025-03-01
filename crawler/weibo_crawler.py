@@ -36,7 +36,7 @@ try:
             textStr += str(itemStr + '\n')
 
     # 写入文件
-    with open('weibo.txt', 'w', encoding="utf-8") as f:
+    with open('weibo_2.txt', 'w', encoding="utf-8") as f:
         if hot_list_time:
             f.write(f"微博热榜时间: {hot_list_time}\n\n")
         f.write(textStr)
