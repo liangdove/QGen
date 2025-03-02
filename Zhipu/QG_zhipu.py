@@ -27,7 +27,7 @@ def extend_LLM_generated(list:list):
 
 # 爬虫方案
 # extend_clawler("crawler\zhihu.txt")
-extend_clawler("crawler\weibo_3.txt")
+extend_clawler("crawler\weibo.txt")
 
 # LLM自己寻找话题方案
 # extend_LLM_generated(topic_options_LLM)
@@ -50,7 +50,7 @@ search_prompt = """
 """
 
 system_prompt = f"""
-你是一个调用互联网搜索的联网问题提问专家，用户会要求你搜索互联网相关话题信息，并提出针对该话题的问题。
+你是一个调用互联网搜索的联网问题提问专家，用户会要求你搜索互联网相关话题信息，并提出针对该话题的问题，你可以针对话题的数据、方法、措施、影响进行提问。
 """
 
 start_time = time.time()
@@ -61,7 +61,6 @@ for i, topic in enumerate(topic_options):
         try:
             topic_time = time.time()
             
-
             user_prompt = f"收集最近互联网上关于{topic}的信息，并根据收集到的内容精心设计出2个问题，每个问题字数在50字左右，仅给出设计的问题即可。"
 
             messages = [

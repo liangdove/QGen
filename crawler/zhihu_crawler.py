@@ -46,5 +46,5 @@ for index, item in enumerate(jsonStr):
     textStr += itemStr+'\n'
 
 # 保存json的字符串
-with open('zhihu.txt', 'w', encoding="utf-8") as f:
+with open('data/zhihu_2.txt', 'w', encoding="utf-8") as f:
     f.write(textStr)
