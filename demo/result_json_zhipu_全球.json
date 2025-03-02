@@ -1,0 +1,1102 @@
+[
+    {
+        "model": "glm-4-plus",
+        "created": 1740928959,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在特朗普与泽连斯基的白宫会谈中，双方主要围绕哪些核心议题展开激烈争论，最终导致会谈破裂？\n2. 美乌会谈破裂后，泽连斯基在社交媒体上连发35个“感谢”的举动，背后反映了乌克兰怎样的外交策略和心理状态？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232237983422692abf44be",
+        "id": "20250302232237983422692abf44be",
+        "usage": {
+            "prompt_tokens": 1534,
+            "completion_tokens": 65,
+            "total_tokens": 1599
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928968,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 孟加拉国此次访华所传递的“好消息”具体包含哪些内容，对中孟两国未来的合作有何深远影响？\n2. 孟加拉国的这一行动如何削弱了印度在南亚地区的主导权，印度将采取哪些应对措施来维护其地区影响力？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232245c0569f413e99422d",
+        "id": "20250302232245c0569f413e99422d",
+        "usage": {
+            "prompt_tokens": 3289,
+            "completion_tokens": 61,
+            "total_tokens": 3350
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928981,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **朱拉尼携外长求见中方的具体诉求是什么，中方在叙利亚问题上持何种立场，这对叙利亚未来政治进程有何影响？**\n   \n2. **在多方势力博弈的叙利亚局势中，中方为何成为关键角色，朱拉尼政权希望中方在哪些具体问题上松口，这将对中东地区的地缘政治格局产生怎样的变化？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232257187c144eb81743c8",
+        "id": "20250302232257187c144eb81743c8",
+        "usage": {
+            "prompt_tokens": 1538,
+            "completion_tokens": 81,
+            "total_tokens": 1619
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928993,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在中国加强对稀土出口管控的背景下，日本采取了哪些具体措施来应对其稀土供应链的“咽喉之困”，并试图减少对中国的依赖？\n\n2. 鉴于日本在稀土精炼技术和储备方面的现状，日本与其他国家（如澳大利亚、印度等）的合作能否有效缓解其稀土资源短缺问题，并对其高科技产业发展产生何种影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232310fef4e010b4cf44f6",
+        "id": "20250302232310fef4e010b4cf44f6",
+        "usage": {
+            "prompt_tokens": 2568,
+            "completion_tokens": 79,
+            "total_tokens": 2647
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929005,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在印度全球投资者大会食物抢夺事件中，哪些具体因素导致了现场秩序的失控，以及这一事件对印度吸引外资的努力可能产生哪些长远影响？\n\n2. 针对印度全球投资者大会上出现的混乱场面，其他国家在举办类似高规格国际会议时有哪些成功的管理经验可以借鉴，以避免类似事件的发生？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232322193313b7728f4432",
+        "id": "20250302232322193313b7728f4432",
+        "usage": {
+            "prompt_tokens": 644,
+            "completion_tokens": 74,
+            "total_tokens": 718
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929019,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 日本的“减反政策”具体是如何实施的，其对水稻种植面积和产量产生了哪些长期影响，最终如何导致了当前的“米荒”问题？\n2. 在此次“米荒”事件中，除了“减反政策”这一深层原因外，还有哪些短期因素（如气候、地震预警等）直接加剧了大米供应的紧张局势？这些因素是如何相互作用，进一步恶化了日本的粮食危机？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223233532ab850f7f024385",
+        "id": "2025030223233532ab850f7f024385",
+        "usage": {
+            "prompt_tokens": 2880,
+            "completion_tokens": 91,
+            "total_tokens": 2971
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929033,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在乌东俄占区，俄罗斯投资建设的基础设施和住宅项目对当地居民的生活产生了哪些具体影响？这些影响如何加剧了该地区对俄罗斯的依赖？\n\n2. 俄罗斯通过经济手段在乌东俄占区巩固控制的具体策略有哪些？这些策略如何影响了该地区回归乌克兰的可能性及其在国际社会中的地位？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232349b1f1524e36864013",
+        "id": "20250302232349b1f1524e36864013",
+        "usage": {
+            "prompt_tokens": 3085,
+            "completion_tokens": 72,
+            "total_tokens": 3157
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929044,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 马斯克在不同时间段与多位女性生育孩子的行为，是否反映了其对传统家庭观念的挑战，以及这种做法在社会伦理和法律层面可能引发的争议是什么？\n\n2. 马斯克为子女创办私校Ad Astra的教育理念和实践，与传统教育模式相比有哪些创新之处，这对未来教育改革和人才培养模式可能产生哪些影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223240109609145f999413e",
+        "id": "2025030223240109609145f999413e",
+        "usage": {
+            "prompt_tokens": 3203,
+            "completion_tokens": 78,
+            "total_tokens": 3281
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929052,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 哈萨克斯坦选择将大部分石油出口到欧洲而非中国的主要经济和地缘政治考量是什么？\n2. 哈萨克斯坦的石油出口策略对其与中国的双边关系以及中国能源安全战略有何潜在影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232410622e53016b3142c6",
+        "id": "20250302232410622e53016b3142c6",
+        "usage": {
+            "prompt_tokens": 2778,
+            "completion_tokens": 52,
+            "total_tokens": 2830
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929062,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **中国电动三轮车（三蹦子）在意大利车展上受欢迎的原因有哪些？其独特的外观和实用性如何满足了外国消费者的需求？**\n\n2. **中国三蹦子在国际市场上的走红对中国三轮摩托车产业的国际化发展有哪些积极影响？这一现象背后反映了中国制造业的哪些优势和挑战？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022324185b269979e61f451b",
+        "id": "202503022324185b269979e61f451b",
+        "usage": {
+            "prompt_tokens": 1777,
+            "completion_tokens": 66,
+            "total_tokens": 1843
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929073,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **泰国政治动荡对中泰合作项目具体产生了哪些短期和长期影响，尤其是在经济和基础设施建设方面的合作？**\n\n2. **佩通坦因鞋子问题面临的政治风险，反映了泰国政治文化中的哪些深层次矛盾，以及这可能如何影响泰国未来的政治稳定和对外合作？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223243139dd0195d45f4833",
+        "id": "2025030223243139dd0195d45f4833",
+        "usage": {
+            "prompt_tokens": 98,
+            "completion_tokens": 65,
+            "total_tokens": 163
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929083,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在俄媒总结的俄乌冲突六大赢家排名中，中国和朝鲜分别位列第一和第二的原因是什么？这一排名反映了哪些国际政治和经济层面的考量？\n\n2. 俄乌冲突对中朝两国的国际地位和区域影响力产生了怎样的影响？这一排名是否会进一步影响中朝与西方国家的外交关系及战略布局？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022324409f2637e42aa246b7",
+        "id": "202503022324409f2637e42aa246b7",
+        "usage": {
+            "prompt_tokens": 3353,
+            "completion_tokens": 74,
+            "total_tokens": 3427
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929093,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **警方在调查吉恩·哈克曼及其妻子贝茜·荒川的死亡事件时，发现了哪些关键线索和疑点，这些线索如何影响了案件的初步判断？**\n\n2. **吉恩·哈克曼和贝茜·荒川的遗体被发现时已呈木乃伊化状态，这一现象对确定他们的死亡时间和死因有何重要意义？警方为何排除了煤气泄漏的可能性，目前有哪些新的推测或进展？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232449ee8a06d2662c4b2e",
+        "id": "20250302232449ee8a06d2662c4b2e",
+        "usage": {
+            "prompt_tokens": 2726,
+            "completion_tokens": 99,
+            "total_tokens": 2825
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929102,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **该男子所在国家的婚姻制度及其社会经济背景如何影响了其拥有多位妻子的现象？**\n2. **这种多妻多子的家庭结构对该男子所在社区的人口增长、资源分配和社会稳定带来了哪些潜在影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232500e93d95963ad64fde",
+        "id": "20250302232500e93d95963ad64fde",
+        "usage": {
+            "prompt_tokens": 3188,
+            "completion_tokens": 50,
+            "total_tokens": 3238
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929113,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 库尔德工人党宣布放下武器并解散的决定背后，有哪些关键因素促成了这一历史性转折，各方对此反应如何？\n\n2. 库尔德工人党的解散对土耳其国内政治格局、地区安全局势以及国际反恐合作将产生哪些深远影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022325112e0dcffd2fc74a7d",
+        "id": "202503022325112e0dcffd2fc74a7d",
+        "usage": {
+            "prompt_tokens": 89,
+            "completion_tokens": 60,
+            "total_tokens": 149
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929124,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 特朗普推出的“金卡”计划与美国主权财富基金的筹建是否存在资金关联？具体来说，金卡”销售所得是否会被纳入主权财富基金的资金来源？\n\n2. 特朗普政府在没有国会批准的情况下推行“金卡”计划，这种做法是否会影响美国主权财富基金的合法性和国际信誉？特别是考虑到主权财富基金的建立通常需要严格的立法程序和财政透明度。",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232520952c4d583bf04b13",
+        "id": "20250302232520952c4d583bf04b13",
+        "usage": {
+            "prompt_tokens": 2998,
+            "completion_tokens": 85,
+            "total_tokens": 3083
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929136,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 佩通坦总理此次乘直升机前往泰缅边境的目的是什么？这一行动对泰国政府打击边境电诈问题的策略有何具体影响？\n\n2. 佩通坦总理佩戴的40万蛇形手表引发了公众关注，这一细节是否反映了泰国政治人物在公众形象塑造上的新趋势？这对她的政治形象和民意支持率可能产生哪些正面或负面的效应？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232532e54c70b062d54387",
+        "id": "20250302232532e54c70b062d54387",
+        "usage": {
+            "prompt_tokens": 1464,
+            "completion_tokens": 85,
+            "total_tokens": 1549
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929146,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 猴面包树在非洲的生态环境中扮演了怎样的角色，其独特的储水机制是如何帮助当地居民应对干旱气候的？\n2. 猴面包树的果实、树叶、树皮和种子等各部分的具体营养成分和用途是什么，它是如何成为非洲家庭重要生活资源的？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223254201f5703d6a8e4d3e",
+        "id": "2025030223254201f5703d6a8e4d3e",
+        "usage": {
+            "prompt_tokens": 3451,
+            "completion_tokens": 66,
+            "total_tokens": 3517
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929158,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **印度经济二元结构对贫富差距的影响机制是什么？具体有哪些政策和历史因素导致了这种结构的形成和加剧？**\n\n2. **在印度高端房地产市场火爆与普通民众消费能力低迷并存的背景下，政府和企业分别采取了哪些措施来缓解贫富差距？这些措施的实际效果如何？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022325550092705a62094c6c",
+        "id": "202503022325550092705a62094c6c",
+        "usage": {
+            "prompt_tokens": 791,
+            "completion_tokens": 67,
+            "total_tokens": 858
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929170,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在菲律宾街头人质劫持事件的纪录片中，解救小女孩的关键时刻有哪些细节被首次曝光，这些细节对理解整个解救行动有何重要意义？**\n\n2. **纪录片中对菲律宾警方在解救小女孩过程中所采取的策略和行动有何评价，这些策略和行动与其他成功或失败的解救人质案例相比有何异同？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232606d667a261b4484ee5",
+        "id": "20250302232606d667a261b4484ee5",
+        "usage": {
+            "prompt_tokens": 3356,
+            "completion_tokens": 78,
+            "total_tokens": 3434
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929184,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在当前国际形势下，美国联合11国对朝鲜进行“围攻”的具体动机和战略目标是什么？这一行动对东北亚地区的地缘政治格局将产生哪些深远影响？\n\n2. 面对美国及其盟友的联合施压，俄罗斯采取“先发制人”策略的具体措施有哪些？中国在此事件中明确表达的态度和立场，将如何影响未来朝鲜半岛问题的解决路径及中俄美三边关系的发展？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022326200c903e482572439c",
+        "id": "202503022326200c903e482572439c",
+        "usage": {
+            "prompt_tokens": 3400,
+            "completion_tokens": 97,
+            "total_tokens": 3497
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929196,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在缅、中、泰三国联合打击缅甸妙瓦底电诈园区的行动中，具体的合作机制是如何构建和运作的，以确保行动的高效性和协同性？\n\n2. 缅甸妙瓦底电诈园区被摧毁后，对于区域内的电信诈骗犯罪有何短期和长期影响，以及三国如何计划巩固和扩展这一合作机制以应对未来可能的类似犯罪活动？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232632bcfcbe621a9c4748",
+        "id": "20250302232632bcfcbe621a9c4748",
+        "usage": {
+            "prompt_tokens": 3033,
+            "completion_tokens": 86,
+            "total_tokens": 3119
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929206,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在美俄闭门会议中，普京提出的“全球不可分割的安全体系”具体包含哪些核心要素，这一提议对当前国际安全格局可能产生哪些深远影响？\n\n2. 鉴于会议结束后双方均未立即对媒体发布具体成果，您认为此次闭门会议在解决俄乌冲突及美俄关系中的“棘手问题”方面取得了哪些实质性进展，这些进展又将如何影响未来美俄及乌克兰三方的互动关系？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232642d6f86267e5464f3b",
+        "id": "20250302232642d6f86267e5464f3b",
+        "usage": {
+            "prompt_tokens": 2504,
+            "completion_tokens": 99,
+            "total_tokens": 2603
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929217,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在乌克兰重建过程中，中国参与其中的潜在经济利益与地缘政治风险如何平衡？**\n\n2. **面对乌克兰重建的巨额订单，中国企业在技术、资金和国际合作方面将面临哪些挑战与机遇？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232654daa62b1bbbf342d0",
+        "id": "20250302232654daa62b1bbbf342d0",
+        "usage": {
+            "prompt_tokens": 2912,
+            "completion_tokens": 51,
+            "total_tokens": 2963
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929231,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在2011年日本大海啸事件中，哪些因素导致了当地居民对海啸的防范措施不足，从而造成了严重的人员伤亡和财产损失？\n2. 纪录片《深入海啸》揭示了哪些具体的案例，展示了缺乏海啸应对经验如何使人们在灾难中陷入困境，以及这些案例对今后海啸防范教育有哪些启示？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232707ba1a6b92f25e4583",
+        "id": "20250302232707ba1a6b92f25e4583",
+        "usage": {
+            "prompt_tokens": 3390,
+            "completion_tokens": 79,
+            "total_tokens": 3469
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929240,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在吉恩·哈克曼和妻子贝琪·荒川的死亡事件中，警方发现的药片和药瓶是否可能指向某种特定的药物过量或中毒？这些药物是否与他们的死亡有直接关联？\n\n2. 维修工在发现吉恩·哈克曼和妻子遗体时，为何会情绪激动并受到心理阴影？这一发现过程中是否存在其他未被报道的异常细节，可能对案件调查产生重要影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022327179176e8b485dc4ae2",
+        "id": "202503022327179176e8b485dc4ae2",
+        "usage": {
+            "prompt_tokens": 1828,
+            "completion_tokens": 96,
+            "total_tokens": 1924
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929249,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **泰国王室的册封仪式如何体现其森严的等级制度，这种制度对王室内部的权力分配有何影响？**\n   \n2. **在泰国王室的隐秘权力争斗中，册封仪式扮演了怎样的角色，具体有哪些事件或人物反映了这种争斗的复杂性？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022327261ac8614b31c6427a",
+        "id": "202503022327261ac8614b31c6427a",
+        "usage": {
+            "prompt_tokens": 2977,
+            "completion_tokens": 67,
+            "total_tokens": 3044
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929262,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 马可·卢比奥在何种背景下提出泽连斯基“无理取闹，不知好歹”的评价，并要求其向特朗普道歉？这一立场是否反映了美国国内对乌克兰政策的主流意见？\n\n2. 鉴于马可·卢比奥的言论，乌克兰政府及国际社会对此有何回应？这一事件对美乌关系以及乌克兰在国际舞台上的支持态势会产生何种影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223273986e319b7dae246fd",
+        "id": "2025030223273986e319b7dae246fd",
+        "usage": {
+            "prompt_tokens": 1694,
+            "completion_tokens": 90,
+            "total_tokens": 1784
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929275,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在阿富汗社会背景下，贫困男童被有权势人士“收养”的现象反映了哪些深层次的社会问题，以及这一现象对儿童身心健康的长期影响是什么？\n\n2. 针对阿富汗贫困男童在“收养”后长出胡须所面临的更悲惨处境，当地政府及国际社会采取了哪些具体措施进行干预和保护，这些措施的实际效果如何，又存在哪些改进空间？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232752afccfc47a74d4789",
+        "id": "20250302232752afccfc47a74d4789",
+        "usage": {
+            "prompt_tokens": 96,
+            "completion_tokens": 90,
+            "total_tokens": 186
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929286,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **塔吉克斯坦为何成为中国汽车的主要市场？其背后的经济、政策和市场因素有哪些？**\n2. **中国汽车品牌在塔吉克斯坦的普及对中国汽车产业的国际化进程有何影响？未来在其他发展中国家市场推广的策略可能会有哪些调整？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232804c399ef3dc2b94c98",
+        "id": "20250302232804c399ef3dc2b94c98",
+        "usage": {
+            "prompt_tokens": 573,
+            "completion_tokens": 57,
+            "total_tokens": 630
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929297,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **绍伊古此次访华行程的突然性和短暂性是否与俄罗斯国内紧急局势有关？具体有哪些事件可能促成了他的迅速返俄？**\n\n2. **绍伊古在北京仅停留一天的安排，是否反映了中俄两国在当前国际形势下的战略沟通和协调机制？这种高效的互动对中俄关系及地区安全有何深远影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022328110f5023008cae415f",
+        "id": "202503022328110f5023008cae415f",
+        "usage": {
+            "prompt_tokens": 3207,
+            "completion_tokens": 78,
+            "total_tokens": 3285
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929306,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在泽连斯基与特朗普、万斯的白宫争吵事件中，双方的主要分歧点是什么？这些分歧对美乌关系及俄乌冲突的未来走向可能产生哪些影响？**\n\n2. **此次白宫争吵事件后，乌克兰国内及国际社会对此有何反应？这些反应又将如何影响乌克兰在俄乌冲突中的立场和策略？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232823eb5623c4aaf549cf",
+        "id": "20250302232823eb5623c4aaf549cf",
+        "usage": {
+            "prompt_tokens": 3258,
+            "completion_tokens": 78,
+            "total_tokens": 3336
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929315,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **多国财长缺席G20会议的具体原因是什么，这对会议的讨论和决策会产生哪些直接影响？**\n   \n2. **在多国财长缺席的背景下，G20会议如何有效应对当前全球经济面临的挑战，特别是贸易保护主义和地缘政治紧张局势？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232832e86373cf63ea427b",
+        "id": "20250302232832e86373cf63ea427b",
+        "usage": {
+            "prompt_tokens": 2673,
+            "completion_tokens": 64,
+            "total_tokens": 2737
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929328,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **泽连斯基在美乌关系中的决策失误具体有哪些，这些失误对乌克兰的国际地位和内部稳定产生了哪些直接影响？**\n   \n2. **在美乌总统白宫激烈争吵后，北约和其他国际组织对乌克兰的支持态度有何变化，未来俄乌冲突的走向可能会受到哪些新的国际因素影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223284583464cf7ac86401c",
+        "id": "2025030223284583464cf7ac86401c",
+        "usage": {
+            "prompt_tokens": 2980,
+            "completion_tokens": 71,
+            "total_tokens": 3051
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929341,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **中泰缅三国联合打击妙瓦底电诈园区的具体措施及其成效如何通过卫星影像数据得到验证？**\n2. **妙瓦底电诈园区电力供应大幅下降对当地经济和社会秩序产生了哪些短期和长期影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022328583f3ca83eb1a94ead",
+        "id": "202503022328583f3ca83eb1a94ead",
+        "usage": {
+            "prompt_tokens": 2658,
+            "completion_tokens": 57,
+            "total_tokens": 2715
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929353,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **印度实现太空对接技术的具体细节和过程是怎样的，与其他已掌握该技术的国家相比有何异同？**\n   \n2. **在印度宣称成为第4个实现太空对接的国家后，为何有观点认为其实际上是排名第5个半，这种说法的依据和背景是什么？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232910fdfa1eb9b1c74df7",
+        "id": "20250302232910fdfa1eb9b1c74df7",
+        "usage": {
+            "prompt_tokens": 2964,
+            "completion_tokens": 65,
+            "total_tokens": 3029
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929365,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **泰国美女总理佩通坦·西那瓦在公开场合揉太阳穴，是否暗示其面临的政治压力或健康问题？这一行为对泰国国内政治氛围和民众信任有何潜在影响？**\n\n2. **“西那瓦光环”作为佩通坦·西那瓦政治生涯的双刃剑，如何在提升其政治影响力的同时，也可能带来哪些负面影响？这一家族背景对其处理国内外事务的具体策略有何影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232921fa1214d7224b45b5",
+        "id": "20250302232921fa1214d7224b45b5",
+        "usage": {
+            "prompt_tokens": 833,
+            "completion_tokens": 95,
+            "total_tokens": 928
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929374,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在尹锡悦和李在明的终审过程中，有哪些关键证据和论点影响了法庭的判决，以及这些判决对韩国未来政治格局可能产生哪些深远影响？\n\n2. 鉴于尹锡悦和李在明的审判结果，分析韩国民众对此的反应及各方政治力量的重新布局，探讨这将对即将到来的韩国总统大选带来哪些变数？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232931632655b1ea234f08",
+        "id": "20250302232931632655b1ea234f08",
+        "usage": {
+            "prompt_tokens": 3227,
+            "completion_tokens": 79,
+            "total_tokens": 3306
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929385,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在腾讯新闻关于“爱泼斯坦案恶心证据大曝光：按摩床、护士服、鞭子俱全”的报道中，这些证据是如何被发现的，并且它们在案件调查中起到了怎样的关键作用？\n\n2. 针对腾讯新闻披露的爱泼斯坦案中的“恶心证据”，这些物品的存在揭示了爱泼斯坦怎样的犯罪模式和受害者的遭遇细节？公众和司法界对此有何反应？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232941ab6b5c4cd1264984",
+        "id": "20250302232941ab6b5c4cd1264984",
+        "usage": {
+            "prompt_tokens": 2601,
+            "completion_tokens": 90,
+            "total_tokens": 2691
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929395,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **特朗普金卡计划的实际申请人数与预期差距如何？是否存在夸大宣传的可能性？**\n   \n2. **美国商务部长提到的25万人排队等候的具体依据是什么？这一数据的真实性和可靠性如何验证？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232952f4842e051f854245",
+        "id": "20250302232952f4842e051f854245",
+        "usage": {
+            "prompt_tokens": 2915,
+            "completion_tokens": 49,
+            "total_tokens": 2964
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929403,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **Paing Takhon在剃度修行期间的照片为何能在网络上迅速走红，并对他后续的事业和知名度产生了怎样的影响？**\n   \n2. **Paing Takhon与林米亚的婚姻结合，除了个人情感因素外，是否可能对双方家族的商业合作或社会地位产生潜在影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223300158c39a79de81480d",
+        "id": "2025030223300158c39a79de81480d",
+        "usage": {
+            "prompt_tokens": 386,
+            "completion_tokens": 71,
+            "total_tokens": 457
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929415,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **马来西亚政府此次重启马航MH370搜寻工作的主要依据是什么？全球六组专家如何确定新的高概率搜索区域？**\n   \n2. **海洋无限公司在新一轮马航MH370搜寻中采用了哪些先进技术？与前几次搜寻相比，此次搜寻在策略和方法上有何显著改进？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022330122224ed0d1b9a44be",
+        "id": "202503022330122224ed0d1b9a44be",
+        "usage": {
+            "prompt_tokens": 3188,
+            "completion_tokens": 68,
+            "total_tokens": 3256
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929429,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 泽连斯基在与特朗普会面谈崩后，连续在社交媒体上表达感谢的行为，是否反映了乌克兰在国际关系中的孤立无援，还是意在巩固与欧洲盟友的支持？\n\n2. 鉴于英国和意大利领导人迅速提议召开会议磋商应对美乌领导人谈崩事件，这是否预示着欧洲国家将采取更积极的集体行动，以平衡美国在俄乌冲突解决中的单边策略？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233024b1dde2c8bca54912",
+        "id": "20250302233024b1dde2c8bca54912",
+        "usage": {
+            "prompt_tokens": 2531,
+            "completion_tokens": 92,
+            "total_tokens": 2623
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929443,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在美俄土耳其二次谈判的背景下，绍伊古访问北京并明确对中俄关系表态，这一系列外交动作是否预示着中俄在地区安全与战略协作上将有新的深度合作？这种合作又将如何影响当前的国际政治格局？\n\n2. 绍伊古访问北京期间所表达的对中俄关系的明确态度，具体涉及哪些核心议题和合作领域？这一表态对于缓解或加剧美俄紧张关系，以及对于土耳其作为谈判东道国的地缘政治策略，将分别产生怎样的短期与长期影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233038a0de1db519f84056",
+        "id": "20250302233038a0de1db519f84056",
+        "usage": {
+            "prompt_tokens": 92,
+            "completion_tokens": 114,
+            "total_tokens": 206
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929457,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在泰国政府计划遣返4800多名中国籍妙瓦底受害者的背景下，泰总理亲赴反诈一线“督战”将如何具体影响泰缅边境的打击人口贩卖和网络诈骗行动？\n\n2. 泰国此次大规模遣返中国籍受害者的行动，是否预示着中泰两国在跨境犯罪打击方面将进一步加强合作，具体会有哪些新的合作措施出台？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233053db6a690373ef4808",
+        "id": "20250302233053db6a690373ef4808",
+        "usage": {
+            "prompt_tokens": 2685,
+            "completion_tokens": 85,
+            "total_tokens": 2770
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929472,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在当前韩国政治局势中，导致双方决裂的具体事件和深层次原因是什么？这一决裂对韩国国内政治生态及国际关系将产生哪些短期和长期影响？\n\n2. 面对风雨飘摇的韩国局势，韩国政府及各党派采取了哪些应对措施？这些措施在缓解紧张局势、促进对话方面是否有效，其成效如何评估？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022331074dabf74dbd85472c",
+        "id": "202503022331074dabf74dbd85472c",
+        "usage": {
+            "prompt_tokens": 84,
+            "completion_tokens": 84,
+            "total_tokens": 168
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929483,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在特朗普与泽连斯基会晤争吵事件中，双方在哪些关键议题上表现出明显的立场分歧？这些分歧对美乌关系及地区局势可能产生怎样的长期影响？\n\n2. 鉴于此次美乌总统会晤的不欢而散，欧洲各国领导人的不同反应反映了怎样的地缘政治考量？这对未来欧洲在乌克兰问题上的立场和行动可能带来哪些变数？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022331193e08e2583fbe4b88",
+        "id": "202503022331193e08e2583fbe4b88",
+        "usage": {
+            "prompt_tokens": 789,
+            "completion_tokens": 87,
+            "total_tokens": 876
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929495,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 朝鲜在网络封闭的环境下，是如何培养和维持一支技术先进、攻击力强大的黑客军团，其背后的技术支持和资源调配机制是怎样的？\n\n2. 鉴于朝鲜黑客军团涉及的高额网络犯罪案件，国际社会采取了哪些具体措施来防范和应对此类跨境网络攻击，这些措施在实施过程中面临哪些挑战和局限性？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022331324c1d75848aa04d76",
+        "id": "202503022331324c1d75848aa04d76",
+        "usage": {
+            "prompt_tokens": 92,
+            "completion_tokens": 75,
+            "total_tokens": 167
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929506,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在韩国客机事故中，除了鸟群撞击因素外，还有哪些潜在的技术或操作失误可能导致了起落架无法放下和最终的坠机？**\n2. **针对韩国客机事故，专家们对鸟击引发的多重故障及其对飞行安全的系统性影响有何具体分析和建议？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233143c9d1cbaf0e91414e",
+        "id": "20250302233143c9d1cbaf0e91414e",
+        "usage": {
+            "prompt_tokens": 3216,
+            "completion_tokens": 69,
+            "total_tokens": 3285
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929519,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 罗塞芙在上海接受治疗期间，采用了哪些具体的医疗措施和治疗方案，这些措施对于其快速痊愈出院起到了怎样的关键作用？\n\n2. 罗塞芙痊愈出院后恢复工作，这一事件对于国际社会如何看待中国医疗水平和国际合作抗疫能力产生了哪些积极影响，以及可能对未来跨国医疗合作带来哪些新的机遇和挑战？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233155597303533a2345c8",
+        "id": "20250302233155597303533a2345c8",
+        "usage": {
+            "prompt_tokens": 81,
+            "completion_tokens": 77,
+            "total_tokens": 158
+        }
+    }
+]

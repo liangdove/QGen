@@ -80,9 +80,25 @@ def csv_first_column_to_txt(csv_file_path, txt_file_path, con):
         print(f"处理过程中出现错误: {e}")
 
 # 调用函数进行转换
-csv_file = 'data/qq_scrap_edu_0301.csv'  
-txt_file = 'data/qq_scrap_edu_0301.txt'   
-csv_first_column_to_txt(csv_file, txt_file, 0)
+# csv_file = 'data/qq_scrap_edu_0301.csv'  
+# txt_file = 'data/qq_scrap_edu_0301.txt'   
+# csv_first_column_to_txt(csv_file, txt_file, 0)
+
+# 删除空行
+def del_empty_lines(file_path:str, file_path_processed:str):
+    try:
+        with open(file_path, "r", encoding = 'utf-8') as file:
+            lines = file.readlines()
+        non_empty_lines = [line for line in lines if line.strip()]
+        
+        with open(file_path_processed, "w", encoding='utf-8') as file:
+            file.writelines(non_empty_lines)
+        print(f"已成功消除的空行")
+    
+    except Exception as e:
+        print("发生错误：", e)
+        
+# del_empty_lines("demo/result_体育.txt", "demo/result_体育.txt")
 
 
 

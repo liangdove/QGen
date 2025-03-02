@@ -1,0 +1,1102 @@
+[
+    {
+        "model": "glm-4-plus",
+        "created": 1740925475,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **EDG在无畏契约曼谷大师赛中的表现是否真的暴露了其致命短板？具体体现在哪些方面？**\n   \n2. **从战术和团队配合的角度分析，EDG在与T1的比赛中失利的主要原因是什么？这对他们在未来赛事中的策略调整有何启示？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222431cb9af6b2dab749df",
+        "id": "20250302222431cb9af6b2dab749df",
+        "usage": {
+            "prompt_tokens": 2228,
+            "completion_tokens": 64,
+            "total_tokens": 2292
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925486,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. JackeyLove在获得FMVP后提到“69才是打的最好”的言论，这是否暗示了团队内部对于选手表现的某种评价标准或默契，以及这种评价方式对团队士气和战术安排有何影响？\n\n2. 从数据分析的角度来看，JackeyLove在提及“69才是打的最好”时，是否有具体的比赛数据支撑这一观点，并且这一言论是否可能对粉丝和公众对于选手个人及团队表现的认知产生偏差？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022224439f05c9ca93484d16",
+        "id": "202503022224439f05c9ca93484d16",
+        "usage": {
+            "prompt_tokens": 89,
+            "completion_tokens": 97,
+            "total_tokens": 186
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925497,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在“狼队3-1TES”的比赛中，归期的表现被广泛称赞，请问他在哪些关键节点发挥了重要作用，具体表现如何影响了比赛走向？\n\n2. 针对比赛中一笙和朵莉亚的开团操作，以及黄超和洗久酷出现的失误，这些细节对双方战队的整体策略和比赛结果产生了哪些具体影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022224535b846ab4ca4645cc",
+        "id": "202503022224535b846ab4ca4645cc",
+        "usage": {
+            "prompt_tokens": 2953,
+            "completion_tokens": 81,
+            "total_tokens": 3034
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925509,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在TES决赛夺冠后，JKL为何会受到网友的激烈批评？这些批评主要集中在他哪些方面的表现或行为上？\n2. AL中单选手的黑历史具体包括哪些内容？这些黑历史是如何被挖出并引发公众关注的，它们对TES夺冠后的舆论风向产生了怎样的影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022225066ca0ccc11dbc41af",
+        "id": "202503022225066ca0ccc11dbc41af",
+        "usage": {
+            "prompt_tokens": 862,
+            "completion_tokens": 67,
+            "total_tokens": 929
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925519,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在《王者荣耀》S34赛季末，哪些英雄被普遍认为是“低人一等”的选择，其胜率低的原因是什么，玩家在选择英雄时应如何避免这些陷阱？\n\n2. 针对腾讯新闻报道中提到的“最弱法师”，其具体是哪位英雄，为何仍有不少玩家将其视为宝，这种认知差异对玩家上分策略有何影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222515a1c89b4cede74071",
+        "id": "20250302222515a1c89b4cede74071",
+        "usage": {
+            "prompt_tokens": 3077,
+            "completion_tokens": 82,
+            "total_tokens": 3159
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925530,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在EDGM零封JDG的比赛中，初晨首次登场对比赛结果产生了怎样的影响？他的表现有哪些亮点和不足之处？\n\n2. 句号在比赛中为何“秀不起来”，这与对手的战术布置或自身状态有何关联？誓约上场后带来了哪些变化，他的表现是否为EDGM的胜利增添了“乐子”？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222527484896a472f84ed6",
+        "id": "20250302222527484896a472f84ed6",
+        "usage": {
+            "prompt_tokens": 852,
+            "completion_tokens": 77,
+            "total_tokens": 929
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925542,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在当前版本的游戏环境中，女枪（女警）的AQ连招相较于其他ADC英雄的常规操作，其优势体现在哪些具体的数据和战术层面？\n\n2. 针对玩家反映的“信仰英雄”在实战中不敌女枪AQ连招的现象，游戏开发者可能会采取哪些平衡性调整措施，以避免单一英雄或技能组合的过度强势对游戏多样性和公平性造成的影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022225385e407fc546be4bdb",
+        "id": "202503022225385e407fc546be4bdb",
+        "usage": {
+            "prompt_tokens": 87,
+            "completion_tokens": 91,
+            "total_tokens": 178
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925554,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在S39新赛季更新中，新增的两位三体人角色将如何影响现有的游戏平衡和玩家策略选择？\n2. 针对五英雄变异和巅峰赛大调整的具体内容，这些变动预计会对高端玩家的竞技体验和整体游戏生态产生哪些深远影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022225522c572d00ceae4416",
+        "id": "202503022225522c572d00ceae4416",
+        "usage": {
+            "prompt_tokens": 96,
+            "completion_tokens": 63,
+            "total_tokens": 159
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925567,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 小米SU7 Ultra的定价策略与BBA（奔驰、宝马、奥迪）等传统豪华品牌相比，有哪些显著的市场竞争优势和潜在挑战？\n\n2. 在小米SU7 Ultra发布后，BBA等豪华汽车品牌在技术创新、市场定位和品牌营销方面可能会采取哪些应对措施以维持其市场份额？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222260405bbebda81c443a7",
+        "id": "2025030222260405bbebda81c443a7",
+        "usage": {
+            "prompt_tokens": 90,
+            "completion_tokens": 71,
+            "total_tokens": 161
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925579,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **AG超玩会在最近一场比赛中的表现如何，是否达到了晋级S组的条件？**\n2. **在当前的KPL赛事积分和排名情况下，AG超玩会即使赢得最后一场比赛，还存在哪些不确定因素可能影响其晋级S组？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022226157ac20040ed39492b",
+        "id": "202503022226157ac20040ed39492b",
+        "usage": {
+            "prompt_tokens": 3006,
+            "completion_tokens": 59,
+            "total_tokens": 3065
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925589,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **暗区突围游戏中，账号“穷的没边了”具体指的是哪些方面的资源匮乏？这种状态对玩家的游戏体验有何具体影响？**\n\n2. **针对“暗区突围”游戏中出现的账号资源极度匮乏现象，官方或玩家社区采取了哪些措施来改善这种情况？这些措施的实际效果如何？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222626bd6931e641104d5a",
+        "id": "20250302222626bd6931e641104d5a",
+        "usage": {
+            "prompt_tokens": 565,
+            "completion_tokens": 71,
+            "total_tokens": 636
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925600,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在即将到来的DNF手游沟通会上，官方针对红眼和大枪职业的加强计划具体包括哪些方面？这些改动预计会对这两个职业在PVP和PVE模式中的表现产生怎样的影响？\n\n2. 鉴于红眼和大枪职业在当前版本中的表现及玩家反馈，此次沟通会上是否会公布关于这两个职业的平衡性调整细节？如果有，这些调整措施是否能够有效解决现有问题，从而使其“再次伟大”？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222636da2fa16a5f2e4b27",
+        "id": "20250302222636da2fa16a5f2e4b27",
+        "usage": {
+            "prompt_tokens": 843,
+            "completion_tokens": 98,
+            "total_tokens": 941
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925609,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 暴雪宣布的“军团再临幻境新生”具体包含哪些新内容和玩法，与之前的《军团再临》版本有何不同？\n2. “军团再临幻境新生”与12.0版本和TBC怀旧服之间的关联是什么，暴雪如何计划将这些内容整合到现有的游戏体系中？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222645358e1a83e8b345cd",
+        "id": "20250302222645358e1a83e8b345cd",
+        "usage": {
+            "prompt_tokens": 2962,
+            "completion_tokens": 72,
+            "total_tokens": 3034
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925618,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 《怪物猎人：荒野》在首发后遭遇了哪些具体的优化问题，这些问题对玩家体验产生了怎样的负面影响？\n2. 除了优化问题外，玩家对《怪物猎人：荒野》的剧情设计有哪些主要的不满和吐槽点，这些反馈反映了玩家对游戏叙事的哪些期待？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222655fa13637128e544b3",
+        "id": "20250302222655fa13637128e544b3",
+        "usage": {
+            "prompt_tokens": 2222,
+            "completion_tokens": 67,
+            "total_tokens": 2289
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925627,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **帝师账号被封禁的具体原因是什么，是否与其与AKA的骂战有直接关联，以及此次封禁对网红行业规范有何影响？**\n2. **打假网红“妖怪”在此次事件中扮演了何种角色，其曝光的细节对帝师账号被封禁事件有何关键性作用，以及这种网络打假行为对维护网络环境的意义何在？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222704c1baf682c6c345b6",
+        "id": "20250302222704c1baf682c6c345b6",
+        "usage": {
+            "prompt_tokens": 1809,
+            "completion_tokens": 87,
+            "total_tokens": 1896
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925637,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在TES战队以1穿5的惊人成绩夺冠后，关于FMVP评选引发的争议主要集中在哪些方面，这反映了电竞粉丝和观众对荣誉分配的哪些核心关注点？\n\n2. 面对FMVP争议和可能的离间策略，JKL展现高情商回应的具体表现是什么，这种处理方式对维护团队凝聚力和公众形象有哪些积极影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222714dde264b1dc7945cb",
+        "id": "20250302222714dde264b1dc7945cb",
+        "usage": {
+            "prompt_tokens": 94,
+            "completion_tokens": 81,
+            "total_tokens": 175
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925650,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在“挑战‘手枪+弓箭’吃鸡”这一特殊玩法中，玩家如何巧妙结合手枪和弓箭的优劣势，在决赛圈实现高效击杀？\n\n2. 从战术策略和心理素质角度分析，玩家在决赛圈使用弓箭进行“一箭一个头”精准打击，需要具备哪些关键能力和赛前准备？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222727d865be798e6a4469",
+        "id": "20250302222727d865be798e6a4469",
+        "usage": {
+            "prompt_tokens": 99,
+            "completion_tokens": 78,
+            "total_tokens": 177
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925662,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在LPL第一赛段大结局中，JKL是如何打破决赛魔咒并助力队伍取得胜利的？这一突破对他在职业生涯中的意义是什么？\n\n2. 369在此次赛段中重返巅峰，成为历史第一的具体表现有哪些？他的这一成就对LPL赛区的整体实力和未来发展趋势有何影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022227396fa72cbee3194325",
+        "id": "202503022227396fa72cbee3194325",
+        "usage": {
+            "prompt_tokens": 1965,
+            "completion_tokens": 73,
+            "total_tokens": 2038
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925672,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. \"难言x在本次赛季末的机甲玩法策略中，具体采用了哪些创新技巧或战术，使其能够在扶贫武子奕的过程中发挥显著效果？\"\n2. \"腾讯新闻报道中提到的‘扶贫武子奕’行动，在游戏社区内引发了哪些具体反响和讨论，这些反响对提升玩家参与度和游戏体验有何潜在影响？\"",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022227487915065c19ac4ee1",
+        "id": "202503022227487915065c19ac4ee1",
+        "usage": {
+            "prompt_tokens": 90,
+            "completion_tokens": 78,
+            "total_tokens": 168
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925683,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在直播平台年度盛典中，美颜滤镜失效导致多位女主播颜值翻车，这一现象反映了直播行业哪些深层次的问题和挑战？\n\n2. 面对直播平台年度盛典中女主播颜值翻车事件，观众和平台应如何调整心态和策略，以促进直播行业的健康发展和真实性回归？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022227599e437bd6abd14a08",
+        "id": "202503022227599e437bd6abd14a08",
+        "usage": {
+            "prompt_tokens": 2886,
+            "completion_tokens": 73,
+            "total_tokens": 2959
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925695,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在《王者荣耀》中，关羽、亚连和孙策作为芈月的三大克星，他们的具体技能和战术是如何有效克制芈月的？请结合实际对战案例进行分析。\n\n2. 腾讯新闻报道中提到的“T4的海诺”在对线芈月时有哪些独特的优势和策略？与其他克星英雄相比，海诺在实战中的表现如何？是否有实际数据支持其效果？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222810d2241f2eb5af4280",
+        "id": "20250302222810d2241f2eb5af4280",
+        "usage": {
+            "prompt_tokens": 3306,
+            "completion_tokens": 91,
+            "total_tokens": 3397
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925705,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **关于伍声2009被逮捕的具体情况，警方是否已经正式发布声明，详细说明了逮捕的原因和相关证据？**\n\n2. **小楼在社交媒体上发文庆祝伍声2009被逮捕的行为，是否引发了公众对于网络暴力和隐私权的讨论，以及这种行为可能对当事人和社会舆论产生哪些深远影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222822edd5fb91b69b4127",
+        "id": "20250302222822edd5fb91b69b4127",
+        "usage": {
+            "prompt_tokens": 653,
+            "completion_tokens": 72,
+            "total_tokens": 725
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925716,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在KSG零封DRG的比赛中，啊泽的表现有哪些亮点，他是如何帮助队伍站稳脚跟的？\n2. 对于比赛中四宝辅助的表现被批评为“太坑”，具体有哪些失误或不足之处导致了这一评价，而梦岚尽管输出高达56%却仍未能带动局势，这反映了哪些战术或配合上的问题？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222831d0f5e7b3c6064688",
+        "id": "20250302222831d0f5e7b3c6064688",
+        "usage": {
+            "prompt_tokens": 647,
+            "completion_tokens": 77,
+            "total_tokens": 724
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925729,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在《斗破苍穹》动画的最新改编中，萧炎白发男争霸的情节被删除，这一改动对整体剧情发展和角色塑造有何影响？观众对此反应如何？\n\n2. 《斗破苍穹》动画中未展现天妖傀参战和紫妍重创凰轩的情节，这些原著中的关键战斗场景被删减，对动画的战斗表现力和剧情连贯性造成了哪些具体影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022228456fce690ae41b4a1f",
+        "id": "202503022228456fce690ae41b4a1f",
+        "usage": {
+            "prompt_tokens": 2416,
+            "completion_tokens": 94,
+            "total_tokens": 2510
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925741,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在S38赛季即将结束之际，哪些英雄因其独特的技能机制和版本适应性，被玩家和专家推荐为上分的最佳选择，并且练会后能够确保胜率达到61%以上？\n\n2. 针对S38赛季末期的游戏环境和英雄调整情况，这5名推荐英雄在实战中应该如何搭配装备和战术策略，才能最大化地发挥其优势，确保在排位赛中稳定上分？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222285734de11658a324c67",
+        "id": "2025030222285734de11658a324c67",
+        "usage": {
+            "prompt_tokens": 3558,
+            "completion_tokens": 92,
+            "total_tokens": 3650
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925752,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. Homme教练在TES夺冠过程中具体实施了哪些策略和调整，使得TES战队实力得到显著提升？\n2. 在海外网友眼中，HLE战队在即将到来的先锋赛中有哪些优势和潜在挑战，使其被更看好获胜？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222291013cb5ec3ac2042ed",
+        "id": "2025030222291013cb5ec3ac2042ed",
+        "usage": {
+            "prompt_tokens": 93,
+            "completion_tokens": 53,
+            "total_tokens": 146
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925763,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在“难言x”不开麦测评女陪的过程中，哪些具体表现或数据支持了“声音好听”和“有实力”的评价，这些评价对女陪在游戏陪玩市场中的受欢迎程度有何影响？\n\n2. 从“难言x”的测评反馈来看，女陪在游戏中展现的“实力”具体体现在哪些方面（如战术策略、团队协作、反应速度等），这对于提升玩家游戏体验和陪玩服务质量有哪些潜在作用？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222291918fe5b51086e4803",
+        "id": "2025030222291918fe5b51086e4803",
+        "usage": {
+            "prompt_tokens": 89,
+            "completion_tokens": 102,
+            "total_tokens": 191
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925776,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在《梦幻西游》周年区第223天更新的这件服战男头具体拥有哪些逆天属性和特技，其在当前服战装备中的排名如何？\n2. 此次更新的服战男头对周年区以及整个游戏内的玩家势力格局和竞技策略带来了哪些显著影响，是否有顶级战队已经对其表现出明确的兴趣或采取行动？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222932c039073d33f341d2",
+        "id": "20250302222932c039073d33f341d2",
+        "usage": {
+            "prompt_tokens": 3260,
+            "completion_tokens": 78,
+            "total_tokens": 3338
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925787,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **娜可露露重做后，其技能机制和定位有哪些显著变化，这些变化如何影响了她在当前版本中的表现和玩家选择？**\n\n2. **在娜可露露重做归来后，她在高端局和低端局的登场率和胜率分别有何变化，反映了哪些玩家群体对其重做的接受度和适应情况？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222943fdab5bdd81b44dde",
+        "id": "20250302222943fdab5bdd81b44dde",
+        "usage": {
+            "prompt_tokens": 2040,
+            "completion_tokens": 76,
+            "total_tokens": 2116
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925800,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 暴雪在即将到来的第二赛季前进行的职业改动中，哪些职业受到了显著增强或削弱，这些改动背后的设计意图是什么？\n\n2. 玩家社区对于暴雪此次大规模职业改动的反应如何，特别是对于那些被削弱的职业玩家，他们是如何看待这些改动的，以及这些改动可能会对游戏内的职业平衡和玩家体验产生哪些长远影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302222956e4d3cb9b45c141d2",
+        "id": "20250302222956e4d3cb9b45c141d2",
+        "usage": {
+            "prompt_tokens": 2173,
+            "completion_tokens": 84,
+            "total_tokens": 2257
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925812,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在面对100个太阳能车僵尸的挑战中，哪些植物组合被证明是最有效的？这些组合在防御和攻击方面各自有何优势？\n\n2. 玩家在应对大规模太阳能车僵尸进攻时，通常采用哪些策略来优化阳光资源的利用和植物布局？有哪些关键的布局技巧可以显著提升防御效果？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222300998f44c2ded644681",
+        "id": "2025030222300998f44c2ded644681",
+        "usage": {
+            "prompt_tokens": 2739,
+            "completion_tokens": 72,
+            "total_tokens": 2811
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925824,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **《怪物猎人：荒野》在国区好评率低至9%的主要原因是什么？是游戏本身的性能和优化问题，还是玩家对经典IP的期望过高导致的苛刻评价？**\n\n2. **在其他语种区，《怪物猎人：荒野》的好评率相对较高，这反映了哪些地区性差异？国区玩家的评价是否代表了更广泛的玩家群体对游戏的真实体验？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022230208b5ebaf4d5e94dbf",
+        "id": "202503022230208b5ebaf4d5e94dbf",
+        "usage": {
+            "prompt_tokens": 2734,
+            "completion_tokens": 88,
+            "total_tokens": 2822
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925836,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. EDG康康在比赛中更换鼠标的具体原因是什么？这种技术干扰对比赛结果产生了怎样的实际影响？\n\n2. 针对比赛中出现的鼠标信号干扰问题，赛事组织方和技术支持团队采取了哪些应对措施？此类事件对电子竞技设备的标准和检测提出了哪些新的要求？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223034174c4ce1fec84f3c",
+        "id": "20250302223034174c4ce1fec84f3c",
+        "usage": {
+            "prompt_tokens": 90,
+            "completion_tokens": 65,
+            "total_tokens": 155
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925847,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在LPL recent比赛中，TES战队是如何实现“华丽复仇”并创造了哪三大历史纪录的？\n2. TES战队开启“狩猎模式”的具体表现是什么，这一模式对其后续比赛策略和队伍士气有何影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223044cb027af23c9a4d65",
+        "id": "20250302223044cb027af23c9a4d65",
+        "usage": {
+            "prompt_tokens": 1584,
+            "completion_tokens": 52,
+            "total_tokens": 1636
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925859,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **针对“不祥永夜流赵云”在1888巅峰赛中的表现，其具体出装和铭文搭配是怎样的，为何能在高端局中实现对东方曜的压制？**\n\n2. **“不祥永夜流赵云”的打法策略及其在当前版本中的强势原因是什么，这种打法对于其他英雄的克制关系和团队战术有何影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223055a727a34197584c98",
+        "id": "20250302223055a727a34197584c98",
+        "usage": {
+            "prompt_tokens": 94,
+            "completion_tokens": 84,
+            "total_tokens": 178
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925871,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在《英雄联盟》近期的玩家流失现象中，哪些具体的拳头游戏操作被广泛认为是主要导火索，并且这些操作如何影响了玩家的游戏体验和忠诚度？\n\n2. 针对腾讯新闻提到的“1个月流失700万玩家”的数据，能否提供更详细的背景分析，包括该数据的具体时间段、流失玩家的主要分布区域，以及这一趋势对《英雄联盟》电竞生态和拳头公司整体战略可能产生的长远影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022231084f29bac15aac4bd4",
+        "id": "202503022231084f29bac15aac4bd4",
+        "usage": {
+            "prompt_tokens": 2186,
+            "completion_tokens": 97,
+            "total_tokens": 2283
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925884,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在腾讯新闻的报道中，哪款史诗级战士限定皮肤被玩家誉为“天花板”，其独特的设计和特效有哪些亮点使其脱颖而出？\n2. 针对老夫子的“蓝屏警告”皮肤，为何在玩家群体中几乎零差评？这款皮肤在手感、特效和整体设计上有何独到之处，使其成为玩家心目中的经典之作？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223120a8252b765e2840c7",
+        "id": "20250302223120a8252b765e2840c7",
+        "usage": {
+            "prompt_tokens": 2892,
+            "completion_tokens": 83,
+            "total_tokens": 2975
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925898,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在蛇年期间，斗地主游戏的玩家普遍反映手气旺到爆棚，这种现象是否与特定的时间节点或文化习俗有关？请结合相关数据和案例分析。\n\n2. 腾讯新闻中提到的“蛇年斗地主手气旺”现象，是否对斗地主游戏的在线活跃度和用户参与度产生了显著影响？请对比蛇年前后斗地主游戏的用户数据和社区互动情况进行探讨。",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022231348fa1b12db4604a19",
+        "id": "202503022231348fa1b12db4604a19",
+        "usage": {
+            "prompt_tokens": 3284,
+            "completion_tokens": 88,
+            "total_tokens": 3372
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925909,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在腾讯新闻推荐的“11.1饰品”中，哪款饰品被特别标注为“3月6日必拿”，其独特之处和对于PVE内容的具体提升效果是什么？\n\n2. 腾讯新闻提到的这些“11.1饰品推荐”是如何涵盖每个PVE内容的？对于不同职业和玩法的玩家，这些饰品分别有哪些不可替代的优势和适用场景？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222314546fc8a7e73d44d2c",
+        "id": "2025030222314546fc8a7e73d44d2c",
+        "usage": {
+            "prompt_tokens": 93,
+            "completion_tokens": 86,
+            "total_tokens": 179
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925917,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **“至尊无影剑”在65级史诗武器中的独特属性和技能机制是什么，与现有的顶级武器相比有哪些显著优势？**\n   \n2. **冰火双剑的设计理念及其在游戏实战中的具体表现如何，是否会打破当前职业平衡，对玩家策略有何影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223154981225e19db347c6",
+        "id": "20250302223154981225e19db347c6",
+        "usage": {
+            "prompt_tokens": 528,
+            "completion_tokens": 66,
+            "total_tokens": 594
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925931,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **针对“元流射手实战后不吐不快”的现象，元流射手的哪些具体技能或机制在实际战斗中被玩家认为表现不佳，导致玩家体验不满？**\n\n2. **在讨论中提到的“法球射手通病”，具体指哪些方面的设计缺陷或平衡性问题，使得法球射手的伤害输出和技能交互在实际对战中显得不够高效或流畅？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223207a8223fbe5ac64df2",
+        "id": "20250302223207a8223fbe5ac64df2",
+        "usage": {
+            "prompt_tokens": 96,
+            "completion_tokens": 86,
+            "total_tokens": 182
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925941,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **HTOC团本开放后，玩家回流的具体数据如何？与之前相比，玩家活跃度提升了多少百分比？**\n2. **时光徽章价格暴跌的原因分析中，HTOC团本的影响占多大比重？与其他因素（如官方政策调整、玩家行为变化等）相比，哪个因素对价格波动的影响更为显著？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223217dcf73d48f403428a",
+        "id": "20250302223217dcf73d48f403428a",
+        "usage": {
+            "prompt_tokens": 2919,
+            "completion_tokens": 76,
+            "total_tokens": 2995
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925951,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在对比80元山寨版和629元正版哪吒&敖丙手办时，除了价格差异外，材质、工艺细节和收藏价值方面的具体差异有哪些，这些差异对消费者购买决策的影响程度如何？\n\n2. 针对山寨手办泛滥的现象，正版厂商采取了哪些维权措施来保护自身知识产权，这些措施在实施过程中面临哪些挑战，对整个手办市场生态产生了怎样的长远影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022232287c016c2764c54f94",
+        "id": "202503022232287c016c2764c54f94",
+        "usage": {
+            "prompt_tokens": 99,
+            "completion_tokens": 94,
+            "total_tokens": 193
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925962,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在本次3月1日的在线热修中，海妖岛戒指的具体削弱幅度是多少？这一调整对游戏中哪些职业或玩家群体的影响最为显著？\n\n2. 暴雪此次削弱海妖岛戒指的决策背后，是基于哪些具体的游戏平衡性考量或玩家反馈？这一改动预计会对游戏内的经济系统和玩家行为模式产生怎样的长远影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223239ee58181b193f48d7",
+        "id": "20250302223239ee58181b193f48d7",
+        "usage": {
+            "prompt_tokens": 91,
+            "completion_tokens": 80,
+            "total_tokens": 171
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925972,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在象棋对局中，使用“速胜飞刀”策略的成功率与棋手水平之间的关系是怎样的？**\n   \n2. **“速胜飞刀”在象棋开局布局中的应用有哪些经典案例，这些案例对现代象棋战术发展有何影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222324971c01249d08d4f91",
+        "id": "2025030222324971c01249d08d4f91",
+        "usage": {
+            "prompt_tokens": 1993,
+            "completion_tokens": 59,
+            "total_tokens": 2052
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925984,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在奎桑提BUG事件中，ZDZ复盘所提供的证据和逻辑分析是否足以推翻之前关于Bin操作存在BUG的普遍看法？这一反转对职业选手在类似争议中的公信力有何影响？\n\n2. 腾讯新闻报道中提及的“高地那波没有BUG”的结论，是基于哪些具体数据和游戏内表现分析得出的？这一结论对于未来处理类似游戏内争议事件的标准和方法有何启示？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223300738c97737c7741a5",
+        "id": "20250302223300738c97737c7741a5",
+        "usage": {
+            "prompt_tokens": 96,
+            "completion_tokens": 94,
+            "total_tokens": 190
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740925994,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. DYG在最近的KPL赛事中刷新了哪项纪录，这项纪录的具体内容和意义是什么，为何被认为即使是AG和狼队也无法超越？\n\n2. 在DYG遭遇五连败的背景下，他们刷新的这项KPL纪录对战队整体士气和未来比赛策略有何影响，其他战队如AG和狼队是否有类似纪录或如何应对这种挑战？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223310edbc921eb61e4cda",
+        "id": "20250302223310edbc921eb61e4cda",
+        "usage": {
+            "prompt_tokens": 2064,
+            "completion_tokens": 81,
+            "total_tokens": 2145
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926005,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **“安图恩三件套”在DNF手游中的具体获取方式和条件是什么？其对不同职业的伤害提升效果有何差异？**\n   \n2. **“安图恩三件套”的推出对DNF手游现有装备体系产生了哪些影响？玩家如何看待波动套与“安图恩三件套”之间的选择和替换策略？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222332200f48164858d415a",
+        "id": "2025030222332200f48164858d415a",
+        "usage": {
+            "prompt_tokens": 586,
+            "completion_tokens": 79,
+            "total_tokens": 665
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926018,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **为何曾经强势的“野王”英雄如澜、镜和露娜在当前版本中胜率集体下滑，其背后的游戏机制和数值调整具体有哪些变化？**\n   \n2. **在巅峰赛高端局中，新英雄阿古朵的ban率高达56%，相较于传统“野王”英雄镜和露娜，阿古朵在反野能力和团队配合方面有哪些独特优势，使其迅速崛起？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022233348bf72ff35a3041f8",
+        "id": "202503022233348bf72ff35a3041f8",
+        "usage": {
+            "prompt_tokens": 3370,
+            "completion_tokens": 95,
+            "total_tokens": 3465
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926027,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在梦幻西游中，金价200以上区域数量达到41个的具体原因是什么？这一现象对游戏内的经济系统和玩家行为产生了哪些主要影响？\n\n2. 玩家在梦幻西游中抓鬼获得价值20万元项链的事件，反映了游戏内哪些物品价值评估机制和玩家收益模式？这一事件对游戏社区的活跃度和玩家参与度有何潜在影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223344f944b8c7ab7d453a",
+        "id": "20250302223344f944b8c7ab7d453a",
+        "usage": {
+            "prompt_tokens": 91,
+            "completion_tokens": 81,
+            "total_tokens": 172
+        }
+    }
+]

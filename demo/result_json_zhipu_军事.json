@@ -1,0 +1,1102 @@
+[
+    {
+        "model": "glm-4-plus",
+        "created": 1740926598,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在对越自卫反击战中，中央军委提出的从老挝借道直取越南奠边府的作战计划是出于哪些战略考量和国际形势变化？这一计划最终为何没有被实施？\n\n2. 对越自卫反击战中，若实施了从老挝穿插合围越军的计划，可能会对当时的战局、中越关系以及东南亚地区的政治格局产生哪些重大影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222431353ee25a646474d64",
+        "id": "2025030222431353ee25a646474d64",
+        "usage": {
+            "prompt_tokens": 3280,
+            "completion_tokens": 83,
+            "total_tokens": 3363
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926610,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 米-35M武装直升机在信息化作战中具体有哪些技术升级和战术应用，使其成为“超雌鹿”？\n2. 在当前国际军事格局下，米-35M的信息化改造对其在多域作战中的角色和效能有何显著影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222432609f8337021984440",
+        "id": "2025030222432609f8337021984440",
+        "usage": {
+            "prompt_tokens": 2815,
+            "completion_tokens": 59,
+            "total_tokens": 2874
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926621,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 鲁比奥在回应“解放军凌晨2点攻台”的假设情景时，其回答中透露出美国在台海冲突中的战略意图和军事准备有哪些具体表现？这一回答可能对台海地区的政治和军事局势产生哪些短期和长期影响？\n\n2. 鉴于鲁比奥的回应，分析美国国内对于台海问题的立场分歧及其背后的政治、经济动因是什么？这种立场分歧又如何影响美国对华政策及中美关系的未来走向？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224337fee61e25d78542a6",
+        "id": "20250302224337fee61e25d78542a6",
+        "usage": {
+            "prompt_tokens": 96,
+            "completion_tokens": 107,
+            "total_tokens": 203
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926634,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在泽连斯基与特朗普发生口角后，乌克兰军方及政府高层如何表达对泽连斯基的支持，这种内部团结对乌克兰当前的局势有何影响？\n\n2. 特朗普对乌克兰政策的转变及其对泽连斯基的公开批评，是否反映了美国对乌克兰支持策略的变化，这种变化可能对俄乌冲突的未来走向产生哪些潜在影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224350be52187f2edd47df",
+        "id": "20250302224350be52187f2edd47df",
+        "usage": {
+            "prompt_tokens": 2379,
+            "completion_tokens": 79,
+            "total_tokens": 2458
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926644,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 央视曝光的歼-35战机在联网作战方面具体有哪些技术亮点，与传统战机相比有哪些显著提升？\n2. 歼-35战机的涂装设计由美术生参与，这一举措在提升战机隐身性能和视觉效果上有何独特优势？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224401b641942576c64d18",
+        "id": "20250302224401b641942576c64d18",
+        "usage": {
+            "prompt_tokens": 2920,
+            "completion_tokens": 60,
+            "total_tokens": 2980
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926654,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **美国此次向中东增派数千名军人的具体战略意图是什么？是否与近期以色列和黎巴嫩真主党之间的冲突直接相关？**\n\n2. **美国增兵中东可能对地区局势产生哪些长远影响？是否会加剧地区紧张局势，甚至引发更大规模的冲突？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224411629c569f3a124450",
+        "id": "20250302224411629c569f3a124450",
+        "usage": {
+            "prompt_tokens": 2603,
+            "completion_tokens": 66,
+            "total_tokens": 2669
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926667,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **055型驱逐舰在澳大利亚近海的活动与台海、南海局势的关联性如何？是否有具体案例或数据支持这种“越近越平静”的观点？**\n\n2. **从军事战略和地缘政治角度分析，055大驱在澳大利亚近海的部署对美澳同盟在南海和台海地区的军事活动产生了哪些具体影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224423d08260ba65324e60",
+        "id": "20250302224423d08260ba65324e60",
+        "usage": {
+            "prompt_tokens": 3102,
+            "completion_tokens": 82,
+            "total_tokens": 3184
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926678,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **俄乌冲突中中俄武器表现差异的具体案例有哪些，这些案例如何反映出中国武器技术的进步与超越？**\n   \n2. **从俄乌冲突中中俄武器性能对比的角度，分析中国军工技术近年来快速发展的关键因素及其对国际军事格局的影响。**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022244342da2d4d1a41d4a28",
+        "id": "202503022244342da2d4d1a41d4a28",
+        "usage": {
+            "prompt_tokens": 2908,
+            "completion_tokens": 61,
+            "total_tokens": 2969
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926689,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **该枚鱼雷冲上澳大利亚海岸的具体时间和地点是什么？是否有证据表明其来源国及其可能的军事行动背景？**\n\n2. **澳大利亚官方对此事件有何回应？是否已启动国际调查程序以确认鱼雷的发射国，并采取相应的外交或军事措施？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224446d72c2ea06b204ef2",
+        "id": "20250302224446d72c2ea06b204ef2",
+        "usage": {
+            "prompt_tokens": 1250,
+            "completion_tokens": 64,
+            "total_tokens": 1314
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926702,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 巴基斯坦海军在北阿拉伯海域联合演习中展示的C-802A反舰导弹性能如何，其在国际军贸市场上的竞争力主要体现在哪些方面？\n\n2. 中国军工企业在此次演习后，是否有望获得更多来自中东地区国家的武器装备订单，这对于中国军工出口战略有何重要意义？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224459d5efefeef7d64445",
+        "id": "20250302224459d5efefeef7d64445",
+        "usage": {
+            "prompt_tokens": 1824,
+            "completion_tokens": 67,
+            "total_tokens": 1891
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926711,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **中国海军055型驱逐舰绕澳大利亚航行的战略意图是什么，是否与近期中澳在南海的摩擦以及澳大利亚参与美澳联合军演和奥库斯核潜艇协议有关？**\n\n2. **美军核潜艇抵达澳大利亚的具体任务和目的为何，这一行动是否是对中国海军在澳大利亚周边海域活动的回应，以及对未来亚太地区军事平衡可能产生的影响有哪些？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222450757da551b3d374e13",
+        "id": "2025030222450757da551b3d374e13",
+        "usage": {
+            "prompt_tokens": 2466,
+            "completion_tokens": 86,
+            "total_tokens": 2552
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926720,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **法国航母编队进入南海的具体目的和战略意图是什么？其与菲律宾近期的军事互动是否表明了某种联合对华施压的趋势？**\n\n2. **中方在南海划下落弹区并宣布禁航3天的具体军事和外交考量是什么？这一举措对当前南海局势及中法、中菲关系将产生怎样的影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222451676cb420dfb2a4362",
+        "id": "2025030222451676cb420dfb2a4362",
+        "usage": {
+            "prompt_tokens": 3201,
+            "completion_tokens": 80,
+            "total_tokens": 3281
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926732,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **诺门坎战役中，苏联和日本在军事装备和战术运用上有何显著差异，这些差异如何直接影响了战役的结局？**\n   \n2. **诺门坎战役后，日本为何放弃了“北进”战略转而选择“南进”，这一战略转变对太平洋战争及二战整体格局产生了哪些深远影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222452855d2e7bc5f5c4d21",
+        "id": "2025030222452855d2e7bc5f5c4d21",
+        "usage": {
+            "prompt_tokens": 3041,
+            "completion_tokens": 76,
+            "total_tokens": 3117
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926744,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 美军演名单中最初包含“台湾”字样，但在公布三小时后撤回，这一举动是否暗示了美国对台政策的不确定性，以及可能对中美关系产生哪些短期和长期的影响？\n\n2. 美军演名单撤回“台湾”字样的决策背后，可能受到哪些内外部因素影响，例如美国内部政治压力、国际社会反应或中国方面的外交交涉，这一事件又将如何影响台海地区的军事平衡与和平稳定？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022245417655d86ffdf043d0",
+        "id": "202503022245417655d86ffdf043d0",
+        "usage": {
+            "prompt_tokens": 92,
+            "completion_tokens": 107,
+            "total_tokens": 199
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926757,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **泽连斯基在近期国际交往中遭受的具体屈辱有哪些？这些事件对乌克兰的国际地位和内部政治产生了哪些深远影响？**\n\n2. **乌克兰在俄乌冲突及国际博弈中逐步走向深渊的过程揭示了哪些地缘政治和经济上的教训？这些教训对其他处于类似地缘环境的国家有哪些重要的启示？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224553ba0994b402844a4e",
+        "id": "20250302224553ba0994b402844a4e",
+        "usage": {
+            "prompt_tokens": 1906,
+            "completion_tokens": 74,
+            "total_tokens": 1980
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926769,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 美前国防部官员具体指出了特朗普和万斯的哪些行为，使其被认为是“黑帮勒索”，这些行为对五角大楼内部的士气和运作产生了怎样的影响？\n\n2. 在前国防部官员对特朗普和万斯态度的批评中，是否有提及他们对待五角大楼“大清洗”计划的具体策略，以及这些策略可能对美国国家安全和军事战略带来哪些潜在风险？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022246061d924ebdf2c04e92",
+        "id": "202503022246061d924ebdf2c04e92",
+        "usage": {
+            "prompt_tokens": 1995,
+            "completion_tokens": 87,
+            "total_tokens": 2082
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926782,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在俄乌冲突持续三年的背景下，乌克兰在保卫战中实际获得了哪些战略利益和国际支持，这些收获对其长期国家安全和地区影响力有何深远影响？**\n\n2. **从乌克兰三年保卫战的经验教训中，其他面临类似地缘政治风险的国家应如何调整自身的国防策略和国际合作方针，以避免重蹈乌克兰的覆辙？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022246185a047393dc4a45e7",
+        "id": "202503022246185a047393dc4a45e7",
+        "usage": {
+            "prompt_tokens": 3247,
+            "completion_tokens": 78,
+            "total_tokens": 3325
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926795,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在此次台东外海对峙事件中，台军舰与解放军两栖大队的具体部署和行动策略有何异同，这反映了双方怎样的战略意图和军事准备态势？\n\n2. 该对峙事件对两岸关系及区域安全产生了哪些直接影响，相关各方采取了哪些外交和军事措施来缓解紧张局势，这些措施的效果如何评估？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022246316b2e45eb74914e08",
+        "id": "202503022246316b2e45eb74914e08",
+        "usage": {
+            "prompt_tokens": 87,
+            "completion_tokens": 77,
+            "total_tokens": 164
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926807,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在中国空军代表前往哈瓦那看望古巴退役飞行员的活动中，有哪些具体的互动环节和感人瞬间，体现了中古两国之间跨越半个世纪的深厚友谊？\n\n2. 鉴于古巴退役飞行员阿尔伯尔多（Dido）老人目前身体状况不宜长途飞行，中国方面是否有计划通过其他方式继续深化与这些曾在中国受训的古巴飞行员之间的情感联系和友好交流？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224643577382582b7049fa",
+        "id": "20250302224643577382582b7049fa",
+        "usage": {
+            "prompt_tokens": 3088,
+            "completion_tokens": 86,
+            "total_tokens": 3174
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926821,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在红军城战役开启3个多月后，俄军中部集群主力目前的具体位置和所控制的区域有哪些变化？与战役初期相比，其推进的幅度和战略意义如何？\n\n2. 俄军中部集群在红军城战役中的作战策略和兵力部署有何特点？在过去的3个多月里，其遭遇的主要挑战和取得的显著战果分别是什么？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224657133f7b56b2d74dd6",
+        "id": "20250302224657133f7b56b2d74dd6",
+        "usage": {
+            "prompt_tokens": 3371,
+            "completion_tokens": 82,
+            "total_tokens": 3453
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926830,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **AIM-260与霹雳17在技术性能上的主要差异是什么，这些差异如何影响其在现代空战中的实战表现？**\n\n2. **面对AIM-260的投产和霹雳17的先行一步，中美两国在空空导弹领域的竞争态势将如何演变，对全球空中力量平衡会产生哪些深远影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222470709a9e3720fd546f0",
+        "id": "2025030222470709a9e3720fd546f0",
+        "usage": {
+            "prompt_tokens": 2864,
+            "completion_tokens": 72,
+            "total_tokens": 2936
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926844,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **南部集群第8集团军北上支援红军城的战略意义是什么？在当前战局下，这一行动对整体战事走向可能产生哪些影响？**\n\n2. **南部集群第8集团军在库拉霍沃方向的作战任务与红军城战事之间是否存在关联？若北上支援，如何平衡两地兵力部署以确保战略目标的实现？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224720bd25190a39be4c72",
+        "id": "20250302224720bd25190a39be4c72",
+        "usage": {
+            "prompt_tokens": 3146,
+            "completion_tokens": 78,
+            "total_tokens": 3224
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926852,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **为何图-95和B-52战略轰炸机能够持续服役近百年，其背后的技术升级和维护策略有哪些关键因素？**\n   \n2. **对比图-95和B-52，中国的轰-6轰炸机在设计和功能上有何异同，未来是否有潜力达到类似的长期服役年限？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022247298df4f78810304553",
+        "id": "202503022247298df4f78810304553",
+        "usage": {
+            "prompt_tokens": 3308,
+            "completion_tokens": 68,
+            "total_tokens": 3376
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926864,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **八一飞行表演队在泰国进行表演的具体特技动作有哪些，这些动作在技术和观赏性上有何特点？**\n   \n2. **此次八一飞行表演队赴泰国表演对中泰两国空军交流合作有何重要意义，未来中泰空军在联合训练和互信建设方面有哪些潜在的合作空间？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224740f6371e133ce44e6a",
+        "id": "20250302224740f6371e133ce44e6a",
+        "usage": {
+            "prompt_tokens": 3425,
+            "completion_tokens": 70,
+            "total_tokens": 3495
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926874,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在美乌总统近期争议背景下，俄军对乌军防线的最新攻势具体表现在哪些关键战区，其战术运用和兵力部署有何特点？**\n\n2. **美乌总统之间的分歧对乌克兰前线战局产生了哪些直接影响，乌克兰军队在应对俄军进攻时面临哪些主要挑战和战略调整？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022247509b4aa922e83b4b51",
+        "id": "202503022247509b4aa922e83b4b51",
+        "usage": {
+            "prompt_tokens": 3066,
+            "completion_tokens": 73,
+            "total_tokens": 3139
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926883,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 美国解冻8.7亿美元对台军援的决定背后，是否与当前中美关系及地缘政治局势的哪些具体变化或战略考量有关？\n\n2. 在美国解冻对台军援资金的情况下，这一举措可能对台湾地区的政治生态、两岸关系以及区域安全稳定带来哪些短期和长期影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224759372adf18f9084397",
+        "id": "20250302224759372adf18f9084397",
+        "usage": {
+            "prompt_tokens": 1051,
+            "completion_tokens": 75,
+            "total_tokens": 1126
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926892,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 预警机在现代空战中扮演了哪些关键角色，其技术特点如何使其成为提升空军战斗力的倍增器？\n\n2. 相较于传统侦察和指挥系统，预警机在信息获取、处理和指挥控制方面有哪些独特优势，这些优势如何具体影响空战策略和战果？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224808e73be67f0a6f4db5",
+        "id": "20250302224808e73be67f0a6f4db5",
+        "usage": {
+            "prompt_tokens": 2751,
+            "completion_tokens": 70,
+            "total_tokens": 2821
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926901,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **泽连斯基所依赖的“百万士兵”在当前俄乌冲突中的实际部署和战斗力如何？这一规模是否足以改变战局？**\n\n2. **泽连斯基提到的“导弹遗产”具体包括哪些类型的导弹系统，以及这些系统在乌克兰防御和反攻战略中的具体作用和效果是什么？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224818d005e0d5c09c4c3e",
+        "id": "20250302224818d005e0d5c09c4c3e",
+        "usage": {
+            "prompt_tokens": 2896,
+            "completion_tokens": 72,
+            "total_tokens": 2968
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926914,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **法国向德国部署核武器的计划在当前欧洲安全格局中可能引发哪些连锁反应，特别是对北约内部团结和俄罗斯的战略应对有何影响？**\n\n2. **在法国提出替代美国成为欧洲核保护伞的背景下，德国新政府将如何平衡国内外的政治压力，以确保其国家安全与欧洲防务自主之间的平衡？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224830e87aa023d8444755",
+        "id": "20250302224830e87aa023d8444755",
+        "usage": {
+            "prompt_tokens": 3066,
+            "completion_tokens": 77,
+            "total_tokens": 3143
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926925,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 美军拒绝接收的战略级大飞机具体型号是什么，其技术特点和战略价值如何，为何美军会做出拒收的决定？\n2. 美军拒收该战略级大飞机后，中国是否有机会获取相关技术或设备，这将对中国军事航空工业发展带来哪些潜在影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022248418eb7182d3e68437f",
+        "id": "202503022248418eb7182d3e68437f",
+        "usage": {
+            "prompt_tokens": 3349,
+            "completion_tokens": 68,
+            "total_tokens": 3417
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926939,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在澳国防部发布关于107特遣队部署在珀斯东南腹地的消息后，这一举措是否揭示了澳大利亚本土防御体系中的哪些潜在弱点，以及该部署对提升区域安全的具体策略和预期效果是什么？\n\n2. 鉴于珀斯东南地区被视为澳本土防御最空虚的腹地，107特遣队的进驻将如何影响该地区的军事动态及周边国家的安全策略，同时这一部署对澳大利亚国内外军事合作与联盟关系可能带来哪些长远影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022248550ac0b522c2304f04",
+        "id": "202503022248550ac0b522c2304f04",
+        "usage": {
+            "prompt_tokens": 95,
+            "completion_tokens": 103,
+            "total_tokens": 198
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926948,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 报告中提到的解放军42个旅在台海的布防情况，是否意味着中国在台海地区的军事部署有显著增强？这种部署对区域安全态势将产生哪些潜在影响？\n\n2. 美印太司令部发布此报告的背景和动机是什么？该报告的发布是否可能引发台海地区新一轮的军事紧张或国际政治角力？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222490565e8243eef734137",
+        "id": "2025030222490565e8243eef734137",
+        "usage": {
+            "prompt_tokens": 88,
+            "completion_tokens": 82,
+            "total_tokens": 170
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926959,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 缅甸若开邦战事持续升级，民众挖掘“生命之坑”作为避难所，这种地下生活的实际生存条件如何，具体面临哪些困难和挑战？\n\n2. 针对缅甸若开邦民众在战火中采取的“地下生活”方式，国际社会和缅甸政府采取了哪些援助和应对措施，这些措施的实际效果如何？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222491679627a2175f64d9f",
+        "id": "2025030222491679627a2175f64d9f",
+        "usage": {
+            "prompt_tokens": 1754,
+            "completion_tokens": 82,
+            "total_tokens": 1836
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926971,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 解放军此次无预兆实弹演习的具体背景和战略意图是什么，与当前地区安全形势有何关联？\n\n2. 国防部发言中“迟早收了你们”的表述释放了怎样的政策信号，可能对周边国家及地区的军事与外交策略产生哪些影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222492836bf0f828f644af0",
+        "id": "2025030222492836bf0f828f644af0",
+        "usage": {
+            "prompt_tokens": 87,
+            "completion_tokens": 64,
+            "total_tokens": 151
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926981,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **中国新型两栖突击车在火力系统和机动性能上相比05式有哪些显著提升，这些提升如何增强其在潜在攻台作战中的实战效能？**\n\n2. **考虑到台湾地形和防御特点，新型两栖突击车的隐身设计和信息化作战能力将如何影响其在复杂战场环境中的生存率和任务执行成功率？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222493733707ae7ce964888",
+        "id": "2025030222493733707ae7ce964888",
+        "usage": {
+            "prompt_tokens": 3118,
+            "completion_tokens": 74,
+            "total_tokens": 3192
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926992,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **越南官方和民间对于中越战争的历史叙述是否存在差异，这种差异如何影响了越南社会对战争牺牲和经济滞后的认知与反思？**\n\n2. **在越南经济滞后40年的背景下，中越战争对其国内经济发展战略和外交政策产生了哪些具体影响，越南政府采取了哪些措施来弥补这一时期的经济损失？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224949b5360c0e91a44661",
+        "id": "20250302224949b5360c0e91a44661",
+        "usage": {
+            "prompt_tokens": 91,
+            "completion_tokens": 74,
+            "total_tokens": 165
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927002,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在俄军对乌克兰波尔塔瓦第179军事通信训练中心基地的导弹袭击中，北约军事顾问团的损失情况如何？此次袭击对北约在乌克兰的军事介入有何影响？\n\n2. 俄军使用伊斯坎德尔-M战术弹道导弹摧毁乌军司令部大楼的行动，反映了俄军在情报搜集和精准打击方面的哪些能力？这一事件对俄乌冲突的未来走向可能产生哪些战略影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224958567f9f3dce684c4e",
+        "id": "20250302224958567f9f3dce684c4e",
+        "usage": {
+            "prompt_tokens": 3113,
+            "completion_tokens": 93,
+            "total_tokens": 3206
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927013,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 解放军在台海进行射击训练的具体规模和目的为何，这一行动对台海地区的军事平衡和两岸关系产生了哪些直接影响？\n\n2. 美国解冻对台军援的决策背后有哪些战略考量，这一举措可能对中美关系、台海局势以及地区安全稳定带来哪些长远影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222501024de1733b05d4b50",
+        "id": "2025030222501024de1733b05d4b50",
+        "usage": {
+            "prompt_tokens": 94,
+            "completion_tokens": 71,
+            "total_tokens": 165
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927022,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在“独臂飞行”事件中，飞行员如何在机翼断裂和友军误击的双重危机下，成功实施极限迫降的技术细节和心理应对策略是什么？\n\n2. 巴西航空在“独臂飞行”事件后对飞行员的处理方式引发了哪些争议，该事件对国际航空安全管理和飞行员权益保护带来了哪些深层次的影响和启示？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222501962b3b98ad52b4bf6",
+        "id": "2025030222501962b3b98ad52b4bf6",
+        "usage": {
+            "prompt_tokens": 1101,
+            "completion_tokens": 79,
+            "total_tokens": 1180
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927032,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在此次黄岩岛事件中，中方采取的具体应对措施有哪些？这些措施与对付“台独”的手段有何相似之处，反映了中方怎样的战略意图？\n\n2. 中方此次对黄岩岛的行动在国际社会引发了哪些反应？这些反应对中国未来的南海政策以及地区局势可能产生哪些长远影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022250297dbf606658d34388",
+        "id": "202503022250297dbf606658d34388",
+        "usage": {
+            "prompt_tokens": 94,
+            "completion_tokens": 69,
+            "total_tokens": 163
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927044,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在报道中提到的“解放军可形成1600公里‘死亡闭环’”具体指的是哪些军事技术和装备的集成应用，以及这一闭环系统对美航母生存率造成影响的评估依据是什么？\n\n2. 针对美航母生存率不到3成的说法，该报道是否提供了具体的模拟测试数据或历史案例分析，以及美国海军对此类威胁有何应对策略或正在研发的反制技术？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225041d7fb7aff85df46f2",
+        "id": "20250302225041d7fb7aff85df46f2",
+        "usage": {
+            "prompt_tokens": 90,
+            "completion_tokens": 88,
+            "total_tokens": 178
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927056,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 新西兰外长此次赴京与中方就军事演习提前通知事宜进行磋商，这一要求反映了新西兰在地区安全合作中的何种战略考量，以及中方对此可能做出的回应将如何影响两国未来的军事交流与合作？\n\n2. 在当前国际及地区安全形势下，中方军事演习的频率和透明度对于周边国家如新西兰的外交政策制定具有怎样的影响，新西兰的这一请求是否可能成为区域内其他国家效仿的先例，进而对地区安全架构产生何种长远效应？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222505205794a3ec3d4423b",
+        "id": "2025030222505205794a3ec3d4423b",
+        "usage": {
+            "prompt_tokens": 85,
+            "completion_tokens": 106,
+            "total_tokens": 191
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927067,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 解放军两架运-9现身琉球上空的具体时间和飞行路径是怎样的？这一行动与菲律宾接收日本武器的时间是否存在关联？\n\n2. 日本防卫省对解放军运-9现身琉球上空的反应如何？这一事件是否引发了地区内其他国家的关注或回应？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225103c4e6e54976cf4135",
+        "id": "20250302225103c4e6e54976cf4135",
+        "usage": {
+            "prompt_tokens": 2327,
+            "completion_tokens": 64,
+            "total_tokens": 2391
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927081,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 英国在建造伊丽莎白女王号和威尔士亲王号两艘航母时，为何会选择牺牲部分关键性能如弹射系统和拦阻索，以节省成本？这种选择对其后续的作战能力和维护费用产生了哪些具体影响？\n\n2. 在英国航母项目面临资金短缺和维护困难的情况下，英国政府采取了哪些措施来应对这些挑战？这些措施是否有效缓解了航母成为财政累赘的问题，或者反而加剧了困境？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022251161cd813809f6b4d80",
+        "id": "202503022251161cd813809f6b4d80",
+        "usage": {
+            "prompt_tokens": 3341,
+            "completion_tokens": 97,
+            "total_tokens": 3438
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927090,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 伊朗地下海军基地的深度和防护能力如何，是否确实能够抵御美军现有的钻地弹打击，其对全球石油供应链的潜在影响有多大？\n\n2. 伊朗公开地下军事设施的意图何在，这种“地下海底长城”战略对于其在中东地区的军事态势和地缘政治博弈中有何战略意义？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222512777c0dc1195064a21",
+        "id": "2025030222512777c0dc1195064a21",
+        "usage": {
+            "prompt_tokens": 2825,
+            "completion_tokens": 72,
+            "total_tokens": 2897
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927100,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 火箭军导弹洞库的地理位置和构造特点是如何确保其隐蔽性和抗打击能力的？\n2. 火箭军导弹洞库的内部设施和运作机制是如何支持其快速反应和战略反击能力的？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225137d8f5a357dc684592",
+        "id": "20250302225137d8f5a357dc684592",
+        "usage": {
+            "prompt_tokens": 2987,
+            "completion_tokens": 52,
+            "total_tokens": 3039
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927109,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **2025年军队文职人员公开招考面试的具体流程和评分标准是怎样的？与往年相比有哪些新的变化或调整？**\n\n2. **此次军队文职人员招考的3万多个岗位中，哪些岗位最受欢迎？这些岗位对报考者的学历、专业和经验有哪些具体要求？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022251466036efd1d2a740dc",
+        "id": "202503022251466036efd1d2a740dc",
+        "usage": {
+            "prompt_tokens": 515,
+            "completion_tokens": 69,
+            "total_tokens": 584
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927123,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **欧洲考虑出兵乌克兰并讨论核武器威慑的背景下，普京如何通过调整核武使用原则来应对这一局势？这一调整对欧洲及北约国家的战略决策产生了哪些具体影响？**\n\n2. **在美英等国对乌克兰提供军事援助并可能直接介入冲突的情况下，普京发出开战警告后，美英为何选择暂缓对乌克兰使用远程武器的支持？这一决策背后的战略考量及其对俄乌冲突未来走向的影响是什么？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225159500db34c71524b63",
+        "id": "20250302225159500db34c71524b63",
+        "usage": {
+            "prompt_tokens": 2967,
+            "completion_tokens": 103,
+            "total_tokens": 3070
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927136,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 帕帕罗上将提出的“美航母舰队生存率不足一半”的评估是基于哪些具体因素和情报数据？这一评估是否得到了美军内部其他高级将领的认同？\n\n2. 在解放军加强部署的背景下，美国航母舰队采取了哪些应对措施来提升其在西太平洋地区的生存能力和作战效能？这些措施是否足以应对东风-17等高超音速导弹的威胁？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222521245dbbfb57f984ce5",
+        "id": "2025030222521245dbbfb57f984ce5",
+        "usage": {
+            "prompt_tokens": 2664,
+            "completion_tokens": 85,
+            "total_tokens": 2749
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927149,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在超视距空战和近距格斗方面，歼-16和F-15EX分别有哪些技术优势和潜在劣势？**\n   \n2. **考虑到未来战场环境和任务需求，歼-16和F-15EX在多用途作战能力上的差异将如何影响中美两国空军的战略部署和战术选择？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225226f43207194ebf42cc",
+        "id": "20250302225226f43207194ebf42cc",
+        "usage": {
+            "prompt_tokens": 2924,
+            "completion_tokens": 73,
+            "total_tokens": 2997
+        }
+    }
+]

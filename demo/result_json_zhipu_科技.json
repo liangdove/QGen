@@ -1,0 +1,1102 @@
+[
+    {
+        "model": "glm-4-plus",
+        "created": 1740927709,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 董明珠将格力专卖店更名为“董明珠健康家”背后的战略转型意图是什么？这一举措如何反映格力电器在多元化产品布局上的考量？\n\n2. 董明珠强调“全部声誉砸进去，做不好就完蛋”的言论，反映了她怎样的个人品牌与企业品牌绑定策略？这种策略对格力电器长期发展和市场认知可能带来哪些影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230145980d4321dbab4aae",
+        "id": "20250302230145980d4321dbab4aae",
+        "usage": {
+            "prompt_tokens": 1860,
+            "completion_tokens": 83,
+            "total_tokens": 1943
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927721,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 美国全面对华禁售AI芯片的新措施将对英伟达等美国芯片企业的财务状况和全球市场份额产生怎样的具体影响？\n2. 面对美国对华AI芯片禁售的升级，中国芯片产业将采取哪些应对策略以保障国内AI技术的持续发展和供应链的稳定性？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230157333df29da6a848bd",
+        "id": "20250302230157333df29da6a848bd",
+        "usage": {
+            "prompt_tokens": 1942,
+            "completion_tokens": 69,
+            "total_tokens": 2011
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927734,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在当前科技与经济环境下，雷军财富增长背后的主要驱动因素是什么？这些因素如何预示着一个新时代的到来？**\n\n2. **雷军及其小米集团在人工智能和新能源汽车领域的布局，对中国经济结构转型和产业升级有哪些深远影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230211004b68491c954555",
+        "id": "20250302230211004b68491c954555",
+        "usage": {
+            "prompt_tokens": 3174,
+            "completion_tokens": 58,
+            "total_tokens": 3232
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927748,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 马斯克与其旗下Neuralink公司高管希冯·齐里斯所生的第14个孩子Seldon Lycurgus的出生时间和具体情况是如何被公众知晓的？这一消息的公布对马斯克个人形象及其公司有何潜在影响？\n\n2. 马斯克拥有众多子女的现象引发了哪些社会讨论？特别是在家庭结构、亲子关系以及企业家个人生活与公众形象之间的平衡方面，公众和专家有何不同观点？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230224acd47ebbd0e64992",
+        "id": "20250302230224acd47ebbd0e64992",
+        "usage": {
+            "prompt_tokens": 1966,
+            "completion_tokens": 98,
+            "total_tokens": 2064
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927757,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在当前社交媒体环境下，女网红们为何倾向于展现“假”形象，这种现象对青少年价值观形成有何潜在影响？**\n\n2. **近年来，女网红因追求关注度而采取的极端行为频发，这种现象反映了哪些社会心理问题，社会各界应如何协同应对以引导健康网络文化？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230234ae73f9f116ae44df",
+        "id": "20250302230234ae73f9f116ae44df",
+        "usage": {
+            "prompt_tokens": 3480,
+            "completion_tokens": 68,
+            "total_tokens": 3548
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927767,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **英伟达2025财年营收和净利润均创历史新高，为何投资者对其财报反应仍显冷淡？市场对其未来的增长预期有何变化？**\n\n2. **在DeepSeek等低成本AI模型的冲击下，英伟达如何应对市场对其AI芯片需求的质疑？其高增长叙事能否在2026财年继续维持？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223024403eaf1b1e93b4373",
+        "id": "2025030223024403eaf1b1e93b4373",
+        "usage": {
+            "prompt_tokens": 3124,
+            "completion_tokens": 77,
+            "total_tokens": 3201
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927779,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 小米SU7 Ultra在性能上超越保时捷Taycan Turbo GT的具体表现有哪些？这种超越对高端汽车市场竞争格局将产生怎样的影响？\n\n2. 小米双Ultra系列在影像技术方面与苹果的最新产品相比有哪些创新和优势？这些技术突破如何反映小米在智能生态领域的战略布局？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230255544181140f8945bc",
+        "id": "20250302230255544181140f8945bc",
+        "usage": {
+            "prompt_tokens": 2159,
+            "completion_tokens": 71,
+            "total_tokens": 2230
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927790,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **iPhone 17 Pro系列的金属玻璃拼接设计在致敬苹果5的同时，如何在保持经典元素的同时融入现代技术和审美？**\n\n2. **苹果选择在iPhone 17 Pro系列中采用金属玻璃拼接设计的背后，是基于哪些市场调研和技术考量，这种设计又将如何影响未来智能手机设计的趋势？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230306d061473d878845fb",
+        "id": "20250302230306d061473d878845fb",
+        "usage": {
+            "prompt_tokens": 1920,
+            "completion_tokens": 68,
+            "total_tokens": 1988
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927801,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **小米15 Ultra在影像系统上如何模拟徕卡相机的拍摄效果，具体有哪些技术和功能支持这一模拟？**\n2. **小米15 Ultra的设计和功能中有哪些细节体现了对徕卡经典元素的致敬，这些元素如何提升了用户的使用体验？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230317b3d10a3a06cf4add",
+        "id": "20250302230317b3d10a3a06cf4add",
+        "usage": {
+            "prompt_tokens": 3167,
+            "completion_tokens": 61,
+            "total_tokens": 3228
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927810,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 韩歆毅接任蚂蚁集团CEO后，将如何调整和优化蚂蚁集团的业务战略以应对当前金融科技市场的竞争态势？\n2. 韩歆毅在蚂蚁集团的十年经历中，有哪些具体的战略决策和项目实施对公司的长期发展产生了重要影响，这些经验将如何助力他担任CEO后的管理决策？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022303264cc219271c6845de",
+        "id": "202503022303264cc219271c6845de",
+        "usage": {
+            "prompt_tokens": 1841,
+            "completion_tokens": 77,
+            "total_tokens": 1918
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927821,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 三星Galaxy S25 Edge的超薄设计（5.84mm）对其电池容量和散热性能有何潜在影响，是否会在用户体验上带来新的挑战？\n\n2. 在智能手机市场竞争日益激烈的背景下，三星Galaxy S25 Edge的极致轻薄设计对其市场定位和消费者吸引力将产生怎样的影响，是否会引领新的行业趋势？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230339e4255058fee24c7b",
+        "id": "20250302230339e4255058fee24c7b",
+        "usage": {
+            "prompt_tokens": 87,
+            "completion_tokens": 74,
+            "total_tokens": 161
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927833,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在2024年，哪些智能手机品牌和型号因其实用性和易用性而受到老年人的青睐？**\n   \n2. **随着科技的发展，老年人使用智能手机的主要需求和面临的挑战有哪些变化？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223035051bdf1f5d696480f",
+        "id": "2025030223035051bdf1f5d696480f",
+        "usage": {
+            "prompt_tokens": 2710,
+            "completion_tokens": 47,
+            "total_tokens": 2757
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927843,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **DeepSeek公布的545%理论成本利润率在实际运营中受到哪些因素影响，导致实际收入远低于理论值？**\n\n2. **对比OpenAI的GPT-4.5和DeepSeek的定价策略，DeepSeek在价格竞争上占据显著优势，这种优势对其未来市场拓展和用户吸引有何具体影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022303596b25283981204319",
+        "id": "202503022303596b25283981204319",
+        "usage": {
+            "prompt_tokens": 2370,
+            "completion_tokens": 76,
+            "total_tokens": 2446
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927851,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在当前全球半导体产业格局和技术发展趋势下，ASML面临的主要挑战和潜在风险有哪些，与诺基亚当年的困境有何相似之处？\n\n2. 鉴于ASML在光刻机市场的垄断地位及其对全球芯片制造的关键作用，若其遭遇类似诺基亚的衰落，将对全球半导体产业链产生哪些深远影响，相关企业和国家应如何未雨绸缪？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223040883518eab7923488c",
+        "id": "2025030223040883518eab7923488c",
+        "usage": {
+            "prompt_tokens": 79,
+            "completion_tokens": 81,
+            "total_tokens": 160
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927864,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. DeepSeek的代码开源周对AI行业生态产生了哪些具体影响，尤其是对英伟达等传统硬件巨头的市场地位和业务策略带来了哪些挑战？\n\n2. 在DeepSeek开源周背景下，OpenAI发布的GPT-4.5模型定价高昂引发了哪些行业争议，这对未来AI模型的商业化和开源趋势有何启示？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223042026b9ad975b884334",
+        "id": "2025030223042026b9ad975b884334",
+        "usage": {
+            "prompt_tokens": 3100,
+            "completion_tokens": 75,
+            "total_tokens": 3175
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927877,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **华为Mate70 Pro优享版在处理器和性能上与标准版有何差异，这种差异对用户体验和价格策略有何影响？**\n\n2. **华为Mate70 Pro系列在屏幕、影像和电池技术上的创新点是什么，这些创新如何提升其在高端手机市场的竞争力？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022304343f3fde045a2f4858",
+        "id": "202503022304343f3fde045a2f4858",
+        "usage": {
+            "prompt_tokens": 2228,
+            "completion_tokens": 65,
+            "total_tokens": 2293
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927888,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 尹烨提出的“AI诊疗将让800万医生转行”这一观点，是基于哪些具体数据和趋势分析得出的？在当前医疗体系中，AI诊疗技术的普及程度及其对医生职业影响的实际案例有哪些？\n\n2. 尹烨强调“有温度的医学无法被替代”，在AI诊疗技术日益发展的背景下，如何平衡和融合AI的精准性与传统医患关系中的人文关怀？未来医疗模式中，医生的角色将如何转型以适应这一变革？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022304438eac5ffa5d624d1e",
+        "id": "202503022304438eac5ffa5d624d1e",
+        "usage": {
+            "prompt_tokens": 2953,
+            "completion_tokens": 102,
+            "total_tokens": 3055
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927901,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 小米推出的这款售价29.9元的新品在设计和功能上有何独特之处，以至于引发米粉如此热烈的反响？\n2. 此款小米新品的市场定位和营销策略是怎样的，它是如何成功吸引大量米粉关注并激发购买欲望的？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230457a582671ebb51464f",
+        "id": "20250302230457a582671ebb51464f",
+        "usage": {
+            "prompt_tokens": 1579,
+            "completion_tokens": 57,
+            "total_tokens": 1636
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927911,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **文心大模型4.5的技术突破与创新能力有哪些具体表现，如何助力中国AI大模型在全球竞争中实现赶超？**\n\n2. **在文心大模型4.5发布后，中国AI大模型市场将迎来哪些新的发展机遇和挑战，对中美AI领域的竞争格局将产生怎样的深远影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230507797c5088cf49426e",
+        "id": "20250302230507797c5088cf49426e",
+        "usage": {
+            "prompt_tokens": 2584,
+            "completion_tokens": 74,
+            "total_tokens": 2658
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927923,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在「科技美学」对iPhone 16e与iPhone 16的详细测试对比中，两款手机在性能、摄像头、电池续航等方面的具体差异有哪些？这些差异对用户的实际使用体验有何影响？\n\n2. 针对「科技美学」测试结果中iPhone 16e与iPhone 16的不同表现，分析苹果公司在产品设计和功能优化上的策略变化，这些变化是否反映了当前智能手机市场的主流趋势和消费者需求？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230520c7670d5be2a04fe3",
+        "id": "20250302230520c7670d5be2a04fe3",
+        "usage": {
+            "prompt_tokens": 87,
+            "completion_tokens": 93,
+            "total_tokens": 180
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927937,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在当前AI大模型技术迅速崛起的背景下，小米和华为高薪争夺AI研发人才的策略对整个科技行业的薪酬结构和人才流动趋势会产生哪些深远影响？\n\n2. 鉴于AI工程师岗位增速接近70%，智联招聘数据显示的AI相关求职人数激增，这种供需关系的剧烈变化将如何重塑企业的招聘策略和人才培养计划？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022305333d9d23b6752946a2",
+        "id": "202503022305333d9d23b6752946a2",
+        "usage": {
+            "prompt_tokens": 2986,
+            "completion_tokens": 78,
+            "total_tokens": 3064
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927948,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **美国科技巨头为何此时集体呼吁放宽对华芯片出口管制，这与当前全球芯片市场供需状况有何关联？**\n\n2. **特朗普政府若放宽对华芯片出口管制，将对中美两国科技产业链及全球半导体产业格局产生哪些深远影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230545652ef9045c934c60",
+        "id": "20250302230545652ef9045c934c60",
+        "usage": {
+            "prompt_tokens": 1951,
+            "completion_tokens": 59,
+            "total_tokens": 2010
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927958,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 京东外卖通过提供全额缴纳五险一金的策略来吸引骑手，这一举措对外卖行业的劳动力市场将产生怎样的长期影响？其他外卖平台如美团和饿了么会如何应对这一竞争压力？\n\n2. 京东在进入存量市场的外卖行业时，采取了低佣金和高社保成本的策略，这在短期内对其财务状况和长期市场份额的争夺中将面临哪些挑战和机遇？投资者应如何评估京东外卖业务的潜在盈利能力和市场风险？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022305548902b0522ab24704",
+        "id": "202503022305548902b0522ab24704",
+        "usage": {
+            "prompt_tokens": 3532,
+            "completion_tokens": 98,
+            "total_tokens": 3630
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927971,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在杭州新贵们的隐形朋友圈中，哪些行业或领域的精英更容易获得入场券，这种趋势反映了杭州经济发展的哪些新动向？\n\n2. 杭州新贵们的隐形朋友圈的形成和演变，对当地社会阶层流动和商业生态产生了哪些具体影响，是否存在潜在的负面效应？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223060824b957dfc56f490f",
+        "id": "2025030223060824b957dfc56f490f",
+        "usage": {
+            "prompt_tokens": 87,
+            "completion_tokens": 64,
+            "total_tokens": 151
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927983,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **倪光南院士在2025玄铁RISC-V生态大会上提到的RISC-V架构在哪些具体领域有望实现超过25%的市场占有率，并且这些领域的市场需求如何推动了RISC-V架构的发展？**\n\n2. **在倪光南院士的演讲中，他强调了开源RISC-V对全球芯片产业变革的影响，那么中国在这一领域的具体贡献有哪些，并且这些贡献如何助力中国在全球半导体产业链中的地位提升？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230618e4e54876e9a9427f",
+        "id": "20250302230618e4e54876e9a9427f",
+        "usage": {
+            "prompt_tokens": 2644,
+            "completion_tokens": 96,
+            "total_tokens": 2740
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927993,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在当前技术条件下，养老机器人在实际应用中面临的主要技术瓶颈和伦理挑战有哪些，如何有效解决这些问题以提升其在养老领域的实际效用？**\n\n2. **随着我国牵头制定的养老机器人国际标准的发布，未来养老机器人产业将如何影响传统养老模式，以及这一变革对家庭结构和社会经济可能带来哪些深层次的影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223062941a2a27910504564",
+        "id": "2025030223062941a2a27910504564",
+        "usage": {
+            "prompt_tokens": 2760,
+            "completion_tokens": 78,
+            "total_tokens": 2838
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928006,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 小米SU7 Ultra以52.99万元的售价入市，相比其预售价降低了近30万元，这种大幅降价策略是否会对小米品牌的高端形象产生影响？在消费者心中，低价与高端性能能否并存？\n\n2. 小米SU7 Ultra的性能参数直逼百万级豪车，但售价仅为52.99万元，这种“性价比”策略在豪车市场中是否具有可持续性？它将如何改变传统豪车市场的竞争格局？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230642c7d782b504b14c0a",
+        "id": "20250302230642c7d782b504b14c0a",
+        "usage": {
+            "prompt_tokens": 2807,
+            "completion_tokens": 95,
+            "total_tokens": 2902
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928020,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在当前智能手机市场中，选择“超大杯”旗舰手机的用户主要看重的功能和特性是什么？与标准版或“大杯”版本相比，这些特性在实际使用中的体验提升有多大？\n\n2. 针对近期发布的几款热门“超大杯”手机，它们的性能、拍照、续航等方面的实际表现如何？与同品牌前代“超大杯”或竞品相比，有哪些显著的优势和不足？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230655b39e7a8d14d448f0",
+        "id": "20250302230655b39e7a8d14d448f0",
+        "usage": {
+            "prompt_tokens": 2951,
+            "completion_tokens": 92,
+            "total_tokens": 3043
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928031,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 特斯拉FSD在中国市场推出的功能与北美市场存在明显差距，这种“中外有别”的现象主要是由哪些技术、政策和市场因素导致的？\n2. 鉴于中国复杂的交通环境和数据合规问题，特斯拉FSD在中国市场的未来发展和竞争力将面临哪些挑战和机遇？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022307070ca4d201757d4ff9",
+        "id": "202503022307070ca4d201757d4ff9",
+        "usage": {
+            "prompt_tokens": 3281,
+            "completion_tokens": 63,
+            "total_tokens": 3344
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928045,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在DeepSeek提供的诊疗方案与医生意见不一致的情况下，患者应如何权衡两者的建议，以确保获得最合适的治疗方案？\n2. 面对AI诊疗工具如DeepSeek的兴起，医疗行业应如何制定相应的规范和标准，以确保AI辅助诊断的准确性和安全性，同时维护医生的专业权威？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223072106ca7fd541ae4338",
+        "id": "2025030223072106ca7fd541ae4338",
+        "usage": {
+            "prompt_tokens": 2766,
+            "completion_tokens": 69,
+            "total_tokens": 2835
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928055,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 小米Buds 5 Pro采用的4.2Mbps Wi-Fi音频传输技术相比传统蓝牙传输在音质和延迟方面有哪些显著提升，这一技术革新对无线耳机市场将带来哪些长远影响？\n\n2. 在实际使用场景中，小米Buds 5 Pro的4.2Mbps Wi-Fi音频传输如何解决信号稳定性和设备兼容性问题，其用户体验相比前代产品有哪些具体改进？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230731cd958476170641dd",
+        "id": "20250302230731cd958476170641dd",
+        "usage": {
+            "prompt_tokens": 94,
+            "completion_tokens": 90,
+            "total_tokens": 184
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928067,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **小米机器人在技术和市场定位上与宇树科技的人形机器人有何异同，其在年轻人市场的竞争优势主要体现在哪些方面？**\n\n2. **随着小米机器人量产在即，其对宇树科技在人形机器人领域的市场地位将产生怎样的影响，双方在技术迭代和市场份额争夺上的未来发展趋势如何？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230743a0b00f6e9eed40a1",
+        "id": "20250302230743a0b00f6e9eed40a1",
+        "usage": {
+            "prompt_tokens": 3293,
+            "completion_tokens": 70,
+            "total_tokens": 3363
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928081,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在直播电商从“价格优势”转向“内容为王”的趋势下，李佳琦等初代头部主播面临的转型挑战具体体现在哪些方面，他们采取了哪些策略来应对这一变化？\n\n2. 随着消费者对产品品质和个性化需求的提升，直播电商行业如何平衡内容创新与商品质量，以确保在新的市场环境下保持竞争力？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022307574be1732866484dd6",
+        "id": "202503022307574be1732866484dd6",
+        "usage": {
+            "prompt_tokens": 3423,
+            "completion_tokens": 79,
+            "total_tokens": 3502
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928091,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **Mercor的商业模式和盈利模式具体是怎样的？其如何在短短两年内实现估值的快速增长，背后有哪些关键因素？**\n   \n2. **针对Mercor所引发的“估值泡沫”争议，业界和投资界如何看待其未来发展和潜在风险？是否有类似AI初创公司的高估值案例可以对比分析？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230807b6be5d9693f14d00",
+        "id": "20250302230807b6be5d9693f14d00",
+        "usage": {
+            "prompt_tokens": 2952,
+            "completion_tokens": 70,
+            "total_tokens": 3022
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928100,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **6G网络的传输速度和AI融合技术将如何具体影响未来智能家居和自动驾驶领域的应用和发展？**\n   \n2. **相较于当前的5G网络，6G网络在实现1秒12G传输速度和自带AI信号的过程中，面临的主要技术挑战和潜在的安全风险有哪些？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230817e772c362cf7e4bb6",
+        "id": "20250302230817e772c362cf7e4bb6",
+        "usage": {
+            "prompt_tokens": 3123,
+            "completion_tokens": 65,
+            "total_tokens": 3188
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928108,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **AI在医疗领域的应用现状及其对医患关系的影响如何？**\n   \n2. **GAI工具在医疗决策中的局限性及其潜在风险有哪些？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022308269de58917419549e6",
+        "id": "202503022308269de58917419549e6",
+        "usage": {
+            "prompt_tokens": 3113,
+            "completion_tokens": 38,
+            "total_tokens": 3151
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928120,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **国产GPU大厂近期裁员20%的传闻是否属实？若属实，此次裁员的主要原因是什么，对公司未来的发展战略有何影响？**\n   \n2. **面对国产GPU市场的激烈竞争和外部环境的不确定性，该大厂在裁员后采取了哪些措施来稳定团队和保障技术研发的持续投入？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230837f11a3dea58c4460d",
+        "id": "20250302230837f11a3dea58c4460d",
+        "usage": {
+            "prompt_tokens": 2821,
+            "completion_tokens": 69,
+            "total_tokens": 2890
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928133,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **\"去年被誉为'最好看的直屏'手机在设计和性能上有哪些独特之处，使其在市场上脱颖而出？这次升级后的新版本在哪些方面进行了改进，以吸引更多消费者的关注？\"**\n   \n2. **\"在当前中端手机市场竞争激烈的环境下，这款直屏手机以2099元起的售价策略，对其市场定位和目标用户群体有何影响？相比同类竞品，它在性价比和用户体验上有哪些显著优势？\"**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022308486a22f3b2a0d3440c",
+        "id": "202503022308486a22f3b2a0d3440c",
+        "usage": {
+            "prompt_tokens": 2892,
+            "completion_tokens": 98,
+            "total_tokens": 2990
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928143,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **北大团队提出的针对AI的DDoS攻击模式与传统网络DDoS攻击在技术实现和潜在影响上有何本质区别？这种新型攻击方式对当前AI系统的安全防护提出了哪些新的挑战？**\n\n2. **在“一句话让DeepSeek思考停不下来”的案例中，具体是利用了AI系统的哪些漏洞或特性来实现持续思考状态？针对此类攻击，现有的AI防御机制需要进行哪些关键性的改进或升级？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022309008b1d2e404385404c",
+        "id": "202503022309008b1d2e404385404c",
+        "usage": {
+            "prompt_tokens": 92,
+            "completion_tokens": 97,
+            "total_tokens": 189
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928155,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. GPT-4.5在科学、数学和编码能力上的表现为何不如预期，与OpenAI此前的模型相比有哪些具体差距？\n2. 山姆·奥特曼缺席GPT-4.5发布会的原因是什么，网友对此有何反应，以及这一事件对OpenAI品牌形象可能产生哪些影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230912b0570ac4ed8044d3",
+        "id": "20250302230912b0570ac4ed8044d3",
+        "usage": {
+            "prompt_tokens": 3049,
+            "completion_tokens": 69,
+            "total_tokens": 3118
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928168,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **英伟达H20芯片在经历市场质疑后，为何能在近期实现“逆袭”，成为互联网大厂青睐的选择？其背后的技术进步和市场策略有哪些关键因素？**\n\n2. **随着DeepSeek模型低成本高效果的技术路线推广，H20芯片的需求量显著增长，这对英伟达在中国市场的竞争格局和未来产品策略将产生哪些深远影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230924baade546bcdb4cc8",
+        "id": "20250302230924baade546bcdb4cc8",
+        "usage": {
+            "prompt_tokens": 2957,
+            "completion_tokens": 83,
+            "total_tokens": 3040
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928180,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **灵巧手技术的最新进展如何推动人形机器人在精细操作领域的应用，特别是在工业制造和医疗健康领域的具体案例有哪些？**\n\n2. **在“卷”完人形机器人本体技术后，灵巧手技术的突破对整个人形机器人行业的发展趋势和市场竞争格局将产生哪些深远影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223093672f8f5188a824ddc",
+        "id": "2025030223093672f8f5188a824ddc",
+        "usage": {
+            "prompt_tokens": 3130,
+            "completion_tokens": 71,
+            "total_tokens": 3201
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928190,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 夸克AI搜索上线“深度思考”功能后，对其他搜索引擎的市场份额和用户体验产生了哪些具体影响？\n2. 面对夸克AI搜索的“深度思考”功能，其他搜索引擎采取了哪些应对措施来提升自身的技术和服务？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022309467d239ec6b4f14bab",
+        "id": "202503022309467d239ec6b4f14bab",
+        "usage": {
+            "prompt_tokens": 2437,
+            "completion_tokens": 58,
+            "total_tokens": 2495
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928201,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **雷军失眠背后的心理动因分析：在小米高端化战略取得显著进展、个人财富持续增长的背景下，雷军失眠是否反映了其对未来市场竞争和企业持续发展的深层焦虑？**\n\n2. **“雷军同款皮衣”现象对品牌营销的启示：从雷军皮衣引发的全网热潮和电商平台断货现象出发，探讨如何有效利用企业领导人的个人形象和时尚元素进行品牌推广，以提升消费者认同感和市场影响力？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022309571ba14ac93b954f89",
+        "id": "202503022309571ba14ac93b954f89",
+        "usage": {
+            "prompt_tokens": 3000,
+            "completion_tokens": 103,
+            "total_tokens": 3103
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928213,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **京东在公开宣布为员工缴纳60亿社保和公积金时，其宣传策略是否充分考虑了公众对于企业法定义务与额外福利之间界限的认知差异？**\n   \n2. **在京东强调全额缴纳五险一金的同时，其他同行业企业如阿里、顺丰在员工社保缴纳方面的实际做法及其透明度如何，这对公众评价京东此举的诚意和行业影响力有何影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022310092eb7a4a10a784a02",
+        "id": "202503022310092eb7a4a10a784a02",
+        "usage": {
+            "prompt_tokens": 2815,
+            "completion_tokens": 87,
+            "total_tokens": 2902
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928226,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **中国产业革命的“三大支柱”具体指哪些领域？它们在推动中国经济高质量发展中分别扮演了怎样的角色？**\n\n2. **日媒报道中提到的中国产业革命“三大支柱”在当前全球经济发展背景下，面临哪些机遇和挑战？中国如何应对这些挑战以巩固和提升其在全球产业链中的地位？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022310224772746564e84d2f",
+        "id": "202503022310224772746564e84d2f",
+        "usage": {
+            "prompt_tokens": 2446,
+            "completion_tokens": 73,
+            "total_tokens": 2519
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928236,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 阿里达摩院发布的玄铁C930处理器在SPECint2006基准测试中达到15/GHz的通用算力性能，这一性能指标在当前服务器级处理器市场中处于何种水平？其对RISC-V架构在高端领域的渗透有何重要意义？\n\n2. DeepSeek开源模型与玄铁C930处理器的结合，如何影响AI算力需求及芯片设计的新平衡点？这种开源算力架构对全球AI产业的竞争格局将产生哪些深远影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022310320c119cd9fd8a4afe",
+        "id": "202503022310320c119cd9fd8a4afe",
+        "usage": {
+            "prompt_tokens": 2557,
+            "completion_tokens": 108,
+            "total_tokens": 2665
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928245,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在2025年发布的14台旗舰机型中，哪些机型在性能、影像和续航方面表现最为突出，适合追求极致体验的用户选择？\n2. 针对预算有限但依然希望获得高性价比旗舰机型的消费者，2025年的这14台旗舰机型中有哪些推荐选项，它们各自的优势和特点是什么？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231042cd64151d345c468c",
+        "id": "20250302231042cd64151d345c468c",
+        "usage": {
+            "prompt_tokens": 3141,
+            "completion_tokens": 74,
+            "total_tokens": 3215
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928258,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **百度在收购YY直播后，如何整合其资源以提升自身在直播和AI领域的综合竞争力，并实现投资回报的最大化？**\n\n2. **考虑到直播行业当前的下滑趋势，百度将如何利用YY直播的平台优势和用户基础，开辟新的盈利模式和增长点，以证明此次21亿美元收购的长期价值？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223105520dbf2e321a04ef6",
+        "id": "2025030223105520dbf2e321a04ef6",
+        "usage": {
+            "prompt_tokens": 1827,
+            "completion_tokens": 74,
+            "total_tokens": 1901
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928267,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **OpenAI计划新增的数十万颗GPU将如何分配和整合到其现有的数据中心中，以最大程度地提升GPT-4.5模型的处理能力和用户体验？**\n\n2. **面对GPU资源的紧张和GPT-4.5的高昂使用成本，OpenAI在未来的产品定价策略和资源管理方面将采取哪些具体措施来平衡成本与市场需求？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231103536eda4984f748df",
+        "id": "20250302231103536eda4984f748df",
+        "usage": {
+            "prompt_tokens": 2440,
+            "completion_tokens": 84,
+            "total_tokens": 2524
+        }
+    }
+]

@@ -1,0 +1,1102 @@
+[
+    {
+        "model": "glm-4-plus",
+        "created": 1740927164,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在江苏女排冲击冠军的过程中，张常宁领衔的“三大利器”具体指的是哪些技术和战术特点？它们在比赛中是如何发挥关键作用的？\n\n2. 鉴于上海女排在之前的比赛中曾主客场双杀江苏女排，但季后赛两次交手均告负，是什么因素导致了上海女排在决赛中可能面临被横扫的局面？江苏女排在哪些方面做出了针对性的调整和提升？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022252402d6bd2fbe08d4fcf",
+        "id": "202503022252402d6bd2fbe08d4fcf",
+        "usage": {
+            "prompt_tokens": 2766,
+            "completion_tokens": 89,
+            "total_tokens": 2855
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927174,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 詹姆斯在冲击5万分和1千胜的过程中，哪些关键因素促使他在40岁高龄依然能够实现逆生长，保持如此高效的竞技状态？\n\n2. 在詹姆斯有望时隔5年再次获得月最佳的背后，湖人队的战术调整和团队配合起到了怎样的作用，这对其他高龄球员的职业生涯有何启示？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222525088515a6cd9194f20",
+        "id": "2025030222525088515a6cd9194f20",
+        "usage": {
+            "prompt_tokens": 3630,
+            "completion_tokens": 72,
+            "total_tokens": 3702
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927184,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 迪亚洛在CBA全明星扣篮大赛预赛中的满分扣篮具体是怎样的动作和创意，获得了评委和观众怎样的评价？\n2. 迪亚洛此次扣篮大赛预赛的表现与他以往在NBA和CBA的扣篮表现有何异同，是否展现出了新的特点和风格？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225301987db16f55a642c2",
+        "id": "20250302225301987db16f55a642c2",
+        "usage": {
+            "prompt_tokens": 1672,
+            "completion_tokens": 68,
+            "total_tokens": 1740
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927196,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在湖人升至西部第三的过程中，哪些关键因素和比赛结果起到了决定性作用？湖人的这一排名是否稳定，接下来他们将面临哪些挑战？\n\n2. 国王队是如何实现从排名靠后到冲上西部第八的逆袭的？队内哪些球员的表现功不可没，国王队接下来的赛程和潜在对手对他们保住季后赛席位有何影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225312d3869d45ad404d37",
+        "id": "20250302225312d3869d45ad404d37",
+        "usage": {
+            "prompt_tokens": 3188,
+            "completion_tokens": 80,
+            "total_tokens": 3268
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927205,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在澳大利亚U20与沙特U20的U20亚洲杯决赛中，澳大利亚门将的具体失误情况是怎样的，又是如何通过扑点来弥补这一失误的？\n\n2. 澳大利亚U20在决赛的点球大战中采取了哪些策略或心理调整，最终成功击败沙特U20夺冠？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022253217ce85b1f697543ba",
+        "id": "202503022253217ce85b1f697543ba",
+        "usage": {
+            "prompt_tokens": 1945,
+            "completion_tokens": 68,
+            "total_tokens": 2013
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927218,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在最新的MVP榜单中，勒布朗·詹姆斯进入前五的具体排名是多少，并且他近期的表现有哪些亮点数据支撑这一排名的提升？\n\n2. 尼古拉·约基奇再次登顶MVP榜单的主要原因是什么？请结合他本赛季的场均数据以及掘金队整体战绩的变化进行分析。",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222533491230c0dcedb40b9",
+        "id": "2025030222533491230c0dcedb40b9",
+        "usage": {
+            "prompt_tokens": 3201,
+            "completion_tokens": 70,
+            "total_tokens": 3271
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927227,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在“泰拳王接连踢断三个中国人手臂”的事件中，铁英华使用“神龙摆尾”这一招式的具体情境是怎样的？这一招式在搏击比赛中通常具有怎样的战术意义和效果？\n\n2. 针对泰拳王在比赛中展现出的强大实力，铁英华是如何在短时间内找到对手的弱点并成功反击的？这背后体现了大东翔搏击俱乐部在选手战术训练和心理调整方面的哪些独特之处？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222534301952a9070b94c7a",
+        "id": "2025030222534301952a9070b94c7a",
+        "usage": {
+            "prompt_tokens": 812,
+            "completion_tokens": 102,
+            "total_tokens": 914
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927240,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在此次中超大规模冲突事件中，安保人员是如何介入并处理现场情况的，以及比赛中断5分钟对比赛结果和双方球队心态产生了哪些具体影响？\n\n2. 针对此次中超冲突事件，足协和相关俱乐部将采取哪些措施来防止类似事件再次发生，以及这些措施将对中超联赛的整体形象和球迷文化产生怎样的长远影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022253572291d377e3494515",
+        "id": "202503022253572291d377e3494515",
+        "usage": {
+            "prompt_tokens": 2057,
+            "completion_tokens": 79,
+            "total_tokens": 2136
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927253,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **湖人交易获得芬尼-史密斯后，如何评估他在球队中的角色和战术价值，以及这一交易对湖人本赛季争冠前景的具体影响？**\n\n2. **76人计划解除恩比德的2.5亿合同，这一决策背后的财务和战略考量是什么，以及这一变动可能对76人队的未来阵容构建和竞争力产生哪些长远影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222540986a62a0575bd42c8",
+        "id": "2025030222540986a62a0575bd42c8",
+        "usage": {
+            "prompt_tokens": 2361,
+            "completion_tokens": 82,
+            "total_tokens": 2443
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927263,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **\"00后新星在巴萨的表现如何，其转会离开对巴萨的阵容和战术有何影响？\"**\n   \n2. **\"该新星转会至非欧洲联赛的具体原因是什么，这一决定对其个人职业发展和市场价值可能带来哪些长远影响？\"**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222541964857cf430d44782",
+        "id": "2025030222541964857cf430d44782",
+        "usage": {
+            "prompt_tokens": 2880,
+            "completion_tokens": 58,
+            "total_tokens": 2938
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927273,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在勇士对阵费城的比赛中，格雷姆斯的超神表现具体体现在哪些数据上？他的表现对比赛走势产生了怎样的影响？\n2. 乔治在比赛中的关键跳投是如何改变比赛结果的？结合他整场比赛的表现，分析这一跳投的意义及其对球队士气的影响。",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022254304c1df1d6a9474104",
+        "id": "202503022254304c1df1d6a9474104",
+        "usage": {
+            "prompt_tokens": 1155,
+            "completion_tokens": 63,
+            "total_tokens": 1218
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927284,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在腾讯新闻提到的“仅差18分！NBA史诗级纪录诞生！”事件中，勒布朗·詹姆斯距离打破的具体是哪项NBA纪录，并且这一纪录的历史背景和重要性是怎样的？\n\n2. 针对报道中“前无古人后无来者，詹姆斯宝刀未老”的评价，能否详细分析詹姆斯在本赛季的表现数据，以及他如何克服年龄因素保持高水平竞技状态的具体原因？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225440223eed96b00b4225",
+        "id": "20250302225440223eed96b00b4225",
+        "usage": {
+            "prompt_tokens": 2840,
+            "completion_tokens": 92,
+            "total_tokens": 2932
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927294,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 何可欣在比赛中面对美国队的全场最高分时，是如何调整心态并最终实现逆转的？她的这一跳在技术和心理层面有哪些关键因素？\n2. 在何可欣力挽狂澜、成功逆转的背后，中国体操队是如何进行战术布置和临场指导的？这一胜利对中国体操队在国际赛场上的整体战略有何重要意义？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225450403c25e794304dd5",
+        "id": "20250302225450403c25e794304dd5",
+        "usage": {
+            "prompt_tokens": 3114,
+            "completion_tokens": 79,
+            "total_tokens": 3193
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927308,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在独行侠交易走两位顶级后场的决策中，哪些数据和表现因素可能影响了总经理的这一决定，以及这一交易对球队未来战术体系和战绩预计会产生怎样的短期和长期影响？\n\n2. 鉴于独行侠总经理过去几年的交易和选秀历史，这次送走核心后场的操作是否进一步佐证了其“联盟最差总经理”的评价？此评价对于球队管理层信任度、球迷支持度以及吸引未来潜在自由球员加盟可能带来哪些连锁反应？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225504a796d2689e24496c",
+        "id": "20250302225504a796d2689e24496c",
+        "usage": {
+            "prompt_tokens": 99,
+            "completion_tokens": 103,
+            "total_tokens": 202
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927318,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在沙特报社记者透露利雅得胜利放弃与C罗续约的消息后，有哪些具体原因可能导致俱乐部做出这一决定？这一决定对C罗未来的职业生涯和利雅得胜利的球队发展将产生哪些潜在影响？\n\n2. 鉴于C罗在沙特联赛期间的表现和数据，以及他对于续约的态度和期望，此次利雅得胜利放弃续约的决定是否出乎外界预料？这一变动将如何影响沙特联赛的国际影响力和球迷基础？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022255140f348e232e064237",
+        "id": "202503022255140f348e232e064237",
+        "usage": {
+            "prompt_tokens": 1677,
+            "completion_tokens": 99,
+            "total_tokens": 1776
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927326,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在勇士对阵76人的决胜时刻，76人获得的两次有利判罚具体是哪些情况？这两次判罚对比赛结果产生了怎样的影响？\n2. 追梦格林在比赛中的离谱失误具体是怎样的？这一失误对勇士队的战术执行和比赛走势有何关键性影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022255235b9ced632050481c",
+        "id": "202503022255235b9ced632050481c",
+        "usage": {
+            "prompt_tokens": 2775,
+            "completion_tokens": 65,
+            "total_tokens": 2840
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927338,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在雷霆队本赛季表现出色的背景下，哪些关键因素导致了他们在六项数据上领跑联盟，并悄然升至西部第二的位置？**\n\n2. **考虑到亚历山大近期MVP级别表现和雷霆队的整体强势，本赛季MVP的竞争格局是否已经明确，其他候选人的竞争力如何与之相较？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022255356b5010ee973d4c32",
+        "id": "202503022255356b5010ee973d4c32",
+        "usage": {
+            "prompt_tokens": 2731,
+            "completion_tokens": 69,
+            "total_tokens": 2800
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927349,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 孙颖莎在对阵张本美和的比赛中打出11：0的局分，这一局的具体比赛过程是怎样的？张本美和在此期间表现出了哪些情绪变化？\n\n2. 孙颖莎11：0横扫张本美和的比赛对双方运动员的心理和后续比赛策略产生了哪些影响？张本美和赛后崩溃哭泣的具体原因是什么？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222554664d3c23460264442",
+        "id": "2025030222554664d3c23460264442",
+        "usage": {
+            "prompt_tokens": 3367,
+            "completion_tokens": 80,
+            "total_tokens": 3447
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927360,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 火箭队近期遭遇连败，申京所体现出的“4大弊病”具体是什么？这些弊病对火箭队的整体表现产生了哪些直接影响？\n   \n2. 乌度卡作为火箭队的主教练，面对球队当前的困境和申京的问题，他将如何调整战术和人员配置来解决这些“甜蜜烦恼”，并提升球队战绩？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022255571dcf2ef5a5264aa9",
+        "id": "202503022255571dcf2ef5a5264aa9",
+        "usage": {
+            "prompt_tokens": 2794,
+            "completion_tokens": 79,
+            "total_tokens": 2873
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927372,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在一个球队同时拥有两位像杜兰特这样的顶级得分手的情况下，教练团队应如何调整战术体系以最大化发挥两人的进攻优势，同时避免球权分配不均导致的潜在冲突？\n\n2. 鉴于杜兰特在进攻端的全面性和对球权的较高需求，若球队出现两位杜兰特类型的球员，防守端应如何进行针对性布置，以确保球队的整体防守效率和阵容的化学反应不受影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225608b9e2485246604c33",
+        "id": "20250302225608b9e2485246604c33",
+        "usage": {
+            "prompt_tokens": 1546,
+            "completion_tokens": 87,
+            "total_tokens": 1633
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927382,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 根据亚马尔目前的市场价值和在巴萨队内的地位，巴萨需要开出多少年薪才能匹配亚马尔的期望，从而成功续约？\n2. 鉴于亚马尔拒绝当前的续约报价，巴萨是否有计划调整续约策略，比如增加合同年限或提供额外的激励条款，以留住这位年轻天才？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225619f1d8e96b2f3d4540",
+        "id": "20250302225619f1d8e96b2f3d4540",
+        "usage": {
+            "prompt_tokens": 2444,
+            "completion_tokens": 72,
+            "total_tokens": 2516
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927392,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 王楠在担任威海南海乒乓球训练基地管理有限公司董事长期间，她的领导风格和管理策略有哪些显著特点，是如何体现在她给员工开会时的气场和影响力上的？\n\n2. 在王楠召开的公司会议中，员工们表现出“小心翼翼”的态度，这种现象反映了怎样的职场文化和团队氛围，对于公司内部的沟通效率和决策执行有何潜在影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022256283b45c30b4eef43a3",
+        "id": "202503022256283b45c30b4eef43a3",
+        "usage": {
+            "prompt_tokens": 2109,
+            "completion_tokens": 78,
+            "total_tokens": 2187
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927403,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在西甲争冠形势再次发生变化的情况下，皇马输球后掉至第三名，这对球队在即将到来的欧冠淘汰赛中的心态和战术布置会产生哪些具体影响？\n\n2. 马竞在赢得关键比赛后登顶西甲榜首，这一胜利对球队士气和战术执行有何积极效应，同时他们在面对即将到来的马德里德比时，会采取哪些针对性策略来巩固领先地位？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225639c64b92730fca46dd",
+        "id": "20250302225639c64b92730fca46dd",
+        "usage": {
+            "prompt_tokens": 3121,
+            "completion_tokens": 89,
+            "total_tokens": 3210
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927414,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 敖日格乐在对阵韩国选手的比赛中展现了哪些关键技术动作和战术策略，使得他能够连续KO对手？\n2. 敖日格乐此次对阵韩国选手的表现，对于他在国际格斗赛事中的排名和未来发展有何重要影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022256516330fa9469724a23",
+        "id": "202503022256516330fa9469724a23",
+        "usage": {
+            "prompt_tokens": 1572,
+            "completion_tokens": 56,
+            "total_tokens": 1628
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927424,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在快船队最新的人员调整中，凯琼斯、塔克和班巴的变动对球队整体实力和战术布局带来了哪些具体影响？请结合他们的技术特点和球队现有阵容进行分析。\n\n2. 湖人队的双向合同球员古德温在攻防两端的表现如何，他若被转正进入15人名单，将对湖人的后场轮转和战术体系产生哪些积极变化？请对比他在灰熊和湖人的数据及角色定位进行探讨。",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225659bed45033df534ec9",
+        "id": "20250302225659bed45033df534ec9",
+        "usage": {
+            "prompt_tokens": 3436,
+            "completion_tokens": 106,
+            "total_tokens": 3542
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927432,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 东契奇母亲作为前南斯拉夫名模，其现身赛场对东契奇的生日夜表现有何积极影响？这种家庭支持在职业运动员心理调节中扮演何种角色？\n\n2. 51岁名模美貌依旧，这种现象在体育明星家庭中是否普遍？它反映了怎样的社会审美趋势及对中年女性形象的重塑有何启示？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022257091b65c785ca8b4426",
+        "id": "202503022257091b65c785ca8b4426",
+        "usage": {
+            "prompt_tokens": 98,
+            "completion_tokens": 78,
+            "total_tokens": 176
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927446,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在陈若琳的“逆天一跳”中，她面临了哪些具体的挑战和不利因素，最终是如何克服并实现逆转的？\n2. 陈若琳的这一跳在当时国际跳水界产生了怎样的影响，对她的职业生涯和后续选手的训练理念有何深远意义？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225722733e14e063d147c9",
+        "id": "20250302225722733e14e063d147c9",
+        "usage": {
+            "prompt_tokens": 3075,
+            "completion_tokens": 62,
+            "total_tokens": 3137
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927455,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **布拉德利·比尔的高薪合同是否影响了太阳队的整体薪资结构和未来引援计划？**\n   \n2. **比尔频繁因“感觉不舒服”而缺席比赛的行为，对其个人品牌和球队化学反应产生了哪些具体影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225732cd1881325c6a401d",
+        "id": "20250302225732cd1881325c6a401d",
+        "usage": {
+            "prompt_tokens": 2621,
+            "completion_tokens": 54,
+            "total_tokens": 2675
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927468,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在狄龙和德罗赞的连续肢体冲突中，裁判的判罚是否合理？这次冲突对比赛的整体走势产生了怎样的影响？\n\n2. 狄龙和德罗赞之间的口角险些升级为打架，这一事件反映了NBA球员在比赛中的情绪管理问题吗？联盟应该如何应对此类事件以避免进一步的冲突？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225744a66f10541dfc45db",
+        "id": "20250302225744a66f10541dfc45db",
+        "usage": {
+            "prompt_tokens": 2839,
+            "completion_tokens": 76,
+            "total_tokens": 2915
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927479,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在这场“46+41+37”高分三巨头带领下实现的29分大逆转比赛中，是哪些关键因素促成了如此惊人的逆转？这些因素对于球队未来在类似逆境中的表现有何启示？\n\n2. 虽然这场逆转胜利振奋人心，但文章标题为何强调“可惜这不可能是总决”？是基于球队当前排名、赛程难度还是其他战略层面的考量？这对球队接下来的季后赛策略和士气管理有何潜在影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225755b904e571b0a143ab",
+        "id": "20250302225755b904e571b0a143ab",
+        "usage": {
+            "prompt_tokens": 91,
+            "completion_tokens": 97,
+            "total_tokens": 188
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927492,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在足坛历史上，哪些球员因极具戏剧性的原因被出示红牌，这些事件对他们的职业生涯和球队战绩产生了怎样的影响？\n\n2. 综合近年来足坛出现的“花式吃红牌”事件，裁判在处理类似突发情况时面临哪些挑战，足球规则是否需要进行相应的调整以减少争议？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225808ada2b71de4314532",
+        "id": "20250302225808ada2b71de4314532",
+        "usage": {
+            "prompt_tokens": 3453,
+            "completion_tokens": 72,
+            "total_tokens": 3525
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927501,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 梁靖崑选择让儿子接受专业教练的乒乓球训练，而不是亲自教授，这种做法是否反映了专业运动员对系统训练和教练角色的重视？这样的教育方式对儿子的乒乓球技能和心理成长有哪些潜在影响？\n\n2. 评论区的热议和幽默反应体现了公众对于体育明星家庭教育的哪些期待和误解？这种现象如何反映了当前社会对亲子教育和体育人才培养态度的多元化？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225817f1f345bc5bd14fa5",
+        "id": "20250302225817f1f345bc5bd14fa5",
+        "usage": {
+            "prompt_tokens": 93,
+            "completion_tokens": 85,
+            "total_tokens": 178
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927512,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在跳水比赛中，全红婵凭借“水花消失术”力压三位奥运冠军夺得金牌，这一技术背后的训练秘诀和科学原理是什么？\n2. 全红婵作为跳水界的黑马，她的横空出世对中国跳水队在国际赛事中的竞争格局带来了哪些影响和变化？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225829f855ea9b4c4a4548",
+        "id": "20250302225829f855ea9b4c4a4548",
+        "usage": {
+            "prompt_tokens": 3208,
+            "completion_tokens": 66,
+            "total_tokens": 3274
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927521,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在勇士对阵76人的比赛中，缺少巴特勒对76人整体战术执行和得分效率产生了哪些具体影响？\n2. 勇士在这场比赛中暴露出的四个主要问题分别是什么，这些问题如何影响了他们最终的比赛结果？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022258380ee672bf1ca04714",
+        "id": "202503022258380ee672bf1ca04714",
+        "usage": {
+            "prompt_tokens": 2289,
+            "completion_tokens": 53,
+            "total_tokens": 2342
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927531,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 恩里克的战术体系在巴黎圣日耳曼的实践中，如何具体体现了巅峰时期巴塞罗那的足球哲学，尤其是在进攻端的组织与配合上？\n2. 在巴黎圣日耳曼开局37分钟内轰入四球的比赛中，哪些关键球员的表现最为突出，他们是如何在恩里克的战术框架下实现高效进攻的？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222584772e4215e54ac4a31",
+        "id": "2025030222584772e4215e54ac4a31",
+        "usage": {
+            "prompt_tokens": 3141,
+            "completion_tokens": 79,
+            "total_tokens": 3220
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927542,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 周琦在广东男篮期间，胡明轩、张皓嘉和黄荣奇的表现如何影响了球迷对他们的评价？\n2. 周琦提到的这三位球员在广东男篮战术体系中的角色和作用有何不同，导致了他们在球迷中的口碑差异？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222585950e83c5ec07e47e6",
+        "id": "2025030222585950e83c5ec07e47e6",
+        "usage": {
+            "prompt_tokens": 2279,
+            "completion_tokens": 61,
+            "total_tokens": 2340
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927552,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在斯诺克世界公开赛决赛中，奥康纳是如何通过高质量的斯诺克迫使希金斯连续解球失败，最终导致希金斯被罚12分的？\n2. 奥康纳在决赛第四局中展现的顶级斯诺克技巧具体包括哪些方面，这些技巧是如何帮助他在不利局面下险些实现翻盘的？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225909bf081c65ebdd40d8",
+        "id": "20250302225909bf081c65ebdd40d8",
+        "usage": {
+            "prompt_tokens": 2891,
+            "completion_tokens": 78,
+            "total_tokens": 2969
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927562,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 詹姆斯在40岁高龄依然保持MVP级别表现的关键因素是什么？他的训练和保养方法有哪些特别之处？\n2. 考辛斯对詹姆斯进入联盟一阵的赞叹背后，反映了NBA球员和球迷对詹姆斯职业生涯晚期表现的普遍看法吗？这种看法对詹姆斯的历史地位评价有何影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225919745e91ccaf4e4b77",
+        "id": "20250302225919745e91ccaf4e4b77",
+        "usage": {
+            "prompt_tokens": 2336,
+            "completion_tokens": 71,
+            "total_tokens": 2407
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927572,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在曼城3-1普利茅斯晋级足总杯8强的比赛中，德布劳内传射建功，请问德布劳内在本场比赛中的传球成功率是多少？他的关键传球次数和创造机会的数据表现如何？\n\n2. 奥赖利在本场比赛中梅开二度，成为曼城晋级的关键人物，请问这是奥赖利本赛季的第几次梅开二度？他在此前的比赛中进攻效率如何，这次爆发是否与其近期状态提升或战术调整有关？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225928bf63d91b5b4b45e1",
+        "id": "20250302225928bf63d91b5b4b45e1",
+        "usage": {
+            "prompt_tokens": 103,
+            "completion_tokens": 105,
+            "total_tokens": 208
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927584,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在皇马比赛中，哪两位球员的表现被广泛批评为“罪人”，他们各自在比赛中的具体表现如何导致了球迷和媒体的不满？\n\n2. 针对被指责的2亿巨星全场抱怨和德国中卫“抽风”的行为，俱乐部和教练团队可能采取哪些措施来改善球员的心态和表现，以避免类似情况在未来的比赛中再次发生？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302225941aea2db9433324466",
+        "id": "20250302225941aea2db9433324466",
+        "usage": {
+            "prompt_tokens": 98,
+            "completion_tokens": 84,
+            "total_tokens": 182
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927597,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在2025年WWE铁笼密室淘汰赛中，哪位选手因拒绝执行“终极大佬”罗曼雷恩斯的命令而引发了赛场内外的激烈争议，这一事件对The Bloodline组合的内部关系产生了怎样的深远影响？\n\n2. 针对腾讯新闻报道中提到的“拒绝终极大佬的后果”，详细探讨杰伊乌索在铁笼密室淘汰赛中的行为选择及其后果，这一事件是否预示着WWE剧情中新的势力重组或个人角色的重大转变？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022259523b99091decab4cac",
+        "id": "202503022259523b99091decab4cac",
+        "usage": {
+            "prompt_tokens": 1576,
+            "completion_tokens": 112,
+            "total_tokens": 1688
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927607,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **伊万科维奇在国足新名单中弃用李源一、徐新、于汉超、巴顿等实力悍将的具体原因是什么？是否有战术层面的考量或其他因素影响？**\n\n2. **国足新名单引发的争议背后，反映了哪些更深层次的足球管理和发展问题？这对国足未来的备战和比赛会有怎样的影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022300032f0e4c5618fd43b4",
+        "id": "202503022300032f0e4c5618fd43b4",
+        "usage": {
+            "prompt_tokens": 2312,
+            "completion_tokens": 75,
+            "total_tokens": 2387
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927618,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **东契奇和詹姆斯的球风差异如何在实际比赛中互补，从而提升湖人队的整体攻防效率？**\n2. **在东契奇加盟湖人后，詹姆斯的职业生涯数据和表现有哪些显著变化，这些变化反映了两人合作的哪些积极影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230015242dbf4df80e4f4e",
+        "id": "20250302230015242dbf4df80e4f4e",
+        "usage": {
+            "prompt_tokens": 3365,
+            "completion_tokens": 59,
+            "total_tokens": 3424
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927629,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 奥沙利文在威尔士公开赛上故意打出146分而非147分的背后动机是什么？这一行为对斯诺克运动的奖金体系和球员行为规范产生了哪些影响？\n\n2. 在体育竞技中，类似奥沙利文故意放弃满分147的“任性”行为是否有过先例？这种特立独行的做法对观众体验和赛事公平性带来了哪些正面或负面的效应？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223002524add715e8ef42fb",
+        "id": "2025030223002524add715e8ef42fb",
+        "usage": {
+            "prompt_tokens": 1482,
+            "completion_tokens": 89,
+            "total_tokens": 1571
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927642,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在CBA最新排名中，辽宁男篮从第六位跌至第八位，这一变化主要受到了哪些近期比赛结果的影响？辽宁男篮在接下来的比赛中需要采取哪些策略才能重返前四？\n\n2. 北京男篮在冲击四强的过程中展现了哪些关键因素和表现？目前CBA联赛中12强的竞争格局如何，哪些球队的表现超出了赛季初的预期，哪些球队则面临挑战？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230038e39457ed711f4aa1",
+        "id": "20250302230038e39457ed711f4aa1",
+        "usage": {
+            "prompt_tokens": 2959,
+            "completion_tokens": 86,
+            "total_tokens": 3045
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927654,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 格兰姆斯在对阵快船的比赛中24投44分的表现，是否意味着76人队在选秀中“捡到宝了”，这一表现对于球队未来战术体系和球员培养有何长远影响？\n\n2. 库里在比赛中面对乔治的出色表现表现出无奈，而乔治则为格兰姆斯的爆发欢呼，这两位球星的不同反应反映了怎样的比赛心态和团队策略差异？这对双方球队接下来的比赛策略和士气会产生哪些具体影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230050c09ca3d0a2cf4bd8",
+        "id": "20250302230050c09ca3d0a2cf4bd8",
+        "usage": {
+            "prompt_tokens": 93,
+            "completion_tokens": 96,
+            "total_tokens": 189
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927665,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 赵继伟在2025 CBA全明星技巧大赛预赛中表现如何，导致他最终被淘汰的具体原因是什么？\n2. 徐杰在此次技巧大赛中的表现有何亮点，他是如何再次抢走“鞍山保罗”赵继伟的风头的？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223010233f5debac9eb4b13",
+        "id": "2025030223010233f5debac9eb4b13",
+        "usage": {
+            "prompt_tokens": 2389,
+            "completion_tokens": 61,
+            "total_tokens": 2450
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927675,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在即将到来的CCTV5直播的巴萨对阵皇家社会的比赛中，考虑到皇家社会需要分心准备欧联战曼联的情况，巴萨在这场比赛中有哪些关键战术和球员表现可能会成为取胜并登顶联赛的关键因素？\n\n2. 鉴于皇家社会在欧联战曼联的重要赛事中可能出现的体能和战术分配问题，巴萨如何利用这一机会在直播比赛中展现其进攻和防守优势，以确保能够顺利取得胜利并实现对联赛榜首的冲击？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230111e273dac7279c4267",
+        "id": "20250302230111e273dac7279c4267",
+        "usage": {
+            "prompt_tokens": 1537,
+            "completion_tokens": 101,
+            "total_tokens": 1638
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927685,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在詹姆斯带领下，湖人队在2月份取得10胜2负的战绩，哪些关键因素促成了这一显著提升，尤其是在球队交易和阵容调整后的化学反应方面？\n\n2. 美媒评价“东皇版湖人”为“太危险”的依据是什么？东契奇的加入如何改变了湖人的战术体系和竞争力，具体体现在哪些数据和比赛表现上？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230121be6fd920e8b44f0d",
+        "id": "20250302230121be6fd920e8b44f0d",
+        "usage": {
+            "prompt_tokens": 2848,
+            "completion_tokens": 81,
+            "total_tokens": 2929
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740927694,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在塞尔比与奥沙利文的比赛中，塞尔比罕见的重拳出击具体表现在哪些方面，这与他在以往比赛中的风格有何不同？\n2. 奥沙利文在比赛中展现出哪些“秀”的操作，导致塞尔比最终选择扔毛巾，这些操作对比赛结果产生了怎样的影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302230131f3d0e98658ad4b48",
+        "id": "20250302230131f3d0e98658ad4b48",
+        "usage": {
+            "prompt_tokens": 616,
+            "completion_tokens": 68,
+            "total_tokens": 684
+        }
+    }
+]

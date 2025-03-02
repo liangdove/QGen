@@ -1,0 +1,1102 @@
+[
+    {
+        "model": "glm-4-plus",
+        "created": 1740929533,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在于洋去世后，冯远征通过社交媒体发表的悼念文中，提及了哪些关于于洋生前的重要成就和对其个人品质的评价？\n2. 针对于洋家庭接连遭受的丧子及丧妻之痛，社交媒体上有哪些代表性的悼念和评论，反映了公众对于这位老艺术家及其家庭的何种情感态度？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223320923ebca743b71498f",
+        "id": "2025030223320923ebca743b71498f",
+        "usage": {
+            "prompt_tokens": 2309,
+            "completion_tokens": 75,
+            "total_tokens": 2384
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929543,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 毛不易在演唱会上采用PPT点歌形式的创意源自何处，这种互动方式对演唱会氛围和粉丝体验带来了哪些具体影响？\n\n2. 粉丝对毛不易演唱会PPT点歌的反应“班味好重，乙方再改改”反映了怎样的观众心理和娱乐消费趋势，这一现象对今后演唱会互动设计的创新有何启示？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223322172ff6b6053044f43",
+        "id": "2025030223322172ff6b6053044f43",
+        "usage": {
+            "prompt_tokens": 97,
+            "completion_tokens": 79,
+            "total_tokens": 176
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929555,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在台媒报道中，汪小菲最终决定不带孩子回北京的具体原因是什么？这一决定是否与遗产分配的结果有直接关联？\n\n2. 根据最新曝光的细节，大S遗产分配的具体方案是怎样的？双方在遗产分配过程中是否还存在未解决的争议或潜在问题？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233232a405be2f6ef347c1",
+        "id": "20250302233232a405be2f6ef347c1",
+        "usage": {
+            "prompt_tokens": 1850,
+            "completion_tokens": 66,
+            "total_tokens": 1916
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929565,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 许雅钧在大S后事处理中扮演了怎样的角色，其表现如何体现了其来自精英世家的背景和智慧？\n2. 在大S离世后，许雅钧如何平衡徐家内部的复杂关系以及与汪小菲之间的潜在矛盾，以确保后事处理顺利进行？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233241b93777bc2a4b44e5",
+        "id": "20250302233241b93777bc2a4b44e5",
+        "usage": {
+            "prompt_tokens": 3033,
+            "completion_tokens": 64,
+            "total_tokens": 3097
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929575,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **倪萍在讨论赵本山是否上春晚的过程中，透露了哪些关于赵本山的幕后故事或个人看法？**\n   \n2. **腾讯新闻上关于倪萍“吃瓜”赵本山春晚去留的讨论，引发了网友哪些不同的观点和反响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022332516d14c1c0f8434cda",
+        "id": "202503022332516d14c1c0f8434cda",
+        "usage": {
+            "prompt_tokens": 1321,
+            "completion_tokens": 63,
+            "total_tokens": 1384
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929583,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 方大同在为其他歌手创作歌曲时，是如何巧妙融合个人音乐风格与对方特色的？请举例说明。\n2. 方大同给别人写的歌中，哪些作品在华语乐坛产生了深远影响，并获得了广泛认可？请详细列举并分析原因。",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223330064c1194f58f647da",
+        "id": "2025030223330064c1194f58f647da",
+        "usage": {
+            "prompt_tokens": 3181,
+            "completion_tokens": 59,
+            "total_tokens": 3240
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929594,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 王宁和金龟子在外孙周岁宴上的互动有哪些温馨瞬间，反映了他们怎样的家庭氛围？\n2. 娃娃怀抱儿子亮相周岁宴，她和公婆之间的相处模式是怎样的，这对年轻夫妇在教育孩子方面有哪些特别的理念或做法？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233311d578f575de9c4eae",
+        "id": "20250302233311d578f575de9c4eae",
+        "usage": {
+            "prompt_tokens": 2250,
+            "completion_tokens": 60,
+            "total_tokens": 2310
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929607,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在“罗大美”遇害案中，凶手余某某当庭翻供的具体内容和动机是什么？这一行为对案件审理和判决可能产生哪些影响？\n\n2. 从“罗大美”案的发案过程和细节来看，熟人作案的特点和社会影响有哪些？此案对公众在防范熟人犯罪方面有哪些警示作用？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022333243c5910ede0b94ef6",
+        "id": "202503022333243c5910ede0b94ef6",
+        "usage": {
+            "prompt_tokens": 1993,
+            "completion_tokens": 75,
+            "total_tokens": 2068
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929617,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在北京这场星光熠熠的电影家协会盛会上，成龙被“挤到靠边站”的现象反映了娱乐圈怎样的权力结构和人情冷暖？这与他在国际影坛的地位有何对比？\n\n2. 成龙在此次活动中被边缘化的背后，是否暗示了他在内地娱乐圈影响力的变化？这种变化可能受到哪些近期事件或行业动态的影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022333349efaa2149adc4e33",
+        "id": "202503022333349efaa2149adc4e33",
+        "usage": {
+            "prompt_tokens": 3035,
+            "completion_tokens": 75,
+            "total_tokens": 3110
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929629,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 王祖贤开设艾灸馆的背后动机是什么？她如何平衡个人生活与事业转型的关系？\n2. 王祖贤艾灸馆的高价位收费是否与其明星效应有关？这对当地华人社区和艾灸养生行业有何影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233347ad612ce80c184496",
+        "id": "20250302233347ad612ce80c184496",
+        "usage": {
+            "prompt_tokens": 1914,
+            "completion_tokens": 58,
+            "total_tokens": 1972
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929638,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在《六姊妹》剧中，哪两位女演员的颜值被观众普遍认为“实至名归”地排在前列，她们的哪些特质或表现赢得了观众的认可？\n2. 被指出在颜值排名中垫底的35岁女演员是谁，观众对其颜值评价较低的原因是什么，她的演技和其他方面的表现是否得到了观众的肯定？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233355c380cb6c23ec47a6",
+        "id": "20250302233355c380cb6c23ec47a6",
+        "usage": {
+            "prompt_tokens": 551,
+            "completion_tokens": 74,
+            "total_tokens": 625
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929650,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **姚笛近年来演艺事业和私生活变化的原因是什么？这些变化对她个人形象和事业发展有何长远影响？**\n\n2. **从姚笛近期被偶遇的穿着和饮食选择，如何分析她当前的生活状态和经济状况？这与她过去的明星身份形成了怎样的对比？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233407c688d33702eb435a",
+        "id": "20250302233407c688d33702eb435a",
+        "usage": {
+            "prompt_tokens": 2389,
+            "completion_tokens": 63,
+            "total_tokens": 2452
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929663,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **年后被抓的5位明星分别涉及哪些违法行为，这些行为对他们的职业生涯和社会形象造成了怎样的影响？**\n\n2. **从这些明星被抓的事件中，可以看出娱乐圈存在哪些普遍问题，社会各界应如何采取措施预防类似事件的发生？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233420bb890f11a33c4931",
+        "id": "20250302233420bb890f11a33c4931",
+        "usage": {
+            "prompt_tokens": 3181,
+            "completion_tokens": 55,
+            "total_tokens": 3236
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929674,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 陈赫与徐志胜在节目中的互动引发了哪些网友热议的瞬间，这些互动反映了怎样的喜剧效果和观众喜好？\n\n2. 从陈赫嫌弃徐志胜表情的真实性出发，探讨娱乐节目中“真实反应”与“剧本安排”的界限，以及这种界限模糊对观众体验和节目口碑的影响是什么？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223343126eca142a5944203",
+        "id": "2025030223343126eca142a5944203",
+        "usage": {
+            "prompt_tokens": 97,
+            "completion_tokens": 73,
+            "total_tokens": 170
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929684,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在娱乐圈中，拥有“娇滴滴”名字的彪形硬汉男星们，这种名字与形象的巨大反差是否对他们的演艺事业产生了特殊的影响？具体体现在哪些方面？\n\n2. 针对这类名字与形象反差极大的男星，观众和业内人士是如何看待这种“名不符实”的现象的？这种现象是否在一定程度上成为了他们独特的个人标签，助力他们在娱乐圈中脱颖而出？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223344110789ed3f6b9467f",
+        "id": "2025030223344110789ed3f6b9467f",
+        "usage": {
+            "prompt_tokens": 1548,
+            "completion_tokens": 89,
+            "total_tokens": 1637
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929694,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在汪小菲和S妈的最新发声中，哪些具体行为或言论被解读为对具俊晔“体面”的挑战，这些行为或言论背后的动机可能是什么？\n\n2. 从法律和道德层面分析，汪小菲和S妈的发声对具俊晔在遗产分配和抚养权争夺中的立场产生了哪些影响，具俊晔如何应对才能维护自己的权益和形象？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233450f0bdf6b3691c4bd5",
+        "id": "20250302233450f0bdf6b3691c4bd5",
+        "usage": {
+            "prompt_tokens": 2846,
+            "completion_tokens": 92,
+            "total_tokens": 2938
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929706,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 赵喜娜在第96届奥斯卡颁奖礼上的全裸颁奖行为引发了怎样的社会反响和讨论？这一行为对奥斯卡颁奖典礼的收视率有何影响？\n\n2. 成龙在1996年第68届奥斯卡颁奖礼上与贾巴尔的互动被解读为“戏耍”，这一事件背后的文化差异和误解是如何产生的？它对成龙在好莱坞的形象和发展有何长远影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233503ee98002691b54a75",
+        "id": "20250302233503ee98002691b54a75",
+        "usage": {
+            "prompt_tokens": 2467,
+            "completion_tokens": 84,
+            "total_tokens": 2551
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929717,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在《六姊妹》中，导演通过哪些隐藏的细节和伏笔深化了剧中人物的性格和命运走向？\n2. 观众在二刷《六姊妹》时，发现了哪些之前未曾注意到的关键情节，这些情节对理解整部剧的主题有何重要影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022335140dc926101c6c40df",
+        "id": "202503022335140dc926101c6c40df",
+        "usage": {
+            "prompt_tokens": 3397,
+            "completion_tokens": 64,
+            "total_tokens": 3461
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929729,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 方大同长期受气胸折磨的具体原因是什么？他的素食生活方式是否对病情有直接影响？\n\n2. 方大同去年复出时身体状况如何？他当时的治疗措施和日常生活调整有哪些？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223352703353630dd2549c8",
+        "id": "2025030223352703353630dd2549c8",
+        "usage": {
+            "prompt_tokens": 1559,
+            "completion_tokens": 43,
+            "total_tokens": 1602
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929741,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在此次“大追捕”事件中，贪官坚持认为自身清白的具体理由是什么，审查员采取了哪些“霸气”的措施来应对这种拒不认罪的态度？\n\n2. 该贪官案件背后揭示了哪些深层次的社会与制度问题，以及审查员的这种处理方式对于未来反贪腐工作有哪些潜在的积极影响或可能引发的争议？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233538fdd20c658f4946a7",
+        "id": "20250302233538fdd20c658f4946a7",
+        "usage": {
+            "prompt_tokens": 94,
+            "completion_tokens": 78,
+            "total_tokens": 172
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929751,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在央视8套新剧仅播出2集便夺得全国收视率第一的背景下，43岁女主角凭借哪些独特魅力和演技特点，有望再次引发全国范围内的关注和热议？\n\n2. 鉴于该剧迅速攀升的收视率和观众反响，女主角在剧中塑造的角色形象以及与她过往作品的角色有何异同，这种角色塑造对其演艺事业的新突破具有怎样的意义？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233547bf417f32f2a34442",
+        "id": "20250302233547bf417f32f2a34442",
+        "usage": {
+            "prompt_tokens": 2569,
+            "completion_tokens": 83,
+            "total_tokens": 2652
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929764,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在新加坡举办的阅文IP盛典中，殷桃和李沁的变化引发了观众的热议，请问这两位演员在此次活动中的造型和状态有何特别之处，以至于引起了如此大的关注？\n\n2. 朱珠在阅文IP盛典上的“全裹”出镜造型惊艳众人，请问这种造型设计背后有何考量，以及它在时尚界和娱乐圈中产生了怎样的影响和讨论？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233601c10e744465284abe",
+        "id": "20250302233601c10e744465284abe",
+        "usage": {
+            "prompt_tokens": 387,
+            "completion_tokens": 84,
+            "total_tokens": 471
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929775,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 《哪吒》系列电影在票房上的成功对中国动画电影产业的长远发展有哪些启示和影响？\n2. 相比《阿凡达》，《哪吒》系列在技术创新、全球市场接受度及文化输出方面存在哪些差距，中国电影如何缩小这些差距以提升国际竞争力？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022336126be9296575344f4f",
+        "id": "202503022336126be9296575344f4f",
+        "usage": {
+            "prompt_tokens": 2421,
+            "completion_tokens": 65,
+            "total_tokens": 2486
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929788,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 香港知名男星宣布兼职开网约车的决定背后，反映了哪些娱乐圈艺人普遍面临的经济压力和生活挑战？\n2. 该男星从演艺事业转向网约车司机的职业转变，对于公众如何看待明星职业选择和社会身份认同有何启示？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223362565829882d2a14afa",
+        "id": "2025030223362565829882d2a14afa",
+        "usage": {
+            "prompt_tokens": 2588,
+            "completion_tokens": 58,
+            "total_tokens": 2646
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929798,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **葛淑珍在离婚后经历了哪些具体挑战和转折，最终是如何实现从普通农妇到百万富婆的转变的？**\n\n2. **赵本山与葛淑珍的婚姻破裂背后有哪些深层次原因，这段婚姻的结束对双方后来的生活和事业发展产生了怎样的影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223363548e5aa5a665c4f06",
+        "id": "2025030223363548e5aa5a665c4f06",
+        "usage": {
+            "prompt_tokens": 3191,
+            "completion_tokens": 66,
+            "total_tokens": 3257
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929811,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 梅婷在家庭生活中如何平衡传统价值观与现代生活方式，特别是在与双方父母同住的情况下，她是如何处理家庭关系的？\n\n2. 在梅婷的家庭中，婆婆扮演主导角色对家庭氛围和决策过程产生了哪些具体影响，梅婷本人对此有何看法和适应策略？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233646d0915b11d09844e5",
+        "id": "20250302233646d0915b11d09844e5",
+        "usage": {
+            "prompt_tokens": 2019,
+            "completion_tokens": 63,
+            "total_tokens": 2082
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929821,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在大S去世后，汪小菲和女儿小玥儿的互动如何体现出家庭关系的调整与变化，这种变化对小玥儿的心理恢复有何影响？\n2. 汪小菲和新伴侣如何平衡对大S的怀念与当前家庭生活的融合，这种平衡对小玥儿及家庭成员的情感连接有何积极意义？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223365850dedab915804eab",
+        "id": "2025030223365850dedab915804eab",
+        "usage": {
+            "prompt_tokens": 2870,
+            "completion_tokens": 72,
+            "total_tokens": 2942
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929833,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **谢贤公开承认张柏芝第三胎为谢家孙子的背后动机是什么？这一举动对谢霆锋与张柏芝的关系有何潜在影响？**\n\n2. **张柏芝第三胎儿子名字改为“谢振天”是否意味着谢家对这一孩子的正式接纳？这一事件对娱乐圈中家庭关系和公众舆论有何深层次启示？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022337099ee1ad57c000482b",
+        "id": "202503022337099ee1ad57c000482b",
+        "usage": {
+            "prompt_tokens": 3336,
+            "completion_tokens": 80,
+            "total_tokens": 3416
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929844,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 夏奇拉的歌曲《SHAKIRA!》在Spotify上打破了哪些具体的吉尼斯世界纪录，并且这首歌的创作背景与她和皮克分手的具体细节有何关联？\n\n2. 张碧晨在公开场合或通过社交媒体如何表达对前任的情感态度，与夏奇拉写歌diss前夫的行为相比，公众对这两种处理前任关系的方式有何不同的反响和评价？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233721ff9d06b0f3b441a6",
+        "id": "20250302233721ff9d06b0f3b441a6",
+        "usage": {
+            "prompt_tokens": 644,
+            "completion_tokens": 84,
+            "total_tokens": 728
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929854,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在腾讯新闻的报道中，胡杏儿和马伊琍的自律表现主要体现在哪些方面，这些自律行为对她们演艺事业的影响如何？\n2. 胡杏儿与马伊琍在公众形象和职业态度上的自律，对当下娱乐圈年轻演员有哪些启示和影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022337329eae00736a154346",
+        "id": "202503022337329eae00736a154346",
+        "usage": {
+            "prompt_tokens": 645,
+            "completion_tokens": 67,
+            "total_tokens": 712
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929863,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在面对小S直言不讳的评价时，金靖是如何巧妙地运用幽默和自嘲来化解尴尬，并赢得了观众的赞赏？\n2. 金靖的高情商回应不仅避免了冲突，还提升了她的公众形象，这种处理方式对其他公众人物在面对类似负面评价时有哪些启示？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022337402e0ae6975ae24749",
+        "id": "202503022337402e0ae6975ae24749",
+        "usage": {
+            "prompt_tokens": 3124,
+            "completion_tokens": 65,
+            "total_tokens": 3189
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929874,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **长期素食是否真的会增加健康风险？请结合刘晓庆提到的多位素食朋友去世的案例，探讨素食饮食对身体健康的具体影响及其潜在风险。**\n\n2. **在方大同和大S等公众人物因素食引发健康问题的背景下，素食者应如何科学规划饮食以避免营养不均衡和骨质流失等问题？请提供具体的饮食建议和健康管理措施。**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223375025a53f6857144299",
+        "id": "2025030223375025a53f6857144299",
+        "usage": {
+            "prompt_tokens": 1706,
+            "completion_tokens": 83,
+            "total_tokens": 1789
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929883,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 黄百鸣在宣传《哪吒2》期间被指控内幕交易，这一事件对他的电影事业和公众形象产生了哪些具体影响？\n2. 在黄百鸣被刑事检控的背景下，探讨《哪吒2》的市场表现和观众反响是否受到了负面新闻的波及，具体数据如何体现？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233800637092ccce5447d3",
+        "id": "20250302233800637092ccce5447d3",
+        "usage": {
+            "prompt_tokens": 2126,
+            "completion_tokens": 71,
+            "total_tokens": 2197
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929893,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 《六姊妹》大结局中，老四何家欢的自私性格是如何通过其儿子考试成绩这一情节被揭示出来的？这种揭示对观众理解何家欢角色有何影响？\n\n2. 在《六姊妹》剧中，老四何家欢和老六何家喜的自私行为有何异同？观众对两人自私行为的反应有何差异，这种差异反映了观众怎样的价值观和期待？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022338091e4229ce5c4441b4",
+        "id": "202503022338091e4229ce5c4441b4",
+        "usage": {
+            "prompt_tokens": 3816,
+            "completion_tokens": 87,
+            "total_tokens": 3903
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929902,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在公众舆论中，离婚后女性被追着骂的现象反映了哪些深层次的社会观念和性别偏见？\n2. 面对离婚后被追着骂的情况，女性应该如何应对和维护自己的权益，社会又应如何改变这种不公正现象？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223381996784d624fe748dd",
+        "id": "2025030223381996784d624fe748dd",
+        "usage": {
+            "prompt_tokens": 2898,
+            "completion_tokens": 57,
+            "total_tokens": 2955
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929915,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 甜馨近期频繁登上热搜的原因是什么？这与她父母的公众形象和活动有何关联？\n2. 网友对甜馨近期热搜事件的反应如何？这些反应反映了怎样的社会现象和公众心态？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022338326025db73f4124119",
+        "id": "202503022338326025db73f4124119",
+        "usage": {
+            "prompt_tokens": 3271,
+            "completion_tokens": 49,
+            "total_tokens": 3320
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929926,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在“鸡毛”事件中，农村养女如何利用自身优势成功救场，这一行为对打破传统职场偏见有何启示？\n2. 女老总在翻译缺席的紧急情况下表现出极度焦虑，这反映了企业管理中哪些潜在的沟通与应急机制漏洞，应如何改进以避免类似情况再次发生？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233844f3d5a4e42c01462d",
+        "id": "20250302233844f3d5a4e42c01462d",
+        "usage": {
+            "prompt_tokens": 99,
+            "completion_tokens": 72,
+            "total_tokens": 171
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929938,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 耿为华在演唱《黄河壶口》时，采用了哪些独特的演唱技巧或情感表达方式，使得观众感受到“直冲天灵盖”的震撼效果？\n\n2. 《黄河壶口》这首歌曲在音乐风格和歌词内容上有哪些特点，使其在耿为华的演绎下能够引发如此强烈的观众共鸣和讨论？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223385557a2ad8fd9b34438",
+        "id": "2025030223385557a2ad8fd9b34438",
+        "usage": {
+            "prompt_tokens": 1416,
+            "completion_tokens": 78,
+            "total_tokens": 1494
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929949,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 闫妮在53岁时如何保持青春活力的形象，与沙溢同框时呈现出“像妹妹”的反差效果，这种状态背后的保养秘诀和心理状态是怎样的？\n\n2. 在娱乐圈中，闫妮与沙溢的形象反差引发了广泛讨论，这种现象反映了观众对明星年龄和形象的哪些期待与认知，又对公众的审美观念产生了怎样的影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022339065ebebe91c68640a9",
+        "id": "202503022339065ebebe91c68640a9",
+        "usage": {
+            "prompt_tokens": 1540,
+            "completion_tokens": 81,
+            "total_tokens": 1621
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929961,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在《六姊妹》大结局中，阿奶的哪句话成为了何家丽悲惨下场的导火索，这句话背后反映了怎样的家庭权力结构和亲情的复杂性？\n\n2. 从何家丽在《六姊妹》中的角色转变和结局来看，她的悲剧是否可以归因于单一因素，还是多种因素交织的结果？请结合剧中其他关键人物如刘美心和何家喜的行为动机进行分析。",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223391667a5c6a5bc9c4d25",
+        "id": "2025030223391667a5c6a5bc9c4d25",
+        "usage": {
+            "prompt_tokens": 3641,
+            "completion_tokens": 91,
+            "total_tokens": 3732
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929972,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 汪小菲在回应S妈深夜喊话时，具体表达了哪些高情商的言论，这些言论如何体现了他在争产风波中的态度和立场？\n2. 针对S妈指责汪小菲为“骗子”的事件，网友和媒体是如何解读和评价汪小菲的回应，这对双方争产风波的后续发展可能产生哪些影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233928d22a46e4ae9d407c",
+        "id": "20250302233928d22a46e4ae9d407c",
+        "usage": {
+            "prompt_tokens": 2659,
+            "completion_tokens": 83,
+            "total_tokens": 2742
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929981,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在今年已有13位演艺界名人离世的情况下，这种集中的悼念活动对于整个娱乐圈的凝聚力和文化传承产生了哪些具体影响？\n\n2. 邓紫棋和单依纯在悼念方大同时的情感表现，反映了当下年轻一代艺人对于前辈的何种态度和情感纽带，这种情感表达对粉丝群体和公众有何种示范效应？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022339384d0ec272b60a443f",
+        "id": "202503022339384d0ec272b60a443f",
+        "usage": {
+            "prompt_tokens": 102,
+            "completion_tokens": 80,
+            "total_tokens": 182
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740929990,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 钟丽缇的两个女儿在公众视野中的成长历程是怎样的？她们的颜值和气质是如何受到网友和媒体关注的？\n\n2. 钟丽缇及其女儿们在娱乐圈中的影响力和未来发展潜力如何？她们的高颜值和良好形象对星二代形象的塑造有何积极意义？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022339479a75cfc5c73e453c",
+        "id": "202503022339479a75cfc5c73e453c",
+        "usage": {
+            "prompt_tokens": 2762,
+            "completion_tokens": 65,
+            "total_tokens": 2827
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740930000,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 《哪吒2》在上映九天后从第8名升至第7名，其票房增长速度是否达到预期？这一排名变化反映了哪些市场接受度和观众反馈的具体数据？\n\n2. 鉴于《哪吒2》目前的市场表现及竞争态势，分析其未能进入前五名的主要原因是什么？未来采取哪些宣传或营销策略可能有助于提升其票房排名？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302233957292e43e6ef394922",
+        "id": "20250302233957292e43e6ef394922",
+        "usage": {
+            "prompt_tokens": 94,
+            "completion_tokens": 84,
+            "total_tokens": 178
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740930010,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **蔡明因常年不吃早饭导致胆摘除的事件引发了公众对健康饮食的哪些反思？**\n2. **在综艺节目《一路繁花》中，牛在在带领一群老太玩密室逃脱的情节如何展现了老年人的活力与智慧？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302234007dfc251f4ee194d9b",
+        "id": "20250302234007dfc251f4ee194d9b",
+        "usage": {
+            "prompt_tokens": 1073,
+            "completion_tokens": 59,
+            "total_tokens": 1132
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740930019,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 金婷婷翻唱《天路》在音乐技巧和情感表达上与韩红的原唱有何异同，她的高音表现具体有哪些亮点？\n2. 金婷婷翻唱《天路》后引起的网络反响如何，网友们对其高音表现的评论主要集中在哪些方面，这对她未来的音乐事业发展可能产生哪些影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022340153ac794b0283e4059",
+        "id": "202503022340153ac794b0283e4059",
+        "usage": {
+            "prompt_tokens": 3351,
+            "completion_tokens": 73,
+            "total_tokens": 3424
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740930030,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 台媒报道中提到具俊晔与大S儿女平分遗产的具体细节和依据是什么？这一报道是否得到了具俊晔或大S家族的官方确认？\n\n2. 在具俊晔先前宣布放弃大S遗产的情况下，台媒关于平分遗产的新报道是否引发了公众对具俊晔诚信和动机的质疑？这一争议对具俊晔和大S家族的形象有何影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022340262b07f37a56454894",
+        "id": "202503022340262b07f37a56454894",
+        "usage": {
+            "prompt_tokens": 1791,
+            "completion_tokens": 92,
+            "total_tokens": 1883
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740930041,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在综艺节目《花儿与少年》第六季中，周雨彤因哪些具体行为被观众指责为“情商低”和“人品差”，这些行为对她公众形象的影响如何？\n\n2. 综艺节目中明星“甩脸子”现象频发，如周雨彤、吴倩等，这类行为背后可能隐藏着哪些深层次原因，以及节目制作方和明星本人应采取哪些措施来避免类似情况的发生？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302234036888af7b057074c9a",
+        "id": "20250302234036888af7b057074c9a",
+        "usage": {
+            "prompt_tokens": 3492,
+            "completion_tokens": 96,
+            "total_tokens": 3588
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740930054,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在《六姊妹》剧中，老五刘小玲与老六何家喜之间的矛盾根源是什么？这一冲突在剧中是如何逐步升级并最终导致“手撕”场面的？\n2. 观众对于《六姊妹》中老五刘小玲“手撕”老六何家喜的情节反响如何？这一情节安排对整部剧的剧情发展和人物塑造产生了怎样的影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302234050f048835a4be84cf9",
+        "id": "20250302234050f048835a4be84cf9",
+        "usage": {
+            "prompt_tokens": 3597,
+            "completion_tokens": 90,
+            "total_tokens": 3687
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740930064,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在电视剧《我的前半生》中，凌玲运用了哪些具体的心理战术和沟通技巧来影响陈俊生的决策，从而实现自己的目的？\n2. 从社会心理学角度分析，凌玲的行为模式揭示了哪些关于职场和婚姻中的性别角色认知与权力动态的深层问题？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302234101faf09f63fc4941a3",
+        "id": "20250302234101faf09f63fc4941a3",
+        "usage": {
+            "prompt_tokens": 3134,
+            "completion_tokens": 66,
+            "total_tokens": 3200
+        }
+    }
+]

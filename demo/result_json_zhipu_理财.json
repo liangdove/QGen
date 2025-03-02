@@ -1,0 +1,1102 @@
+[
+    {
+        "model": "glm-4-plus",
+        "created": 1740926036,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **金价近期暴跌的主要原因是什么，是否与全球宏观经济环境或特定金融政策调整有关？**\n   \n2. **在金价大幅波动的情况下，个人投资者应如何调整黄金投资策略以规避风险，特别是对于已经大量囤积黄金的投资者，有哪些可行的解套措施？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222335359e435574fe847de",
+        "id": "2025030222335359e435574fe847de",
+        "usage": {
+            "prompt_tokens": 95,
+            "completion_tokens": 63,
+            "total_tokens": 158
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926046,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 根据近期房地产市场数据和专家分析，当前房价是否已经触达阶段性低点，并且这一趋势背后的主要经济和政策因素是什么？\n\n2. 在当前房价水平下，对于潜在购房者而言，有哪些关键因素需要考虑以判断是否为入市良机，同时这一价格走势对租房市场和宏观经济将产生怎样的连锁影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222340399e0dade33ea47f0",
+        "id": "2025030222340399e0dade33ea47f0",
+        "usage": {
+            "prompt_tokens": 83,
+            "completion_tokens": 73,
+            "total_tokens": 156
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926058,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在2024年券商业绩整体回暖的背景下，中信证券和中国银河净利润重回巅峰的具体原因是什么？这与市场交投活跃度的提升有何关联？\n\n2. 2024年35家券商中仅有4家净利润下滑，这一现象反映了券业哪些结构性变化？对于未来券商行业的竞争格局和业务发展方向有何启示？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223414814a6d6fb7f644ca",
+        "id": "20250302223414814a6d6fb7f644ca",
+        "usage": {
+            "prompt_tokens": 3487,
+            "completion_tokens": 74,
+            "total_tokens": 3561
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926068,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **香港楼市近期出台的具体利好政策有哪些，这些政策对香港房地产市场的影响如何体现在数据和趋势上？**\n\n2. **在当前全球经济环境下，香港楼市的新政与其他一线城市的楼市政策有何异同，这些政策对跨境投资者的吸引力有何变化？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223425202b76782bc3416b",
+        "id": "20250302223425202b76782bc3416b",
+        "usage": {
+            "prompt_tokens": 2915,
+            "completion_tokens": 58,
+            "total_tokens": 2973
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926080,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **王健林在2016年推动万达商业私有化并退市的决策中，主要考虑了哪些因素？这一决策对万达集团后续发展产生了哪些深远影响？**\n\n2. **在万达集团面临巨额债务和股权冻结的危机中，王健林采取了哪些具体的资产出售和重组措施？这些措施对万达电影的未来发展带来了哪些机遇与挑战？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022234365d0e0ea9a2dc474e",
+        "id": "202503022234365d0e0ea9a2dc474e",
+        "usage": {
+            "prompt_tokens": 3565,
+            "completion_tokens": 83,
+            "total_tokens": 3648
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926087,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **国际金价近期下跌的主要原因是什么，是否与全球主要经济体的货币政策调整或地缘政治风险变化有关？**\n\n2. **金价下跌对全球黄金市场及主要黄金消费国的经济和投资策略可能产生哪些短期和长期影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022234455fc02cac0b79456a",
+        "id": "202503022234455fc02cac0b79456a",
+        "usage": {
+            "prompt_tokens": 81,
+            "completion_tokens": 56,
+            "total_tokens": 137
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926098,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 香港特区政府在2025/2026年度财政预算案中宣布全体公务员冻薪的决策背后，主要考虑了哪些经济和财政因素？这一措施预计将对香港的财政赤字和公务员体系产生怎样的长期影响？\n\n2. 在香港特区政府实施公务员冻薪政策的同时，还计划在未来两个财政年度内减少公务员编制，这一系列节流措施是否足以应对当前的财政困境？此举可能对香港公共服务质量和公务员士气带来哪些潜在挑战？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223454001a96dd148a4f99",
+        "id": "20250302223454001a96dd148a4f99",
+        "usage": {
+            "prompt_tokens": 3073,
+            "completion_tokens": 105,
+            "total_tokens": 3178
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926112,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **\"国补2.0版\"政策对智能手机和电脑市场的具体补贴细则是什么，如何影响消费者的购买决策和市场竞争格局？**\n   \n2. **在“国补2.0版”政策下，将“国四”油车纳入补贴范围的背景和目的是什么，预计会对国内汽车市场产生哪些长期和短期影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223508f083eb4592d045a8",
+        "id": "20250302223508f083eb4592d045a8",
+        "usage": {
+            "prompt_tokens": 3271,
+            "completion_tokens": 78,
+            "total_tokens": 3349
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926123,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在当前A股市场大跌的背景下，哪些关键因素将决定未来市场的反攻力度和持续性？**\n2. **针对近期A股市场的波动，投资者应如何调整投资策略以应对可能出现的反攻行情？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223521bcd653ac642e4531",
+        "id": "20250302223521bcd653ac642e4531",
+        "usage": {
+            "prompt_tokens": 2783,
+            "completion_tokens": 51,
+            "total_tokens": 2834
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926134,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 财政部此次提高基础养老金月最低标准的决策背景是什么？是基于哪些经济和社会因素的考量？\n2. 提高基础养老金月最低标准20元将对全国范围内的退休人员和城乡居民产生怎样的直接影响？是否会进一步推动相关社会保障政策的调整和完善？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223530b670543815e24632",
+        "id": "20250302223530b670543815e24632",
+        "usage": {
+            "prompt_tokens": 2697,
+            "completion_tokens": 58,
+            "total_tokens": 2755
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926144,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在中央一号文件重申禁止城镇居民购买农村宅基地和农房的背景下，这一政策对城乡户口价值差异和农村土地资源管理将产生哪些深远影响？\n\n2. 鉴于中央文件首次明确提出不允许退休干部到农村占地建房的新规定，这一举措对乡村治理结构、人才流动以及乡村振兴战略的实施可能带来哪些具体挑战和机遇？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022235402c0164489cbe4dc5",
+        "id": "202503022235402c0164489cbe4dc5",
+        "usage": {
+            "prompt_tokens": 2377,
+            "completion_tokens": 79,
+            "total_tokens": 2456
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926155,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 美联储计划铸造万亿金币以应对债务危机，这一举措在法律和金融层面上是否具有可行性？其可能对全球金融市场产生哪些深远影响？\n\n2. 在美国拒绝中德等国运回黄金的背景下，美联储提出铸币还债的策略，这是否意味着美国正在试图通过合法手段规避债务责任？其他国家应如何应对这一潜在风险？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222355196de7a3bf9b541bf",
+        "id": "2025030222355196de7a3bf9b541bf",
+        "usage": {
+            "prompt_tokens": 2979,
+            "completion_tokens": 81,
+            "total_tokens": 3060
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926169,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **金价近期“过山车”式波动的主要驱动因素有哪些？美元走势、地缘政治和全球央行购金需求分别在其中扮演了怎样的角色？**\n   \n2. **基于当前全球经济形势和货币政策走向，分析师们对2024年金价走势的预测如何？有哪些关键指标或事件可能成为未来金价涨跌的转折点？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022236057a83d36fa4704657",
+        "id": "202503022236057a83d36fa4704657",
+        "usage": {
+            "prompt_tokens": 3170,
+            "completion_tokens": 79,
+            "total_tokens": 3249
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926182,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 印度股市近30年来最糟糕的表现具体表现在哪些关键数据上？外资抛售的主要原因是什么，与全球经济形势或印度国内政策有何关联？\n\n2. 印度股指连续五个月下跌对印度国内经济和投资者信心产生了哪些具体影响？印度政府和相关机构采取了哪些措施来稳定股市和吸引外资回流？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223618ff9079243d374297",
+        "id": "20250302223618ff9079243d374297",
+        "usage": {
+            "prompt_tokens": 227,
+            "completion_tokens": 74,
+            "total_tokens": 301
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926196,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在房地产黄金20年结束后，新能源和大健康产业被认为是新的财富风口，那么这些产业在未来20年内具体有哪些政策和市场趋势支持其成为主要财富增长点？**\n\n2. **随着居民财富管理从房产向金融资产的战略转型，未来十年内，哪些类型的金融产品或投资渠道最有可能成为普通投资者实现财富增值的关键选择？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223632c26cd926a6df4a6e",
+        "id": "20250302223632c26cd926a6df4a6e",
+        "usage": {
+            "prompt_tokens": 3131,
+            "completion_tokens": 79,
+            "total_tokens": 3210
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926206,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在本周披露并购重组进展的A股上市公司中，哪些公司的并购重组方案最受市场关注，其股价表现如何？这些公司的并购重组对各自行业和整体市场有哪些潜在影响？\n\n2. 证监会和上交所近期对并购重组市场有哪些政策支持和引导措施？这些措施如何影响A股市场的并购重组活跃度，以及未来并购重组趋势的预测是什么？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223643061ccf413fe84ba5",
+        "id": "20250302223643061ccf413fe84ba5",
+        "usage": {
+            "prompt_tokens": 3432,
+            "completion_tokens": 81,
+            "total_tokens": 3513
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926216,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在当前银行利率环境下，40岁拥有100万存款的人每年实际能获得的利息收入是多少？这一收入水平能否满足其基本生活需求，从而实现“躺平”生活？**\n\n2. **针对“40岁存款100万每年利息躺平美梦被击碎”的现象，有哪些可行的理财策略或投资途径可以帮助中年人群在不增加工作负担的情况下，提高被动收入，实现财务自由？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022236533cae5f0614f540b7",
+        "id": "202503022236533cae5f0614f540b7",
+        "usage": {
+            "prompt_tokens": 2475,
+            "completion_tokens": 92,
+            "total_tokens": 2567
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926229,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **花旗银行在此次81万亿美元转账乌龙事件中，采取了哪些具体措施来及时发现和纠正错误？这些措施在多大程度上反映了其风险管理和内部控制系统的有效性？**\n\n2. **此次花旗银行的巨额转账失误是否暴露了全球金融系统中存在的系统性风险？监管机构应如何加强对金融机构操作风险的监管，以防止类似事件再次发生？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022237058d775d65105c4c60",
+        "id": "202503022237058d775d65105c4c60",
+        "usage": {
+            "prompt_tokens": 2568,
+            "completion_tokens": 81,
+            "total_tokens": 2649
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926242,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在当前土拍市场高溢价频现的背景下，哪些因素推动了房企重新燃起拿地热情，并且这种趋势对房地产市场长期健康发展将产生怎样的影响？**\n\n2. **针对近期杭州、上海等城市土拍溢价率屡创新高的情况，分析这种现象背后的深层原因，以及它对购房者、开发商和地方政府各自意味着什么？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022237184e383eb75f924f1e",
+        "id": "202503022237184e383eb75f924f1e",
+        "usage": {
+            "prompt_tokens": 3689,
+            "completion_tokens": 79,
+            "total_tokens": 3768
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926253,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 赛力斯向华为支付57.5亿元购买引望10%股权的交易，将对赛力斯在汽车智能驾驶系统领域的战略布局产生哪些具体影响？\n2. 华为在出售引望股权后，其在汽车智能驾驶系统及部件产业中的角色将如何转变，这对华为的整体业务战略有何深远意义？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022237295ce5159b987a4d27",
+        "id": "202503022237295ce5159b987a4d27",
+        "usage": {
+            "prompt_tokens": 3178,
+            "completion_tokens": 75,
+            "total_tokens": 3253
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926262,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 张核子作为昔日核酸大王，其公司财务状况是否出现了重大变化，导致其无法偿还20万欠款？具体有哪些财务数据支持这一变化？\n\n2. 在张核子被指“甘当老赖”的事件中，是否存在法律上的争议点或漏洞，使得他能够暂时逃避还款责任？相关的法律条文和案例分析是怎样的？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223738c1c9ffca2cae42ba",
+        "id": "20250302223738c1c9ffca2cae42ba",
+        "usage": {
+            "prompt_tokens": 3520,
+            "completion_tokens": 78,
+            "total_tokens": 3598
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926274,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 柯洁成为小米SU7 Ultra车主后，这一事件对小米汽车品牌形象和市场认知度产生了怎样的影响？\n2. 柯洁在直播中质疑小米SU7定价过高，那么他成为车主后，是否会对小米SU7的定价策略和市场接受度带来新的变化或启示？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223751ac641392ba8746d0",
+        "id": "20250302223751ac641392ba8746d0",
+        "usage": {
+            "prompt_tokens": 1836,
+            "completion_tokens": 69,
+            "total_tokens": 1905
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926284,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 李大霄在分析市场大幅回落时提到的“下蹲”现象，是基于哪些具体的市场数据和指标进行判断的？这一现象对投资者在当前市场环境下的操作策略有何具体影响？\n\n2. 在李大霄看来，市场大幅回落后的“下蹲”动作是否意味着后续将有更大的上涨空间？对于不同类型的投资者（如长期投资者和短期投机者），应如何根据这一判断调整各自的持仓和投资计划？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223800cdbd8d90170a4709",
+        "id": "20250302223800cdbd8d90170a4709",
+        "usage": {
+            "prompt_tokens": 1894,
+            "completion_tokens": 95,
+            "total_tokens": 1989
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926297,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **中国连续减持美债并增持黄金的战略考量是什么？这一策略对中国的外汇储备多元化及人民币国际化有何深远影响？**\n\n2. **美联储多次拒绝包括中国在内的多国运回黄金的要求，这背后可能隐藏哪些金融风险和地缘政治因素？这一行为对全球去美元化趋势和金融市场稳定性将产生怎样的连锁反应？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223813f84e5f5811ed4669",
+        "id": "20250302223813f84e5f5811ed4669",
+        "usage": {
+            "prompt_tokens": 2995,
+            "completion_tokens": 79,
+            "total_tokens": 3074
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926307,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **巨人大厦烂尾28年后重启建设，其背后的经济和社会因素有哪些变化，是如何促成了这一项目的复活？**\n   \n2. **在巨人大厦烂尾期间，珠海市的城市规划和房地产市场经历了哪些重要变革，这些变革对巨人大厦的重新动工产生了怎样的影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223824c7f9e96caeb94443",
+        "id": "20250302223824c7f9e96caeb94443",
+        "usage": {
+            "prompt_tokens": 3001,
+            "completion_tokens": 68,
+            "total_tokens": 3069
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926319,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **关于资金冻结的原因及其对乌克兰人道主义援助影响的深入分析**：\n   - “阿布出售切尔西所得的25亿英镑资金被冻结已有3年，这一措施背后的政治与法律因素具体有哪些？此冻结状态对乌克兰人道主义援助的实际影响如何，是否有具体案例说明？”\n\n2. **探讨资金解冻的可能路径及其对相关方利益的影响**：\n   - “在当前国际政治环境下，阿布的25亿英镑资金解冻的可能性有多大？解冻后资金的使用将如何平衡阿布的意愿与英国方面的要求，对各相关方的利益将产生何种长远影响？”",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222383449c995d9b31c46be",
+        "id": "2025030222383449c995d9b31c46be",
+        "usage": {
+            "prompt_tokens": 1678,
+            "completion_tokens": 132,
+            "total_tokens": 1810
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926334,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **政策背景与法律依据问题**：\n   \"根据现行法律法规，明确禁止城里人购买农村宅基地的主要法律依据是什么？这一政策背后的深层次原因有哪些，具体涉及哪些方面的利益平衡？\"\n\n2. **影响与应对措施问题**：\n   \"禁止城里人购买宅基地的政策对农村经济发展和城乡融合有哪些潜在影响？针对这一政策，政府和社会各界采取了哪些具体措施来盘活农村宅基地资源，促进农村可持续发展？\"",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223849c86d13dffc5046e4",
+        "id": "20250302223849c86d13dffc5046e4",
+        "usage": {
+            "prompt_tokens": 2700,
+            "completion_tokens": 97,
+            "total_tokens": 2797
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926345,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **金价近期大幅下跌的具体原因是什么，是否与全球经济形势或特定金融市场波动有直接关联？**\n\n2. **面对当前金价跳水的情况，行业专家建议投资者采取哪些具体策略来优化资产配置，以降低投资风险并捕捉潜在的市场机会？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022239036add61f5c8b9482d",
+        "id": "202503022239036add61f5c8b9482d",
+        "usage": {
+            "prompt_tokens": 85,
+            "completion_tokens": 59,
+            "total_tokens": 144
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926355,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在当前经济政策及房地产市场调控背景下，五年后房产的增值潜力与银行存款的利息收益相比，哪个更具有保值优势？**\n\n2. **考虑到未来五年内可能出现的通货膨胀率变化、城镇化进程以及人口老龄化趋势，投资房产与存钱两种方式在保值效果上会有怎样的差异？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223912d6bddc5f5a894f0d",
+        "id": "20250302223912d6bddc5f5a894f0d",
+        "usage": {
+            "prompt_tokens": 2996,
+            "completion_tokens": 71,
+            "total_tokens": 3067
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926368,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **英伟达2025财年营收突破1300亿美元，净利润同比增长80%，为何仍未能满足投资者的高预期？市场对其增长速度的担忧主要源自哪些因素？**\n\n2. **在DeepSeek AI模型低成本、高效能的冲击下，英伟达股价经历波动，但其财报显示数据中心业务强劲增长。这种背景下，投资者对英伟达未来业绩的疑虑主要集中在哪些方面？英伟达如何应对这些挑战以重塑市场信心？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223923cefa3542f0134e79",
+        "id": "20250302223923cefa3542f0134e79",
+        "usage": {
+            "prompt_tokens": 3124,
+            "completion_tokens": 103,
+            "total_tokens": 3227
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926381,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在住房城乡建设部提出的拆除新建、整治提升、拆整结合三种城中村改造方式中，各地如何根据自身实际情况选择最适合的改造模式，以确保改造效果最大化并满足居民需求？\n\n2. 针对城中村改造过程中可能出现的资金平衡和征收补偿问题，住房城乡建设部提出的“一项目两方案”具体如何操作，以确保每个改造项目的资金收支平衡和居民的合法权益得到保障？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302223937cb1b4bc1a6db4790",
+        "id": "20250302223937cb1b4bc1a6db4790",
+        "usage": {
+            "prompt_tokens": 2880,
+            "completion_tokens": 89,
+            "total_tokens": 2969
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926394,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **央行等五部门召开座谈会的具体目的是什么，会议中提出了哪些关键政策举措以应对当前经济形势？**\n\n2. **在此次座谈会上，五部门对于房地产市场和资本市场的调控策略有哪些新的调整，这些调整预计将对市场产生怎样的影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022239503bd07bc0e85a47ae",
+        "id": "202503022239503bd07bc0e85a47ae",
+        "usage": {
+            "prompt_tokens": 3111,
+            "completion_tokens": 61,
+            "total_tokens": 3172
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926403,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在2024年度个人所得税综合所得汇算清缴中，哪些因素导致了部分纳税人能够获得高达5万元的退税额？请结合具体案例进行分析。\n\n2. 针对有网友在个税汇算中需要补缴数千元税款的情况，探讨其主要原因及可能的避免措施，并分析这对纳税人未来税务规划的影响。",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222400103d9b140594e43e7",
+        "id": "2025030222400103d9b140594e43e7",
+        "usage": {
+            "prompt_tokens": 1493,
+            "completion_tokens": 74,
+            "total_tokens": 1567
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926414,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在当前全球经济环境下，货币贬值对新兴经济体和发达经济体的出口竞争力分别有何短期和长期影响？**\n\n2. **考虑到货币贬值可能引发的资本外流和通胀压力，各国央行在制定货币政策时如何平衡贬值带来的利弊，以实现经济稳定增长？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224011c5e76bf562c34175",
+        "id": "20250302224011c5e76bf562c34175",
+        "usage": {
+            "prompt_tokens": 3143,
+            "completion_tokens": 64,
+            "total_tokens": 3207
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926424,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在继承父亲名下房产过程中，若无法提供已故爷爷的死亡证明，有哪些法律途径或变通方法可以确保母亲顺利继承房产？\n\n2. 针对继承房产时需要提供已故长辈死亡证明的规定，是否存在政策上的改进建议，以简化继承流程并减少继承人的实际操作难度？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022240209cfb1177ab2e41eb",
+        "id": "202503022240209cfb1177ab2e41eb",
+        "usage": {
+            "prompt_tokens": 2881,
+            "completion_tokens": 72,
+            "total_tokens": 2953
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926433,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **退市卓朗连续五年财务造假的具体手段和动机是什么？其造假行为对市场和投资者造成了哪些直接影响？**\n\n2. **在退市卓朗的案例中，监管机构采取了哪些措施来应对和防范类似财务造假事件的发生？这些措施对提升A股市场透明度和保护投资者权益有何长远意义？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224030ea2ee2a54c8f45dc",
+        "id": "20250302224030ea2ee2a54c8f45dc",
+        "usage": {
+            "prompt_tokens": 2836,
+            "completion_tokens": 73,
+            "total_tokens": 2909
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926445,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 深圳住宅网签量翻倍增长的主要驱动因素是什么？这一趋势是否可持续，对普通购房者的入市时机有何影响？\n2. 在深圳楼市政策放松背景下，普通购房者如何评估自身购房能力与风险，以确保在当前市场环境下做出理性投资决策？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224042b6ccebc3c3a24eb9",
+        "id": "20250302224042b6ccebc3c3a24eb9",
+        "usage": {
+            "prompt_tokens": 2960,
+            "completion_tokens": 63,
+            "total_tokens": 3023
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926455,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在2025年春季行情中，哪些具体因素导致了科技成长主题的强势回归，以及这种回归对A股市场和港股科技股的具体影响是什么？\n\n2. 鉴于2025年股债双牛的可能性，投资者应如何根据自身的风险偏好调整股票和债券的投资比例，以及如何利用“价值AI”的哑铃策略进行有效配置？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222405136fc80a5df984e3d",
+        "id": "2025030222405136fc80a5df984e3d",
+        "usage": {
+            "prompt_tokens": 3240,
+            "completion_tokens": 79,
+            "total_tokens": 3319
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926465,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **广东省发行307亿元土地储备专项债的具体用途和分配情况是怎样的？这一举措对广东省内各城市的土地市场和房地产市场将产生哪些直接影响？**\n\n2. **重启土地储备专项债的背景和动因是什么？广东省此次发行专项债的做法在全国范围内具有怎样的示范效应，对其他省份的土地管理和房地产市场调控有哪些借鉴意义？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224101cd0f2140b3e5430a",
+        "id": "20250302224101cd0f2140b3e5430a",
+        "usage": {
+            "prompt_tokens": 3149,
+            "completion_tokens": 77,
+            "total_tokens": 3226
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926477,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **针对新政策实施后，港澳银行内地分行开办银行卡业务对现有内地银行市场格局和竞争态势可能产生哪些具体影响？**\n\n2. **对于经常往返于港澳与内地的商务人士及跨境工作者，新政策将如何改变他们的金融管理和资金流转方式，有哪些潜在的风险和机遇？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022241145a3fa93940434073",
+        "id": "202503022241145a3fa93940434073",
+        "usage": {
+            "prompt_tokens": 89,
+            "completion_tokens": 70,
+            "total_tokens": 159
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926490,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 武汉市今年计划拓宽的7条进出城通道具体包括哪些路线？这些路线的拓宽将对武汉市的交通流量和城市通勤效率带来哪些预期改善？\n\n2. 在武汉市住房和城市更新工作会的背景下，拓宽进出城通道的举措如何与城市更新规划相结合，以促进武汉市整体城市功能和居民生活质量的提升？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224127a43a0940ed96415a",
+        "id": "20250302224127a43a0940ed96415a",
+        "usage": {
+            "prompt_tokens": 2692,
+            "completion_tokens": 73,
+            "total_tokens": 2765
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926500,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在多地推出保租房项目并实施租金优惠政策的背景下，如何评估这些政策对新市民和青年人住房问题解决的长期效果及其对城市人口流动和经济发展的影响？**\n\n2. **鉴于保租房项目租金仅为市场价的六折至八折，是否会引发市场租金的双轨制现象，进而对房地产市场产生怎样的连锁反应？如何平衡保障性租赁住房与市场化租赁住房之间的关系，确保市场稳定和公平？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222413628176b561c0b4dd6",
+        "id": "2025030222413628176b561c0b4dd6",
+        "usage": {
+            "prompt_tokens": 3263,
+            "completion_tokens": 95,
+            "total_tokens": 3358
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926510,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在全球央行持续购金热的背景下，实物黄金需求上行的具体原因是什么？这种趋势对全球黄金市场的供需关系和价格走势将产生怎样的影响？**\n\n2. **2025年全球央行买金热持续升温，中国央行在其中扮演了怎样的角色？其连续增持黄金储备的动因是什么，这对中国的国际储备资产结构和人民币国际化进程有何深远影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224147794bd50046c94698",
+        "id": "20250302224147794bd50046c94698",
+        "usage": {
+            "prompt_tokens": 3271,
+            "completion_tokens": 85,
+            "total_tokens": 3356
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926518,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **金李委员提出的个人支付账户限额调整建议是基于哪些具体的经济和金融背景？这一调整可能对消费者支付习惯和金融安全产生哪些直接影响？**\n\n2. **在金李委员建议适时调整个人支付账户限额的背景下，相关监管部门可能采取哪些具体措施来平衡支付便利性与风险控制？这一政策变动对数字金融行业的长期发展将带来哪些机遇与挑战？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022241551913ca144ec1415a",
+        "id": "202503022241551913ca144ec1415a",
+        "usage": {
+            "prompt_tokens": 753,
+            "completion_tokens": 87,
+            "total_tokens": 840
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926531,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 吴明辉在提到CEO的算法升级过程中，具体指出了哪些类型的失败和挫折对于领导力成长最为关键，并且他是如何结合自身经历阐述这一观点的？\n\n2. 在面对失败和挫折时，吴明辉提出了哪些具体的应对策略或思维模式转变，以帮助CEO们在算法升级过程中实现有效的自我提升和公司战略调整？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022242083ae4746158cf4ee9",
+        "id": "202503022242083ae4746158cf4ee9",
+        "usage": {
+            "prompt_tokens": 91,
+            "completion_tokens": 79,
+            "total_tokens": 170
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926540,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在此次药品价格整治风暴中，扬子江药业涉及的具体药品有哪些？这些药品的降价幅度分别是多少？\n\n2. 针对江苏省药品挂网价格的大幅调整，国家医保局采取了哪些具体措施来推动全国范围内的药品价格联动政策？这些措施对药品市场格局和患者用药成本产生了哪些影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224217600ca57d96ab47fd",
+        "id": "20250302224217600ca57d96ab47fd",
+        "usage": {
+            "prompt_tokens": 3738,
+            "completion_tokens": 74,
+            "total_tokens": 3812
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926550,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在金价创历史新高后出现下跌的背景下，哪些宏观经济因素或市场情绪变化是导致此次金价波动的主要原因，专家们是基于哪些具体数据或市场趋势分析认为金价仍有望回涨？\n\n2. 针对金价未来走势的不确定性，投资者应如何调整其黄金投资策略以应对可能的市场风险，同时又能把握金价回涨的潜在机会？专家们有没有提供具体的投资建议或风险管理措施？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302224227a104a6f864f04766",
+        "id": "20250302224227a104a6f864f04766",
+        "usage": {
+            "prompt_tokens": 85,
+            "completion_tokens": 93,
+            "total_tokens": 178
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926564,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在“炒股亏损，要求赔偿超9300万元”的案例中，法院最终是如何认定双方责任并作出判决的？具体赔偿金额和判决依据是什么？**\n\n2. **该案例中，原告在委托炒股过程中是否存在明显的风险控制失误？被告是否存在违反证券法规或合同约定的行为？这些因素对法院判决产生了怎样的影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030222424091da8a60e4c04ec4",
+        "id": "2025030222424091da8a60e4c04ec4",
+        "usage": {
+            "prompt_tokens": 2883,
+            "completion_tokens": 80,
+            "total_tokens": 2963
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926574,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **2025年北京新房市场降价趋势的具体表现及其背后的主要原因是什么？**\n   \n2. **在2025年北京新房降价潮中，哪些区域或楼盘的性价比提升最为显著，对潜在购房者有哪些具体的购房建议？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022242519ef49c15e4634e1b",
+        "id": "202503022242519ef49c15e4634e1b",
+        "usage": {
+            "prompt_tokens": 2382,
+            "completion_tokens": 52,
+            "total_tokens": 2434
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740926587,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 鉴于国际油价即将结束月线连升态势，请问近期哪些主要关税政策和产油国增产举措对油市造成了显著压力，具体影响机制是怎样的？\n\n2. 在当前油市面临关税与增产双重打压的背景下，全球主要经济体和产油国可能采取哪些应对措施来稳定油价，这些措施又将如何影响未来国际油市的供需格局及价格走势？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022243047caf574b2c69461c",
+        "id": "202503022243047caf574b2c69461c",
+        "usage": {
+            "prompt_tokens": 93,
+            "completion_tokens": 86,
+            "total_tokens": 179
+        }
+    }
+]

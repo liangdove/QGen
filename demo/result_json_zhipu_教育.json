@@ -1,0 +1,1102 @@
+[
+    {
+        "model": "glm-4-plus",
+        "created": 1740928282,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 清华大学拟增加的150名本科名额将主要分配给哪些专业或书院？这一调整是否与清华大学新成立的本科通识书院的培养方向和目标相契合？\n\n2. 清华大学新成立的本科通识书院在课程设置、师资配备和培养模式上有何创新之处？这一举措将如何影响清华大学的本科教育体系和人才培养战略？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022311197de16df28b0a4a7d",
+        "id": "202503022311197de16df28b0a4a7d",
+        "usage": {
+            "prompt_tokens": 2720,
+            "completion_tokens": 79,
+            "total_tokens": 2799
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928292,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 福建这所高校使用卷帘门作为大门的具体原因是什么？校方在成本控制、安全考虑和美观需求之间是如何权衡的？\n\n2. 网友对高校使用卷帘门做大门的调侃和讨论，反映了公众对教育资源配置和校园环境标准的哪些期待？这一事件可能对学校声誉和招生产生怎样的影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223112964601e7d7a5e485f",
+        "id": "2025030223112964601e7d7a5e485f",
+        "usage": {
+            "prompt_tokens": 96,
+            "completion_tokens": 80,
+            "total_tokens": 176
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928302,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在“女生曝考研二战专业课仅10分”事件中，上海大学声称评分过程合法合规，那么请问该校能否公开具体的评分标准和细则，以进一步证明评分的公正性和透明度？\n\n2. 针对此次事件引发的社会广泛关注和考生质疑，上海大学将采取哪些具体措施来提升考研评分过程的公信力，以及如何有效保障考生权益，避免类似争议再次发生？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022311396d36f8927f0f4b7c",
+        "id": "202503022311396d36f8927f0f4b7c",
+        "usage": {
+            "prompt_tokens": 92,
+            "completion_tokens": 89,
+            "total_tokens": 181
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928310,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **考研调剂过程中，考生应如何平衡“急迫性”与“策略性”以确保调剂成功率最大化？**\n\n2. **在考研调剂信息不对称的情况下，考生可以通过哪些有效途径获取并及时利用调剂机会，避免盲目急躁？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022311489199aaa99bad4741",
+        "id": "202503022311489199aaa99bad4741",
+        "usage": {
+            "prompt_tokens": 1937,
+            "completion_tokens": 56,
+            "total_tokens": 1993
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928323,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在当前社会环境下，如何平衡教师个人权利与社会公众对教师职业的期待，以确保教师的合法权益不受侵犯？\n\n2. 针对教师假期旅游发朋友圈引发的争议，教育部门和学校应采取哪些具体措施来明确教师权利边界，同时有效缓解社会对教师群体的误解和偏见？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223115920d2a516ea554138",
+        "id": "2025030223115920d2a516ea554138",
+        "usage": {
+            "prompt_tokens": 2738,
+            "completion_tokens": 67,
+            "total_tokens": 2805
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928333,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在孩子拒绝上学的行为背后，家长和学校通常忽视了哪些早期心理问题的信号，这些信号的识别和干预为何对预防孩子厌学至关重要？**\n\n2. **针对孩子不上学现象，专家提出的“重视早期心理问题”的观点，对当前家庭教育与学校教育体系的改进有哪些具体启示，家长和学校应如何协同合作以构建更有效的预防和干预机制？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223121074e42d772a754b50",
+        "id": "2025030223121074e42d772a754b50",
+        "usage": {
+            "prompt_tokens": 2644,
+            "completion_tokens": 84,
+            "total_tokens": 2728
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928347,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **各国留学政策变化对国际学生流动趋势的具体影响如何？**\n   \n   该问题旨在探讨不同国家留学政策的调整（如签证政策、学费变化、工作机会等）如何直接影响国际学生的留学选择和流向，以及这些变化对全球教育格局的长远影响。\n\n2. **在2025年留学政策调整背景下，中国留学生如何有效应对并优化留学规划？**\n\n   该问题聚焦于中国留学生在面对各国留学政策变动时，应采取哪些策略和措施来最大化留学效益，包括选择留学目的地、准备申请材料、适应政策变化等方面的具体建议。",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022312233b4f728f72e84cf3",
+        "id": "202503022312233b4f728f72e84cf3",
+        "usage": {
+            "prompt_tokens": 1374,
+            "completion_tokens": 127,
+            "total_tokens": 1501
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928358,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在高中英语七选五阅读理解中，如何有效利用词汇复现现象来提高答题准确率？\n2. 针对高中英语七选五阅读理解的解题方法，除了抓词汇外，还有哪些关键技巧可以帮助学生快速锁定正确选项？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022312359a1584d87bc54b6e",
+        "id": "202503022312359a1584d87bc54b6e",
+        "usage": {
+            "prompt_tokens": 2779,
+            "completion_tokens": 59,
+            "total_tokens": 2838
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928367,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **考研初试成绩排名查询的具体步骤和渠道有哪些？不同院校在公布排名信息方面有何差异？**\n\n2. **面对考研初试成绩排名较低的情况，考生应如何制定有效的复试和调剂策略？有哪些具体的准备措施和建议？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223124441104839d1f04692",
+        "id": "2025030223124441104839d1f04692",
+        "usage": {
+            "prompt_tokens": 2656,
+            "completion_tokens": 57,
+            "total_tokens": 2713
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928378,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在面对家庭破产和留学资金断供的双重打击下，这位中国留学生是如何调整心态并采取哪些具体措施来克服困境，最终完成学业的？\n2. 这位留学生在经历“破产断供”的逆境中所学到的“最宝贵一课”具体包含哪些人生感悟和经验教训，这些经历对他未来的职业发展和社会适应能力有哪些积极影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231255a28cba984c7342ad",
+        "id": "20250302231255a28cba984c7342ad",
+        "usage": {
+            "prompt_tokens": 2744,
+            "completion_tokens": 82,
+            "total_tokens": 2826
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928391,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在当前高校学术环境中，导师与学生之间的权力不平等是如何导致类似“女博士与男导师不正当关系”事件频发的？这种权力结构对学术道德和学术生态产生了哪些深层次的影响？**\n\n2. **针对高校中存在的“权色交易”现象，现有的监督机制和教育体系存在哪些漏洞？应如何完善相关制度，以有效预防和遏制此类事件的发生，保障学术环境的纯洁性？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022313075423f462b27c43e7",
+        "id": "202503022313075423f462b27c43e7",
+        "usage": {
+            "prompt_tokens": 2071,
+            "completion_tokens": 93,
+            "total_tokens": 2164
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928403,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **该大学生是如何在逛菜市场时识别并确定“山nài”为新物种的？他具备哪些专业知识和技能支持这一发现？**\n\n2. **“山nài”这一新物种的发现对当地生态环境和生物多样性研究有哪些潜在影响？相关部门将采取哪些措施进行后续研究和保护？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231321fc93dff9af644119",
+        "id": "20250302231321fc93dff9af644119",
+        "usage": {
+            "prompt_tokens": 844,
+            "completion_tokens": 70,
+            "total_tokens": 914
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928412,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在当前社会背景下，孩子对父母表达不满或质疑是否被视为“大逆不道”，这种观念的形成与哪些文化和社会因素有关？\n\n2. 如何平衡孩子的独立思考与对父母的尊重感恩之间的关系，以促进健康的亲子沟通和家庭和谐？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022313292fa7f06a6b6e4beb",
+        "id": "202503022313292fa7f06a6b6e4beb",
+        "usage": {
+            "prompt_tokens": 2833,
+            "completion_tokens": 56,
+            "total_tokens": 2889
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928422,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **2018年出生人口大幅下降的具体原因是什么，这一现象对当前及未来几年小学招生人数有何长期影响？**\n\n2. **面对2024年小学招生人数减少261万人的情况，教育部门将采取哪些具体措施来应对学校生源不足和资源配置问题？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022313387fdcc276d73040c2",
+        "id": "202503022313387fdcc276d73040c2",
+        "usage": {
+            "prompt_tokens": 3155,
+            "completion_tokens": 64,
+            "total_tokens": 3219
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928432,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **全球高校裁撤文科专业的趋势背后，有哪些深层次的经济和社会因素在驱动这一变革？**\n\n2. **在AI技术和实用主义教育理念的双重影响下，文科教育如何重新定位自身价值，以应对当前的裁撤潮并保持其在高等教育中的重要性？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022313491137ba54a9664430",
+        "id": "202503022313491137ba54a9664430",
+        "usage": {
+            "prompt_tokens": 2730,
+            "completion_tokens": 62,
+            "total_tokens": 2792
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928445,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 西湖大学在哪些方面展现出比清华北大更有吸引力的特质，这些特质是如何在短期内形成的，对高等教育发展趋势有何启示？\n\n2. 鉴于西湖大学未能如期实现“5年比肩清华北大”的目标，其当前所体现的吸引力是否意味着评价顶尖高校的标准正在发生转变，这种转变对国内高校竞争格局和人才培养策略有何影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231401d70aa8d296b245da",
+        "id": "20250302231401d70aa8d296b245da",
+        "usage": {
+            "prompt_tokens": 91,
+            "completion_tokens": 81,
+            "total_tokens": 172
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928458,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **大模型中的token在不同语言（如中文和英文）处理中有何差异，这些差异对模型的性能和准确性有何影响？**\n\n2. **在大型语言模型的实际应用中，token的数量限制如何影响模型的上下文理解和输出质量，有哪些策略可以优化token的使用以提高模型效率？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231414d2058dd66b984c7a",
+        "id": "20250302231414d2058dd66b984c7a",
+        "usage": {
+            "prompt_tokens": 2649,
+            "completion_tokens": 67,
+            "total_tokens": 2716
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928469,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在“最伤孩子的4种‘母爱’”中，第2种母爱具体指的是什么行为？这种母爱对孩子的心理和成长可能带来哪些长期负面影响？\n\n2. 针对文章中提到的第2种“母爱”，作为家长应如何识别和调整自己的教育方式，以避免对孩子造成伤害？有哪些具体的改进措施可以推荐？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223142560c6dfb32bfa47a7",
+        "id": "2025030223142560c6dfb32bfa47a7",
+        "usage": {
+            "prompt_tokens": 1204,
+            "completion_tokens": 81,
+            "total_tokens": 1285
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928480,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **C939国产大飞机在研发过程中面临的主要技术挑战与六代机相比有哪些显著差异？**\n   \n2. **在资金投入、产业链配套和国际合作方面，C939国产大飞机的制造难度为何被认为超过六代机？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231438427e4c1160734f8b",
+        "id": "20250302231438427e4c1160734f8b",
+        "usage": {
+            "prompt_tokens": 1202,
+            "completion_tokens": 59,
+            "total_tokens": 1261
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928489,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **上大官方回应“没有压分”的具体依据和复核流程是怎样的？与往年评分标准相比有何异同？**\n2. **面对疑似压分情况，考生在初试后应采取哪些有效步骤进行自救，以确保自身权益得到保障？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231446a96dd3153a8f4ed9",
+        "id": "20250302231446a96dd3153a8f4ed9",
+        "usage": {
+            "prompt_tokens": 3259,
+            "completion_tokens": 60,
+            "total_tokens": 3319
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928497,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **杭州在吸引青年人才方面有哪些独特的政策和环境优势，使得此次招聘会能够吸引全国超过3万人前来应聘？**\n\n2. **此次招聘会中，哪些行业和岗位最受欢迎，反映了杭州当前及未来经济发展的哪些重点方向和人才需求趋势？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223145463842adcb0b84ed2",
+        "id": "2025030223145463842adcb0b84ed2",
+        "usage": {
+            "prompt_tokens": 2108,
+            "completion_tokens": 60,
+            "total_tokens": 2168
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928509,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **科学依据与传统文化：** 在现代神经心理学和传统面相学中，哪些具体的研究或理论支持了“聪明相”这一说法，并且这些特征是如何与孩子的智力发展和性格形成相关联的？\n\n2. **育儿实践与环境影响：** 针对文章中提到的“聪明相”特征，家长如何在日常育儿中有效利用和引导这些特征，以促进孩子的全面发展，同时避免过度解读外貌特征可能带来的育儿误区？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022315059072ba1cc81c4984",
+        "id": "202503022315059072ba1cc81c4984",
+        "usage": {
+            "prompt_tokens": 3376,
+            "completion_tokens": 100,
+            "total_tokens": 3476
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928519,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在这些“高能回复”中，哪些同学的回答最引人深思或最具创意，反映了当代年轻人怎样的价值观和人生观？\n2. 讨论中提到的“想复活的人”的选择标准多样，从历史人物到身边亲人不等，这反映了怎样的社会文化现象，对青少年历史观和生命观教育有何启示？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231516472312ca51934c83",
+        "id": "20250302231516472312ca51934c83",
+        "usage": {
+            "prompt_tokens": 89,
+            "completion_tokens": 74,
+            "total_tokens": 163
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928532,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在当前AI专业热潮下，复旦博士提出的“别让孩子扎堆选AI”建议背后的具体原因是什么？这一建议对学生未来的职业规划和就业前景有何深远影响？**\n\n2. **根据复旦博士的观点，未来十年哪些专业更有可能成为“铁饭碗”？这些专业具备哪些独特的优势和潜力，使其能够在AI技术快速发展的背景下保持稳定的需求和就业前景？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022315281d3ce89f42144c93",
+        "id": "202503022315281d3ce89f42144c93",
+        "usage": {
+            "prompt_tokens": 2954,
+            "completion_tokens": 85,
+            "total_tokens": 3039
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928545,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在面对孩子被欺负的情况时，家长采取“教孩子打回去”的策略是否真的有助于孩子长期的心理和社交能力发展？是否有更有效的替代方法？\n\n2. 根据心理学研究和实际案例分析，孩子在遭受攻击后选择还手和选择寻求成人帮助，这两种应对方式对孩子未来的行为模式和人际关系建立分别有何长期影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231541c724405a45384313",
+        "id": "20250302231541c724405a45384313",
+        "usage": {
+            "prompt_tokens": 2883,
+            "completion_tokens": 75,
+            "total_tokens": 2958
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928556,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在当前教育环境中，哪些具体行为或特质能够体现一个老师的“三观超正”，并且这些特质如何在实际教学中对学生产生深远影响？\n\n2. 结合“燃灯者”这一比喻，探讨好的老师如何通过自身的言行和教学理念，在学生的成长过程中扮演关键角色，并举例说明有哪些知名教师的事迹符合这一形象？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022315526bc3fba5c1b64ecb",
+        "id": "202503022315526bc3fba5c1b64ecb",
+        "usage": {
+            "prompt_tokens": 3345,
+            "completion_tokens": 76,
+            "total_tokens": 3421
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928567,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **2025年医科大学新排名中，北京协和医学院蝉联榜首的主要优势是什么？其在教学、科研和临床方面的具体表现如何？**\n\n2. **广州医科大学首次进入前十名的背后动因是什么？其在近年来有哪些显著的发展和突破，使其排名显著提升？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022316033985381c2c4349f7",
+        "id": "202503022316033985381c2c4349f7",
+        "usage": {
+            "prompt_tokens": 2909,
+            "completion_tokens": 62,
+            "total_tokens": 2971
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928577,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 针对腾讯新闻提到的2025年高考三大变化（如报名人数增加、新高考模式实施、专业选科要求调整），您认为这些变化对考生备考策略和心理状态将产生哪些具体影响？家长和考生应如何调整应对策略以最大化利用这些变化带来的机遇？\n\n2. 在腾讯新闻的报道中，提到2025年高考政策调整可能导致的竞争加剧和录取难度增加，您认为这些变化对复读生群体有何特别的影响？针对这一群体，教育部门和社会应提供哪些支持和帮助以保障其公平竞争的机会？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231612156acd2c4c5a4e10",
+        "id": "20250302231612156acd2c4c5a4e10",
+        "usage": {
+            "prompt_tokens": 2767,
+            "completion_tokens": 122,
+            "total_tokens": 2889
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928587,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **高三实行双休制度后，学生和家长对学习效果和心理健康变化的反馈如何？**\n   \n2. **教育专家如何看待高三双休制度对高考备考和综合素质培养的影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231625dcfd58bb7bfe45f2",
+        "id": "20250302231625dcfd58bb7bfe45f2",
+        "usage": {
+            "prompt_tokens": 3005,
+            "completion_tokens": 44,
+            "total_tokens": 3049
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928598,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **陈宏斌代表提出的完善基础教育人工智能教育体系的建议中，具体包含哪些核心内容和实施措施？**\n   \n2. **当前我国基础教育阶段人工智能教育的现状如何，存在哪些主要挑战，陈宏斌代表的建议将如何有效应对这些挑战？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022316356a39873cf6164d73",
+        "id": "202503022316356a39873cf6164d73",
+        "usage": {
+            "prompt_tokens": 2946,
+            "completion_tokens": 58,
+            "total_tokens": 3004
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928609,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **高考百日誓师大会的形式与内容是否失衡？具体表现在哪些方面，对学生的心理和学习状态产生了怎样的影响？**\n\n2. **将高考百日誓师大会与传销进行类比的理由是什么？这种类比是否合理，它在多大程度上反映了当前教育体制中存在的问题？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231646b1ccd2fb84c9461f",
+        "id": "20250302231646b1ccd2fb84c9461f",
+        "usage": {
+            "prompt_tokens": 3263,
+            "completion_tokens": 63,
+            "total_tokens": 3326
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928618,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **根据DeepSeek的深度预测，哪些具体因素导致这四类大学专业在未来10年内可能面临淘汰的风险？这些因素在当前教育和社会环境中是如何体现的？**\n\n2. **针对预测将被淘汰的四类大学专业，教育部门和高校应采取哪些具体措施来应对这一变化，以保障学生的就业前景和学科发展的可持续性？这些措施可能对现有教育体系带来哪些深远影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231655d9d6f425c9144c13",
+        "id": "20250302231655d9d6f425c9144c13",
+        "usage": {
+            "prompt_tokens": 591,
+            "completion_tokens": 90,
+            "total_tokens": 681
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928631,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **这些“宝藏”大学在招生宣传和品牌建设上采取了哪些策略，以至于它们虽然实力强劲但仍然保持低调？**\n   \n2. **这些大学的王牌专业在课程设置和产学研合作方面有哪些独特之处，从而显著提升了毕业生的就业率？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022317080604f80de7234383",
+        "id": "202503022317080604f80de7234383",
+        "usage": {
+            "prompt_tokens": 2667,
+            "completion_tokens": 60,
+            "total_tokens": 2727
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928644,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **父母在教育孩子时，经常使用贬损性语言会对孩子的心理健康产生哪些长期影响？**\n   \n2. **在现代社会，有哪些有效的沟通和教育方法可以帮助父母避免使用伤害孩子的语言，从而促进孩子的健康成长？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231721e9f1b95199394fb9",
+        "id": "20250302231721e9f1b95199394fb9",
+        "usage": {
+            "prompt_tokens": 2798,
+            "completion_tokens": 51,
+            "total_tokens": 2849
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928656,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在回顾校园生活时，人们常常感叹“曾经最想逃离的地方，却成了回不去的天堂”，这种情感转变背后的心理机制是什么？它反映了人们对于成长和回忆的哪些普遍心理现象？**\n\n2. **从社会学的角度来看，校园生活对个人成长有哪些深远的影响？为什么即使在步入社会多年后，人们依然会对校园时光怀有如此强烈的怀念和情感共鸣？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022317327eeaa74c34b74713",
+        "id": "202503022317327eeaa74c34b74713",
+        "usage": {
+            "prompt_tokens": 3263,
+            "completion_tokens": 89,
+            "total_tokens": 3352
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928668,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **关于小学生早起赶校车的时间安排，当地教育局在回应中提出了哪些具体的调整措施，以缓解学生和家长的负担？**\n\n2. **针对小学生六点起床赶校车引发的公众关注，该事件反映了哪些当前教育资源配置和交通管理方面的问题，当地政府和教育部门计划如何从长远角度进行系统性改善？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231745d9e22a7bc0de432c",
+        "id": "20250302231745d9e22a7bc0de432c",
+        "usage": {
+            "prompt_tokens": 693,
+            "completion_tokens": 75,
+            "total_tokens": 768
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928681,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在老龄化加速背景下，社保就业支出首次超过教育支出，这一变化对国家财政分配策略和未来教育投入趋势将产生哪些深远影响？\n\n2. 面对老龄化社会带来的财政压力，社保就业支出的增加是否会挤压教育领域的资源，进而影响教育质量和人才培养，政府应如何平衡这两大领域的财政投入以实现可持续发展？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022317581383f890559d41cc",
+        "id": "202503022317581383f890559d41cc",
+        "usage": {
+            "prompt_tokens": 3031,
+            "completion_tokens": 77,
+            "total_tokens": 3108
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928691,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在培养孩子情商的过程中，父母哪些具体行为被证实能够有效提升孩子的情商，并且这些行为背后的心理学原理是什么？\n\n2. 针对不同年龄段的孩子，父母在实施提升情商的行为时应该有哪些差异化策略，以确保这些行为对孩子的情商发展产生积极且持久的影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022318084619cbfb55f6498d",
+        "id": "202503022318084619cbfb55f6498d",
+        "usage": {
+            "prompt_tokens": 2660,
+            "completion_tokens": 63,
+            "total_tokens": 2723
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928705,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在2025年全国两会中，哪些民生议题（如教育改革、医疗保障、住房政策等）被代表和委员们频繁提及，反映了当前社会最迫切的需求和关注点？\n\n2. 针对经济发展和科技创新，2025年全国两会中有哪些具体的政策建议和措施被提出，以应对当前国内外经济形势变化和技术革新的挑战？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223182148de7a91cd69423c",
+        "id": "2025030223182148de7a91cd69423c",
+        "usage": {
+            "prompt_tokens": 2652,
+            "completion_tokens": 79,
+            "total_tokens": 2731
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928715,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **\"三支一扶\"、\"西部计划\"和\"特岗计划\"在招募对象、服务领域和政策待遇方面有哪些主要差异？这些差异对高校毕业生的职业规划和人生选择有何影响？**\n\n2. **近年来，国家在推动\"三支一扶\"、\"西部计划\"和\"特岗计划\"等基层服务项目方面采取了哪些创新措施？这些措施如何有效提升了项目的吸引力和实施效果，从而助力西部地区和基层社会经济的发展？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231831dba705f9d7684f2a",
+        "id": "20250302231831dba705f9d7684f2a",
+        "usage": {
+            "prompt_tokens": 3350,
+            "completion_tokens": 100,
+            "total_tokens": 3450
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928727,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **在采访学霸的过程中，哪些高能回复最令你印象深刻，反映了学霸们怎样的学习态度和价值观？**\n   \n2. **从这些学霸的成长经历和成就中，我们可以总结出哪些关键因素对培养国家栋梁之才至关重要？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231843cc57e597803d4dfa",
+        "id": "20250302231843cc57e597803d4dfa",
+        "usage": {
+            "prompt_tokens": 3236,
+            "completion_tokens": 58,
+            "total_tokens": 3294
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928737,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 在AI技术赋能英语教学的背景下，如何平衡个性化学习路径与传统教学方法的优劣，以确保学习者全面发展？\n\n2. 面对AI在英语学习中的广泛应用，教育工作者应如何调整教学策略和角色定位，以适应新时代教育变革的需求？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022318546067475ef54f45fa",
+        "id": "202503022318546067475ef54f45fa",
+        "usage": {
+            "prompt_tokens": 3112,
+            "completion_tokens": 57,
+            "total_tokens": 3169
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928752,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. 俞敏洪在郑州的演讲中提到“不应把上名牌大学作为孩子的人生目标”，并结合于东来的成功案例，这种观点对当前中国家庭教育理念的转变有何启示？如何平衡孩子的兴趣培养与学业成绩之间的关系？\n\n2. 俞敏洪频频提及于东来及其商业成功，背后反映了怎样的商业合作潜力和教育跨界趋势？东方甄选与胖东来未来可能的合作模式会对教育行业和零售行业产生哪些影响？",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022319073252164085c64d65",
+        "id": "202503022319073252164085c64d65",
+        "usage": {
+            "prompt_tokens": 2895,
+            "completion_tokens": 100,
+            "total_tokens": 2995
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928764,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **余华英案反映了哪些社会问题，如何从法律和社会层面预防类似悲剧的发生？**\n2. **在关注余华英案的同时，如何提升公众对儿童安全教育的重视，确保孩子的平安成长？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231922157c0cb75ede4044",
+        "id": "20250302231922157c0cb75ede4044",
+        "usage": {
+            "prompt_tokens": 3054,
+            "completion_tokens": 51,
+            "total_tokens": 3105
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928775,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **拜年手势的传统意义与现代应用有何差异？专家现场示范教学如何帮助现代人更好地理解和传承这一礼仪？**\n\n2. **在专家示范的拜年手势教学中，男女手势的具体区别及其文化根源是什么？这一传统礼仪在现代社会中有哪些实际影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022319324db5c9b69f8c4d1a",
+        "id": "202503022319324db5c9b69f8c4d1a",
+        "usage": {
+            "prompt_tokens": 3612,
+            "completion_tokens": 61,
+            "total_tokens": 3673
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928789,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **关于徐州工业职业技术学院考研通过率100%的具体背景和实施细节，该校的“40联合培养项目”是如何运作的，以及这一项目对学生考研通过率的影响有哪些具体体现？**\n\n2. **针对网友对徐州工业职业技术学院考研通过率100%的质疑，该校在确保考试公正性和透明度方面采取了哪些具体措施，以及这些措施在回应公众关切和提升学校声誉方面起到了怎样的作用？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231945b6e64df9bb98423c",
+        "id": "20250302231945b6e64df9bb98423c",
+        "usage": {
+            "prompt_tokens": 347,
+            "completion_tokens": 93,
+            "total_tokens": 440
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928800,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **不同行业和规模的企业在裁员补偿方案上是否存在显著差异，这种差异反映了怎样的企业文化和市场策略？**\n   \n2. **从员工心理和社会影响的角度分析，高标准的裁员补偿（如N+9）与最低法定标准（如N+1）相比，对员工的再就业信心和公众对企业形象的评价有何不同影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302231956f6b754075e434064",
+        "id": "20250302231956f6b754075e434064",
+        "usage": {
+            "prompt_tokens": 3192,
+            "completion_tokens": 78,
+            "total_tokens": 3270
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928812,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **“DeepSeek的火爆对985高校新学院的成立有哪些直接和间接影响？这些新学院在课程设置和人才培养方面有哪些创新举措以应对AI领域的快速发展？”**\n\n2. **“在DeepSeek引领的AI热潮中，985高校密集成立新学院是否会加剧AI人才的竞争？这些新学院如何平衡理论与实践，以确保培养出的学生在AI行业中具备竞争优势？”**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202503022320086bfbaf1c158c4e71",
+        "id": "202503022320086bfbaf1c158c4e71",
+        "usage": {
+            "prompt_tokens": 3195,
+            "completion_tokens": 83,
+            "total_tokens": 3278
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928820,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **企业家之间的鄙视链现象是否反映了当前商业环境的竞争态势和社会价值观的某种倾向？**\n   \n2. **周鸿祎提到的互联网商战从草莽时期到正常化的转变，对新兴企业和传统企业各自的战略调整有哪些深远影响？**",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20250302232017d46984aacb2044f4",
+        "id": "20250302232017d46984aacb2044f4",
+        "usage": {
+            "prompt_tokens": 1013,
+            "completion_tokens": 58,
+            "total_tokens": 1071
+        }
+    },
+    {
+        "model": "glm-4-plus",
+        "created": 1740928834,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "1. **政策调整背景与动机：** “浙江大学机械学院取消‘英语不过不予录取’政策的背后，是基于哪些具体的数据分析和现实考量？这一决策是否反映了当前高等教育对语言能力与专业能力平衡的新趋势？”\n\n2. **措施实施影响与预期效果：** “取消英语成绩作为录取硬性标准后，浙江大学机械学院将采取哪些替代措施来确保研究生招生质量？这一政策调整对学生的专业发展、国际化视野及未来就业竞争力可能产生哪些长远影响？”",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2025030223203078bc345dcfe14692",
+        "id": "2025030223203078bc345dcfe14692",
+        "usage": {
+            "prompt_tokens": 83,
+            "completion_tokens": 107,
+            "total_tokens": 190
+        }
+    }
+]
