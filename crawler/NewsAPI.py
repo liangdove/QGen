@@ -9,7 +9,7 @@ from utils import Dic2JSON
 
 # /v2/top-headlines
 def NewsAPI_headlines(q:str, category:str, language:str, country:str):
-    newsapi = NewsApiClient(api_key='31b1d37be40a414890c526231ec10b70')
+    newsapi = NewsApiClient(api_key='xxx')
     top_headlines = newsapi.get_top_headlines(q=q,
                                               category=category,
                                               language=language,
@@ -21,7 +21,7 @@ def NewsAPI_headlines(q:str, category:str, language:str, country:str):
 
 # /v2/everything
 def NewsAPI_everything(q:str, from_date:str = '2025-02-01', to_date:str = '2025-03-01', language:str = 'zh', sort_by:str = 'relevancy'):
-    newsapi = NewsApiClient(api_key='31b1d37be40a414890c526231ec10b70')
+    newsapi = NewsApiClient(api_key='xxx')
     all_articles = newsapi.get_everything(q=q,
                                         #   sources='bbc-news,the-verge',
                                         #   domains='bbc.co.uk,techcrunch.com',

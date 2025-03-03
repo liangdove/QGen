@@ -64,7 +64,7 @@ extend_LLM_generated(topic_options_LLM)
 print("所有话题为:\n", topic_options)
 
 # LLM生成模块
-client = OpenAI(api_key="f70rlr8gJsjNjFkA33DuPE3jkcbDINX4HSR6qkdUMsWcqLnAgVpECgcjD4dZ5PZL", base_url="https://api.stepfun.com/v1")
+client = OpenAI(api_key="xxx", base_url="https://api.stepfun.com/v1")
 sys_prompt = """
 ## Role: 
 调用互联网搜索的问题提问专家

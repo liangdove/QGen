@@ -19,7 +19,7 @@ class TopicProcessor:
         self.json_save_path = f'demo/result_json_zhipu_{self.category}.json'
         self.ques_save_path = f'demo/result_{self.category}.txt'
         self.topic_options = []
-        self.client = ZhipuAI(api_key="41863f9d3b7d4a998c8d6f1da1114c7f.P2e8qDmnGZUiEPxG")
+        self.client = ZhipuAI(api_key="xxx")
         self.search_prompt = """
 
         # 以下是来自互联网的信息：

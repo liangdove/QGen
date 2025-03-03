@@ -19,7 +19,7 @@ class TopicProcessor:
         self.json_save_path = f'demo/result_json_stepup_{self.category}.json'
         self.ques_save_path = f'demo/result_stepup_{self.category}.txt'
         self.topic_options = []
-        self.client = OpenAI(api_key="f70rlr8gJsjNjFkA33DuPE3jkcbDINX4HSR6qkdUMsWcqLnAgVpECgcjD4dZ5PZL", base_url="https://api.stepfun.com/v1")
+        self.client = OpenAI(api_key="xxx", base_url="xxx")
         self.search_prompt = """
 
         # 以下是来自互联网的信息：

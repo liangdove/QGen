@@ -52,9 +52,9 @@ class Ws_Param(object):
 
 
 # 替换为你的 APPID、API Key 和 API Secret
-APPID = '180d9048'
-API_SECRET = 'NDUxOTY2NmUyMzkzZTA4YWU3MWJiZWY1'
-API_KEY = '4e4c3c685952c51c62d52826e314417a'
+APPID = 'xxx'
+API_SECRET = 'xxxx'
+API_KEY = 'xxx'
 url = "https://spark-api-open.xf-yun.com/v4/chat/completions"
 
 sys_prompt = """

@@ -190,8 +190,8 @@ topic_test = ["谁说这豆老啊,这豆太棒了", "GPT-4.5", "美国 “雅典
 for topic in topic_test:
     print(f"当前topic:{topic}")
     test(appid = '180d9048',
-            api_secret = 'NDUxOTY2NmUyMzkzZTA4YWU3MWJiZWY1',
-            api_key = '4e4c3c685952c51c62d52826e314417a',
+            api_secret = 'xxx',
+            api_key = 'xxx',
             #星火认知大模型Spark Max的domain值，其他版本大模型domain值请前往文档（https://www.xfyun.cn/doc/spark/Web.html）查看
             domain = '4.0Ultra',
             #appid、api_secret、api_key三个服务认证信息请前往开放平台控制台查看（https://console.xfyun.cn/services/bm35）

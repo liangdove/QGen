@@ -35,7 +35,7 @@ extend_clawler("crawler\weibo.txt")
 print("所有话题为:\n", topic_options)
 
 # 初始化 ZhipuAI 客户端
-client = ZhipuAI(api_key="41863f9d3b7d4a998c8d6f1da1114c7f.P2e8qDmnGZUiEPxG")
+client = ZhipuAI(api_key="xxx")
 
 search_prompt = """
 

@@ -9,7 +9,7 @@ sys.path.append(parent_dir)
 from utils import read_file_to_list, read_list_to_file, Dic2JSON, save_as_json_file
 
 # 初始化 ZhipuAI 客户端
-client = ZhipuAI(api_key="41863f9d3b7d4a998c8d6f1da1114c7f.P2e8qDmnGZUiEPxG")
+client = ZhipuAI(api_key="xxx.xxx")
 
 # 获取当前日期
 current_date = datetime.now().strftime("%Y-%m-%d")
