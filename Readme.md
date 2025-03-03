@@ -66,6 +66,11 @@ V1是修改的prompt
 V2是另一版prompt,效果比V1好  
 V3是使用了V2的prompt,模型换成了qwen-max  
 
+## What's next:
+1. 调整prompt
+2. 寻找并借鉴开源非时效性问题数据集，寻找专家库
+3. 寻找厂商是否支持批处理和并发
+
 
 
 
