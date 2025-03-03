@@ -1,0 +1,302 @@
+[
+    {
+        "id": "chatcmpl-124a0a5e-730a-915b-b24d-471c656efedc",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "在2025年3月2日进行的意甲第27轮那不勒斯对阵国际米兰的比赛中，迪马尔科于第22分钟通过任意球直接得分。基于此信息，以下是两个结构完整的问题：\n\n1. 在2025年3月2日举行的意甲联赛第27轮那不勒斯与国际米兰的对决中，哪位球员利用任意球机会为国际米兰打入了比赛的第一个进球？\n2. 那不勒斯与国际米兰的比赛最终比分是多少，哪位球员在比赛接近尾声时为那不勒斯攻入了扳平比分的一球？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741018177,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 139,
+            "prompt_tokens": 834,
+            "total_tokens": 973,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-72795138-45a4-9216-b883-51b03167b77b",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在西甲联赛第26轮皇马对阵贝蒂斯的比赛中，最终比分是多少，比赛过程中哪两位球员为贝蒂斯贡献了进球？\n2. 安东尼在加盟贝蒂斯后被认为可能迎来职业生涯的复苏，根据新闻内容，安东尼在对阵皇家社会时打入的世界波发生在球场的具体位置是哪里？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741018193,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 73,
+            "prompt_tokens": 625,
+            "total_tokens": 698,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-5d28908c-3463-97b7-a7cc-8bd64b6de271",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 沃克在妻子返回英国后的第二天于米兰托克维尔13号夜总会举办VIP派对时，具体消费金额是多少英镑？\n2. 凯尔·沃克与两位女郎共度一夜的事件发生在哪一天？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741018204,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 55,
+            "prompt_tokens": 668,
+            "total_tokens": 723,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-d99ca76f-3552-9f7f-a995-25b4b59d7725",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在勇士队最近的8场比赛中，球队取得了7场胜利，在这期间斯蒂芬·库里的场均得分是多少，投篮命中率和三分球命中率分别达到了怎样的水平？\n2. 自从吉米·巴特勒加盟后，勇士队在防守效率方面有何变化，具体数值是多少，并且这一数值在联盟中的排名如何？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741018217,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 79,
+            "prompt_tokens": 661,
+            "total_tokens": 740,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-6db8f233-d2c8-9ae2-860b-61fcc53f4043",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "在2025年3月1日的中超第2轮比赛中，河南队与梅州客家的比赛里发生了什么情况导致河南队未能扳平比分？\n\n李星贤在比赛中的空门不进发生在哪个具体时间点？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741018228,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 51,
+            "prompt_tokens": 706,
+            "total_tokens": 757,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-d368b137-9776-9238-bebf-049af10d49bc",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "在新闻报道中提到的福克斯完成1.8秒准绝杀的比赛里，福克斯命中关键球时的具体得分是多少？\n\n上述提及的福克斯1.8秒准绝杀事件发生在哪一场比赛，对阵双方是哪些球队？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741018238,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 53,
+            "prompt_tokens": 762,
+            "total_tokens": 815,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-387479a8-624b-9856-b60b-5e594914a52a",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 奥斯汀·里夫斯拒绝了具体金额为多少的提前续约合同，转而要求获得多大金额的顶薪合同？\n2. 在奥斯汀·里夫斯提出亿元顶薪要求时，本赛季里夫斯的具体表现如何，包括但不限于场均得分、助攻数及三分命中率等数据？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741018249,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 72,
+            "prompt_tokens": 751,
+            "total_tokens": 823,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-e8ae8659-a01c-974e-9874-af71abd436df",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在关于国乒队队员被称作“C语言大师”的讨论中，具体提到了哪些运动员的名字以及这些运动员在何种情境下展现了所谓的“C语言”技能？\n2. 新闻报道或社交媒体上提到的“国乒队人均国粹大师”的说法背后，是否有具体的事件或者比赛作为依据，可以详细说明相关背景和发生的日期？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741018263,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 79,
+            "prompt_tokens": 714,
+            "total_tokens": 793,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-fc981ec5-d2a3-9966-a232-7f92b3fc5c23",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "恩比德因伤赛季报销前，为费城76人队出战的比赛场次是多少？\n根据报道，恩比德在受伤之前本赛季的场均得分、篮板和助攻分别是多少？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741018276,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 43,
+            "prompt_tokens": 733,
+            "total_tokens": 776,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-ee0bf593-c17d-93da-a74a-29ce77b0aa9d",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在2025年3月2日湖人对阵快船的比赛中，贾克森-海斯作为湖人先发中锋在防守端的具体表现如何，特别是在与快船中锋伊维察·祖巴茨对位时的数据统计是怎样的？\n2. 截至2025年3月初，洛杉矶湖人在取得胜利后战绩提升到了多少胜多少负，并且球队排名西部第几位，同时期快船队的战绩和排名情况又是如何？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741018290,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 107,
+            "prompt_tokens": 639,
+            "total_tokens": 746,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    }
+]

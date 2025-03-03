@@ -1,0 +1,302 @@
+[
+    {
+        "id": "chatcmpl-5ea5e231-419c-9c6a-88fc-a11d1bca9e47",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在纪录片中，巴基斯坦小船运输大型收割机过黄河的具体日期是什么时候？\n2. 纪录片里提到的视频获得了多少次播放、弹幕数量是多少、点赞数达到了多少？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017154,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 46,
+            "prompt_tokens": 701,
+            "total_tokens": 747,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-762ccaf6-16f0-9144-be1c-94a52b03a637",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 2016年5月萨尔瓦多发生的河流污染事件中，具体哪条河流受到糖蜜污染影响，导致鱼虾大量死亡？\n2. 根据报道，萨尔瓦多约有多少比例的垃圾未经妥善处理，并且每天大约有多少吨垃圾进入河流和湖泊等水体？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017167,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 69,
+            "prompt_tokens": 611,
+            "total_tokens": 680,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-d8c45557-55d3-925c-b491-b5b0f505b90d",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "中国计划在英国新建大使馆的提议是在哪一天被美国官员公开表示反对的？\n\n美国众议院“中国委员会”主席约翰·穆莱纳尔以及另一位被列入中方制裁名单的美国官员克里斯·史密斯对这一事件表达了什么具体关切？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017180,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 57,
+            "prompt_tokens": 539,
+            "total_tokens": 596,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-73ba37bc-a452-91a2-bae3-6be7bf1bfa51",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在加州维克多维尔附近沙漠中发现的四口之家遗骸，具体在哪个日期被路人首次报告给当局？\n2. 圣贝纳迪诺郡警长约翰•麦克马洪宣布确认遗体身份时，距离最初一家四口失踪已经过去了多久？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017191,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 63,
+            "prompt_tokens": 693,
+            "total_tokens": 756,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-7e73abfc-0220-9329-8d5f-8ba5ddfa2ed0",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 2025年2月期间，哪位外交部发言人通过社交平台分享并点赞了一段父亲为儿子自制机器人的视频？\n2. 父亲为儿子自制的机器人玩具视频在抖音上获得了多少个喜欢？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017205,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 53,
+            "prompt_tokens": 714,
+            "total_tokens": 767,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-68946876-91be-905d-84ee-de39b814aef5",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "在关于济州岛海女文化的新闻报道中，最近有多少年轻女性主动选择成为海女？\n\n报道指出的济州岛海女数量锐减发生在哪个具体年代区间？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017218,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 39,
+            "prompt_tokens": 651,
+            "total_tokens": 690,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-fd0f93b8-fddd-9c73-b6b2-7879d7f6c703",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "阿富汗女性在塔利班治理下对于接受现代科学教育表现出何种具体期待？自塔利班重新执政以来，针对女性教育政策经历了哪些变化，尤其是关于允许女性参与高等教育的具体条件是什么？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017230,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 44,
+            "prompt_tokens": 648,
+            "total_tokens": 692,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-98ca8b8f-0e32-9834-97ca-36b53011441d",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "安225重型运输机在最近的起飞视频中展示的具体起飞地点是哪里？\n纪录片中提及的640吨是否代表了安225的最大起飞重量，还是指其他特定条件下的重量？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017242,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 47,
+            "prompt_tokens": 665,
+            "total_tokens": 712,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-72bcd73b-73aa-977a-8dfb-c161ad791243",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据新闻报道，菲律宾总统小马科斯在2025年2月27日的言论中提到中国议题的具体内容是什么？\n2. 在2025年初的菲律宾政治局势中，小马科斯政府重组国家安全委员会时，哪些具体措施或人事变动表明了对杜特尔特家族及其所谓“亲华”立场的态度变化？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017254,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 83,
+            "prompt_tokens": 704,
+            "total_tokens": 787,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-5b9ef614-642d-9830-a37a-bbe9faccbcfa",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 乌兹别克三兄弟中负责建新房的大兄弟在最后筹备阶段面临的主要挑战有哪些？\n2. 新闻报道中提到的乌兹别克三兄弟盖房事件发生在哪个具体地区，以及此次建房计划预计何时完成？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017266,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 55,
+            "prompt_tokens": 4857,
+            "total_tokens": 4912,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    }
+]

@@ -1,0 +1,312 @@
+[
+    {
+        "id": "20250303215107b38d3b2bb5494b61",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. **第72旅休整期间进行了哪些具体的重组和训练措施，以提升其战斗力？**\n   \n2. **在乌军第72旅重新投入战场后，俄军采取了哪些针对性的战术调整或部署变化以应对其回归？**",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009871,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 56,
+            "prompt_tokens": 3593,
+            "total_tokens": 3649,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303215107b38d3b2bb5494b61"
+    },
+    {
+        "id": "20250303215118a2d853d285884d4f",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 该枚324毫米鱼雷在昆州海岸冲上的具体时间和地点是什么？是否有人员伤亡或财产损失的报告？\n2. 澳大利亚海军此次训练弹的使用背景是什么？该型号鱼雷在澳海军训练中的使用频率和主要用途有哪些？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009881,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 61,
+            "prompt_tokens": 1470,
+            "total_tokens": 1531,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303215118a2d853d285884d4f"
+    },
+    {
+        "id": "202503032151285bff90889e744600",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. **关于076两栖攻击舰的电磁弹射系统具体参数和技术成熟度，目前有哪些公开数据和信息？**\n   \n2. **在现有公开资料中，076两栖攻击舰的满载排水量和甲板设计能否支持未来搭载歼-35和空警-600，具体的技术和设计瓶颈是什么？**",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009893,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 75,
+            "prompt_tokens": 3055,
+            "total_tokens": 3130,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032151285bff90889e744600"
+    },
+    {
+        "id": "2025030321514182b4c7d9eece4d65",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在此次重型装甲实弹训练中，具体有哪些类型的装甲车辆参与了实弹射击？每种类型的装甲车辆分别完成了多少次射击任务？\n\n2. 训练中，合成化作战的具体表现形式有哪些？能否提供详细的作战编组构成以及各编组在训练中的具体任务和表现数据？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009905,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 68,
+            "prompt_tokens": 3523,
+            "total_tokens": 3591,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030321514182b4c7d9eece4d65"
+    },
+    {
+        "id": "20250303215151b188681e3cf84fe9",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. **北约对乌克兰战争的援助规模与深圳华强北电子市场的年交易额对比数据是什么？**\n2. **在乌克兰战争中，北约提供的军事装备类型及其数量与深圳华强北市场上同类产品的供应能力有何差异？**",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009917,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 54,
+            "prompt_tokens": 2783,
+            "total_tokens": 2837,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303215151b188681e3cf84fe9"
+    },
+    {
+        "id": "202503032152042a2b19569d634609",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 蒋林峰在两会期间提出的关于提升军队备战打仗能力的具体建议有哪些，这些建议在两会期间获得了怎样的反响和讨论？\n\n2. 蒋林峰作为特种兵指导员，在两会结束后如何将两会精神具体融入到其所在部队的训练和日常管理中，有哪些具体的实施措施和初步成效？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009928,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 73,
+            "prompt_tokens": 2391,
+            "total_tokens": 2464,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032152042a2b19569d634609"
+    },
+    {
+        "id": "202503032152144c84c6594cba4e61",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "**问题1：** 该新闻报道中提到的库尔斯克州妇女的姓名及其丈夫被枪杀的具体时间和地点是什么？\n\n**问题2：** 在该事件中，乌军士兵枪杀妇女丈夫的具体原因和经过是如何描述的？是否有目击者或其他证据支持这一说法？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009937,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 63,
+            "prompt_tokens": 562,
+            "total_tokens": 625,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032152144c84c6594cba4e61"
+    },
+    {
+        "id": "20250303215225a09e4cabb22a4211",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在美航母抵达冲绳海域期间，中国侦察机进行了多少次侦察飞行，每次飞行的持续时间和飞行路径是怎样的？\n2. 中国侦察机在侦察美航母过程中，使用了哪些侦察技术和设备，获取了哪些具体情报信息，这些情报对中方有何战略意义？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009949,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 63,
+            "prompt_tokens": 3516,
+            "total_tokens": 3579,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303215225a09e4cabb22a4211"
+    },
+    {
+        "id": "202503032152369bcc0334269b4e5f",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在美日联合演习期间，中国派出的攻击无人机具体型号、数量以及部署位置是什么？这些无人机的作战半径和携带的武器系统是否足以覆盖至九州地区？\n\n2. 根据公开情报，美日在琉球进行的军事演习涉及哪些具体科目和兵力规模？中国无人机出现在该区域的频率和持续时间如何，是否与演习活动存在直接的时间对应关系？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009960,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 85,
+            "prompt_tokens": 105,
+            "total_tokens": 190,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032152369bcc0334269b4e5f"
+    },
+    {
+        "id": "2025030321524761c2ca20b93f4983",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 107特遣队在澳洲南部作业的具体时间范围是什么，以及此次作业的主要任务和目标是什么？\n\n2. 在107特遣队之前的澳洲南部作业中，他们进行了几次实弹射击，每次射击的具体日期、地点和使用的武器装备类型是什么？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009969,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 59,
+            "prompt_tokens": 106,
+            "total_tokens": 165,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030321524761c2ca20b93f4983"
+    }
+]

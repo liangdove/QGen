@@ -1,0 +1,302 @@
+[
+    {
+        "id": "chatcmpl-661a0d90-8baf-9111-8202-cf7846caf4f1",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据最近的报道，大S女儿与父亲汪小菲之间的关系出现了何种变化，这种变化具体体现在哪些行为或事件上？\n2. 最新的消息中提到大S女儿近况令人担忧，公众和媒体对于这种情况表达了怎样的关切，是否有提及导致这一状况的具体原因？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016197,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 66,
+            "prompt_tokens": 717,
+            "total_tokens": 783,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-bd26c821-7852-9e46-a2af-d0f7373f88b2",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 《以法之名》这部36集政法大剧在央视一套首播的具体日期是什么时候，该剧接档的是哪一部电视剧？\n2. 《以法之名》首播时的收视情况如何，是否确实如报道中提到的一样，在全国范围内取得了第一的位置？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016211,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 67,
+            "prompt_tokens": 795,
+            "total_tokens": 862,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-11d89df9-1a9f-9ad0-ab7f-390b7ba0693b",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据新闻内容，《哪吒2》在没有高关注度影片竞争的情况下预计还能保持日冠多少天，以及这部动画电影已经打破了哪些纪录？\n2. 新闻中提到的好莱坞科幻大片《阿凡达2》在中国内地市场连续获得票房日冠的具体天数是多少，与《哪吒2》的预期成绩相比如何？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016226,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 78,
+            "prompt_tokens": 708,
+            "total_tokens": 786,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-833d9ea2-f8ed-91b3-8dfc-dd13aac3bed9",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 陈思澈在微博上发文提到的被背叛次数具体是多少次？\n2. 陈思澈发布关于个人情感痛苦和耳鸣症状微博的具体日期是什么时候？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016240,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 40,
+            "prompt_tokens": 718,
+            "total_tokens": 758,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-e6c49e79-4a38-9f28-81b7-98f9b9f25ea3",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在2025年1月21日发布的新闻中，刘晓庆参与的节目《导演请指教》里具体是哪一集或者哪一个环节出现了刘晓庆对李诚儒进行花式调侃的内容？\n2. 刘晓庆在节目中提到“终于落到我手上了，我要疯狂调侃”时，所处的具体情境是什么样的，以及该段调侃持续了多长时间？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016255,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 90,
+            "prompt_tokens": 628,
+            "total_tokens": 718,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-cea4afc6-3408-9775-ac17-b308ddc30a7b",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 刀郎当选人大代表的消息公布后，那英评论区的互动量达到了何种程度以至于提及了吉尼斯纪录？具体数字是多少？\n2. 在刀郎当选人大代表的相关报道中，提到的“如今差距不言而喻”指的是哪方面的差距，是否有具体的数据或指标来量化这种差距？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016265,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 68,
+            "prompt_tokens": 656,
+            "total_tokens": 724,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-e7619d5c-43ee-97d3-b5c0-8329e42e4b63",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "方大同与薛凯琪之间保持友谊多少年？\n\n根据新闻报道，薛凯琪对于方大同的去世表达了怎样的情感反应？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016275,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 32,
+            "prompt_tokens": 736,
+            "total_tokens": 768,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-8ea53a95-39f0-9657-8f4b-c368151b8b86",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 韩国顶级财阀之子在中国旅行期间尝试了多少种中国地方特色美食，这些经历如何改变了对食物的态度？\n2. 新西游记节目组记录了韩国顶级财阀之子在中国的饮食体验，具体是在哪些城市进行拍摄，节目中展示了哪些特别的食物让嘉宾感到惊喜？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016288,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 68,
+            "prompt_tokens": 695,
+            "total_tokens": 763,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-17f057be-d0bf-9dcd-96af-bb3337b7e047",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 刀郎在上海演唱会中致敬共产党诞生地时演唱了哪些具体的红歌？\n2. 上海演唱会作为刀郎巡演的一部分，具体是在哪一天举行的，有多少观众到场支持？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016301,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 43,
+            "prompt_tokens": 714,
+            "total_tokens": 757,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-16e39601-2ed2-9815-960a-c104c29ce48a",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在2025年开年的两个月内，娱乐圈具体有哪些人物因为与“欲望”相关的事件导致了个人口碑的下滑？\n2. 2025年初涉及口碑跌落的五位娱乐界人士中，每位人物所遭遇的具体情况是什么，这些情况如何与“欲望”这一主题相关联？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016318,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 71,
+            "prompt_tokens": 693,
+            "total_tokens": 764,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    }
+]

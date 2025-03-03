@@ -1,0 +1,302 @@
+[
+    {
+        "id": "chatcmpl-5568621e-522c-97db-88a8-35e137e22c9d",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在新闻报道中提到的DeepSeek AI助教被引入高校后，具体有多少所高校接入了这项技术？\n2. DeepSeek AI助教上岗之后，为学生提供的主要服务包括哪些方面？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017279,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 46,
+            "prompt_tokens": 648,
+            "total_tokens": 694,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-f53e8d5e-feaa-9bc0-9786-08815ae287c6",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 关于“千万不要养出一个道德感太强的孩子”的观点，最早出现在哪个日期的讨论中？\n2. 在关于“不要只教孩子讲道德，而是给灌输强者思维”的讨论里，提到了担心孩子的哪些具体行为会导致内耗？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017294,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 58,
+            "prompt_tokens": 610,
+            "total_tokens": 668,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-21e86064-f1d1-9122-9a3a-6ca25f2e84ab",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据DeepSeek选出的压力最大职业排名，中小学教师位列前三的具体原因有哪些？\n2. DeepSeek进行压力最大职业评选时，所依据的评价标准和数据来源是什么？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017305,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 42,
+            "prompt_tokens": 632,
+            "total_tokens": 674,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-8f8b8710-5c49-97a4-9537-89bd7ea27e98",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 南部战区公开招考文职人员面试考核的具体日期是什么时候，体检又安排在哪一天进行？\n2. 在南部战区组织的文职人员招录体检过程中，对于参与体检的考生有哪些具体的准备要求和注意事项？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017320,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 55,
+            "prompt_tokens": 653,
+            "total_tokens": 708,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-a565642a-95f8-93e5-8a24-dca20b8476f3",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据科学研究，父母对孩子智商遗传影响的具体差异百分比是多少？\n2. 在讨论孩子智商遗传因素时，提到如果父母的智商远高于平均水平，子女智商会出现怎样的趋势？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017334,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 44,
+            "prompt_tokens": 602,
+            "total_tokens": 646,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-908976e1-69cf-97fa-9345-d10582732318",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. C919商用飞机达到第100万名乘客的具体日期是什么时候，从开始商业运营到实现这一里程碑用了多长时间？\n2. C919商用飞机在设计上采用了哪些新型高新材料，这些材料如何帮助C919相较于同类机型节省约10%的燃油？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017348,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 68,
+            "prompt_tokens": 617,
+            "total_tokens": 685,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-9116c406-2807-97df-b30c-0cb7ecc87a27",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据关于“习惯性愚钝”的讨论，教育专家提到哪些具体的行为模式可能导致孩子出现这种现象？\n2. 在相关报道中，科学家进行的实验如何解释“习惯性愚蠢”这一概念，并且该实验揭示了何种学习或行为上的教训？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017362,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 60,
+            "prompt_tokens": 705,
+            "total_tokens": 765,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-e5b8486a-9cd7-9cad-b136-abc5a3b05c9e",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 上海校园午餐AB制全面落地的时间是什么时候，以及该制度覆盖了哪些范围内的学校？\n2. 在上海实施的校园午餐AB制中，学生和家长如何提前得知菜谱信息并完成选餐过程？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017375,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 51,
+            "prompt_tokens": 667,
+            "total_tokens": 718,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-956af003-8895-9275-a56d-6f64905a98a8",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据最近的报道，台湾教育主管部门禁止了与被称为“国防七子”的大陆高校之间的交流活动，这7所高校具体包括哪些大学？\n2. 台湾当局提出禁止岛内大学与特定大陆高校交流合作的理由是什么？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017391,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 55,
+            "prompt_tokens": 634,
+            "total_tokens": 689,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-c1868f0f-1400-93c2-86ee-b218e3a0ee01",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在讨论坚持“四条原则”以帮助孩子减少手机使用的内容中，具体提到了哪些原则，每项原则背后的理论依据是什么？\n2. 针对让孩子放下手机的教育方法，相关资料中提及的家庭教育指导师建议家长采取哪四种活动，并且如果持续执行这些建议一个月后预期会看到怎样的变化？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017408,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 78,
+            "prompt_tokens": 598,
+            "total_tokens": 676,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    }
+]

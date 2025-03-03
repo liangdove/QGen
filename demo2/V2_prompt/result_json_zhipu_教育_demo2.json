@@ -1,0 +1,312 @@
+[
+    {
+        "id": "20250303223559b59dcdfd5b03410b",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在多所高校接入DeepSeek AI助教的过程中，具体有多少所高校已经成功部署并使用了该系统？这些高校在部署DeepSeek AI助教后，学生的提问频率和问题解决效率分别提升了多少百分比？\n\n2. DeepSeek AI助教在不同高校的应用场景中，具体涵盖了哪些学科领域？各学科领域在使用DeepSeek AI助教后，教师的教学负担减轻了多少，以及学生的自主学习能力提升了多少？是否有具体的数据支持这些变化？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741012563,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 101,
+            "prompt_tokens": 2223,
+            "total_tokens": 2324,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303223559b59dcdfd5b03410b"
+    },
+    {
+        "id": "202503032236111938395c37cb4ab6",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在新闻事件中，提到“千万不要养出一个道德感太强的孩子”这一观点的专家或学者是基于哪些具体案例或研究数据得出这一结论的？\n2. 新闻报道中，关于“道德感太强的孩子”在教育和社会适应方面所面临的挑战，提供了哪些具体的统计数据或实例分析？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741012574,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 68,
+            "prompt_tokens": 2703,
+            "total_tokens": 2771,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032236111938395c37cb4ab6"
+    },
+    {
+        "id": "20250303223623f7d94d17be914586",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. DeepSeek发布的最新职业压力排名中，中小学教师位列前三的具体数据是多少？该排名是基于哪些具体的评估指标和调查方法得出的？\n\n2. 在DeepSeek的职业压力排名中，中小学教师位列前三的原因是什么？与其他压力较大的职业相比，中小学教师在哪些方面的压力表现尤为突出？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741012585,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 65,
+            "prompt_tokens": 1005,
+            "total_tokens": 1070,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303223623f7d94d17be914586"
+    },
+    {
+        "id": "2025030322363213aa17bc8fc245b2",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 南部战区2024年公开招考文职人员的面试体检具体安排包括哪些环节和时间节点，以及考生需要准备哪些相关材料？\n\n2. 南部战区2024年公开招考文职人员的面试体检标准有哪些具体要求，以及如何确保面试体检过程的公平公正和透明度？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741012595,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 69,
+            "prompt_tokens": 2436,
+            "total_tokens": 2505,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030322363213aa17bc8fc245b2"
+    },
+    {
+        "id": "2025030322364187cb49aaedb948c7",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据最新科学研究，智商的遗传率大约在什么范围内，并且具体有哪些研究指出父亲或母亲的基因对子女智商的不同影响？\n\n2. 在探讨孩子智商发展过程中，除了遗传因素，环境因素如家庭教育、学校教育和社会经济地位等如何具体影响孩子的智力发展，并且有哪些实证研究支持这些观点？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741012605,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 73,
+            "prompt_tokens": 2637,
+            "total_tokens": 2710,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030322364187cb49aaedb948c7"
+    },
+    {
+        "id": "20250303223653c68d3fdbacd24cb1",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据最新的新闻报道，C919在一年半的时间内实现了载客量破百万的里程碑，请问这一数据是如何统计和验证的？具体的时间范围和统计数据来源是什么？\n\n2. 鉴于C919在短时间内达到载客量破百万的成绩，这一成就对打破多年来外界对其技术和市场前景的质疑起到了怎样的作用？是否有具体的数据或案例分析来支持这一观点？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741012617,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 87,
+            "prompt_tokens": 2853,
+            "total_tokens": 2940,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303223653c68d3fdbacd24cb1"
+    },
+    {
+        "id": "20250303223705ef7dc06c5b5b4d4b",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在报道中提到的“习惯性愚钝”现象，具体有多少比例的儿童被认为受到了该现象的影响？相关研究或调查提供了哪些具体数据来支持这一结论？\n\n2. 针对家长行为对孩子“习惯性愚钝”现象的影响，研究或专家分析中列举了哪些具体的家长行为？这些行为分别对孩子智力发展或自信心建立产生了怎样的量化影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741012631,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 84,
+            "prompt_tokens": 2788,
+            "total_tokens": 2872,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303223705ef7dc06c5b5b4d4b"
+    },
+    {
+        "id": "20250303223720a7fde5f3361244b5",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 上海市中小学校全面实施AB制午餐模式后，学生剩饭剩菜量相较于实施前减少了多少百分比？这一变化是否与学生对午餐满意度的提升存在显著相关性？\n\n2. 在上海推行校园午餐AB制的过程中，哪些具体措施（如食品安全追溯小程序应用、AI技术监管等）对提升食品安全管理水平起到了关键作用，并且这些措施实施后食品安全事故的发生率有何变化？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741012644,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 87,
+            "prompt_tokens": 2286,
+            "total_tokens": 2373,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303223720a7fde5f3361244b5"
+    },
+    {
+        "id": "20250303223730ec2086ee29b14352",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据台湾地区最新发布的禁止大陆高校交流名单，南京航空航天大学和南京理工大学被列入其中的具体原因是什么，这一决定对两岸学术交流的具体影响有哪些？\n\n2. 在台湾地区禁止南京航空航天大学和南京理工大学等大陆高校进行交流的背景下，大陆方面采取了哪些应对措施来维护两岸学术交流的正常进行，这些措施预计将对两岸关系产生怎样的长远影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741012654,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 85,
+            "prompt_tokens": 97,
+            "total_tokens": 182,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303223730ec2086ee29b14352"
+    },
+    {
+        "id": "202503032237458b4ca8f65bc545d9",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在“坚持‘四条原则’，让孩子放下手机”的讨论中，有多少比例的家长表示通过发现孩子的兴趣并引导其参与相关活动，成功减少了孩子对手机的依赖？\n\n2. 根据调查数据，在实施“坚持‘四条原则’，让孩子放下手机”的家庭中，有多少孩子在规定的时间内能够自觉遵守手机使用规则，并且其学业成绩和心理健康状况有何显著变化？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741012669,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 89,
+            "prompt_tokens": 2636,
+            "total_tokens": 2725,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032237458b4ca8f65bc545d9"
+    }
+]

@@ -1,0 +1,312 @@
+[
+    {
+        "id": "20250303222536f73b932033314dcf",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在《魔兽世界》Plus服2月28日热修中，盗贼职业的T1坦克套装提供的伤害减免从50%下调至20%，这一调整对盗贼在NAXX团本中的生存能力和输出表现具体产生了哪些量化影响？\n\n2. 《魔兽世界》Plus服2月28日热修中对战士、术士、德鲁伊T3坦克套装的动态刷新机制进行了调整，这一改动如何具体改变了这些职业在NAXX团本中的坦克表现，并对比分析了调整前后这些职业的坦克能力变化数据？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011941,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 123,
+            "prompt_tokens": 510,
+            "total_tokens": 633,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303222536f73b932033314dcf"
+    },
+    {
+        "id": "20250303222548bc794acb875d4f6e",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在“任天堂最宏大制作登场，一波佳作小爆发！【3月游戏推荐】”的新闻报道中，哪些具体游戏作品被列为推荐名单？这些游戏的类型和主要特色分别是什么？\n\n2. “任天堂最宏大制作登场，一波佳作小爆发！【3月游戏推荐】”的新闻报道中，提到的这些游戏作品在玩家社区和媒体评测中的初步反响如何？具体评分和评论亮点有哪些？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011953,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 95,
+            "prompt_tokens": 1995,
+            "total_tokens": 2090,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303222548bc794acb875d4f6e"
+    },
+    {
+        "id": "202503032226011e35ce3ae68a4d3e",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在LPL第一赛段比赛中，TES以何种战绩击败AL并晋级全球先锋赛，这一战绩在LPL季后赛BO5中是否创造了新的记录？\n2. 韩国网友对TES选手369在对阵Zeus时的表现持何种态度，这种态度是否反映了他们对TES在国际赛中的整体期望？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011965,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 72,
+            "prompt_tokens": 3247,
+            "total_tokens": 3319,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032226011e35ce3ae68a4d3e"
+    },
+    {
+        "id": "20250303222611f1c234350e5249fb",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在“街霸2:中韩战20强杀人鞭尸,罕见bug侮辱吸血鬼”事件中，具体是哪位选手利用了罕见的bug，并且该bug是如何在比赛中被触发和影响比赛结果的？\n\n2. 针对“街霸2:中韩战20强杀人鞭尸,罕见bug侮辱吸血鬼”事件，赛事主办方采取了哪些具体措施来应对和处理这一bug，以及这一事件对后续赛事规则和bug修复策略产生了哪些具体影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011975,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 104,
+            "prompt_tokens": 103,
+            "total_tokens": 207,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303222611f1c234350e5249fb"
+    },
+    {
+        "id": "2025030322262229be29dac1d84df9",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在“LPL决赛暂停原因曝光：选手电脑突然断网”事件中，具体是哪位选手的电脑出现了断网问题，并且这一技术故障对比赛进程和结果产生了哪些具体影响？\n\n2. “世界冠军参加时光杯”这一事件中，参赛的世界冠军是哪位选手或哪支队伍，他们在时光杯中的表现如何，以及这一参赛行为对LPL赛区和该选手或队伍的未来发展有何潜在影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011986,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 99,
+            "prompt_tokens": 782,
+            "total_tokens": 881,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030322262229be29dac1d84df9"
+    },
+    {
+        "id": "2025030322263326a1e99bc5214bd9",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在《王者荣耀》游戏中，女娲作为当前版本中路强势英雄，其超远技能范围和全图支援能力被广泛讨论。请问，根据最新的游戏数据，女娲在高端局中的胜率和出场率分别是多少？与去年同期相比，这些数据有何变化？\n\n2. 针对敌方秒选女娲的情况，推荐使用武则天和不知火舞等英雄进行克制。请问，根据最新的游戏统计数据，武则天和不知火舞在对阵女娲时的胜率分别是多少？这些克制策略在实际对局中的应用效果如何？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011998,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 125,
+            "prompt_tokens": 3196,
+            "total_tokens": 3321,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030322263326a1e99bc5214bd9"
+    },
+    {
+        "id": "20250303222647c37f2bdf042d4796",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在2024年KPL春季赛收官战中，一诺选手在哪些关键比赛时刻出现了掉点情况，这些掉点对AG超玩会的比赛结果产生了怎样的具体影响？\n\n2. 鉴于AG超玩会在收官战中的表现及最终排名，分析其被分配至A组后，对A组整体收视率及竞技水平可能带来的变化，以及DYG战队在当前赛季遭遇五连败的原因及后续应对策略。",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741012012,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 98,
+            "prompt_tokens": 2838,
+            "total_tokens": 2936,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303222647c37f2bdf042d4796"
+    },
+    {
+        "id": "20250303222700df4c34dee51e4553",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在2025年3月Switch新游戏发售表中，任天堂大作《异度神剑X：终极版》的预售情况如何？其预售量与前作《异度神剑X》相比有何显著变化？\n\n2. 《异度神剑X：终极版》在2025年3月Switch新游戏发售表中占据何种市场地位？其发布对Switch平台整体游戏销量及用户活跃度产生了哪些具体影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741012023,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 97,
+            "prompt_tokens": 111,
+            "total_tokens": 208,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303222700df4c34dee51e4553"
+    },
+    {
+        "id": "20250303222709cdbc1ec18cc64715",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在《斗破苍穹》最新剧情中，萧潇展现出的孝心具体体现在哪些行为和情节上，这些行为和情节对她的角色塑造和故事发展有何重要影响？\n\n2. 《斗破苍穹》中药灵戏份的增加是如何影响药族未来的发展轨迹的，药灵与萧潇之间的互动和合作在药族未来的领导层更迭中扮演了怎样的关键角色？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741012032,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 91,
+            "prompt_tokens": 697,
+            "total_tokens": 788,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303222709cdbc1ec18cc64715"
+    },
+    {
+        "id": "20250303222718a967b09b48084e5f",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在“Bin遭遇史上最严厉清算”事件中，LPL官方高层对Bin的具体处罚措施有哪些，这些措施对Bin的职业前景和战队表现产生了哪些直接影响？\n\n2. 朱开在直播中爆料的“LPL官方高层已经气炸了”这一说法，是基于哪些具体事件或行为，这些事件或行为在LPL社区和粉丝群体中引发了怎样的反响和讨论？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741012045,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 87,
+            "prompt_tokens": 2790,
+            "total_tokens": 2877,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303222718a967b09b48084e5f"
+    }
+]

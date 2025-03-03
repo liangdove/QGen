@@ -1,0 +1,312 @@
+[
+    {
+        "id": "202503032219244375b30d6b524736",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据近期新闻报道，大S女儿小玥儿在与父亲汪小菲的互动中表现出哪些具体行为，显示出她与父亲之间的感情变化？这些行为与以往相比有何显著差异？\n\n2. 在大S去世后，汪小菲如何安排与小玥儿的相处时间，以及采取了哪些措施来维护和改善父女关系？这些安排和措施是否得到了外界和家庭成员的认可和支持？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011568,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 90,
+            "prompt_tokens": 2285,
+            "total_tokens": 2375,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032219244375b30d6b524736"
+    },
+    {
+        "id": "20250303221938f0358490a29f4067",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 《大河之水》在央视八套黄金档首播后的收视率与同期其他电视剧相比，具体数据如何？这部剧的高收视率是否与其大胆的题材和尺度有直接关联？\n\n2. 《大河之水》作为一部涉案题材电视剧，其剧情和角色设定在观众中的口碑如何？这部剧在社交媒体上的讨论热度及观众评价的主要关注点是什么？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011581,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 81,
+            "prompt_tokens": 1225,
+            "total_tokens": 1306,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303221938f0358490a29f4067"
+    },
+    {
+        "id": "20250303221947a76de19fcc6345d9",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 《哪吒2》在上映至今的累计票房是多少？与第一部《哪吒》相比，其票房增长的主要驱动力是什么？\n\n2. 周冬雨主演的电影在同一档期内对《哪吒2》的票房产生了怎样的影响？从市场表现和观众反馈来看，这种竞争对两部电影的口碑和后续票房走势分别有何具体影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011590,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 80,
+            "prompt_tokens": 110,
+            "total_tokens": 190,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303221947a76de19fcc6345d9"
+    },
+    {
+        "id": "202503032219592dcff326203f4332",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据郑业成与陈思澈事件的相关报道，郑业成被拍到与某女生在游乐园游玩的具体日期是什么时候，陈思澈在微博上发布控诉文字的时间与郑业成被拍到的时间间隔有多久？\n\n2. 在郑业成工作室针对“劈腿”传闻发表的声明中，工作室是否明确提及了郑业成与陈思澈的恋爱关系起始和结束的具体时间，以及声明中提到的将对恶意传播谣言者保留追究法律责任的权利具体指哪些法律条款？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011603,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 113,
+            "prompt_tokens": 1527,
+            "total_tokens": 1640,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032219592dcff326203f4332"
+    },
+    {
+        "id": "20250303222009eaeb990cef684906",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在刘晓庆花式调侃李诚儒的事件中，网络上关于两人互动的具体内容及其引发网友热议的程度和主要观点有哪些？\n2. 刘晓庆调侃李诚儒的事件在社交媒体上的传播范围和影响力如何，以及该事件对刘晓庆和李诚儒个人形象及公众认知产生了哪些具体影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011613,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 72,
+            "prompt_tokens": 2769,
+            "total_tokens": 2841,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303222009eaeb990cef684906"
+    },
+    {
+        "id": "20250303222020962706c009a946df",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在“刀郎当选成都市人大代表”这一新闻事件中，刀郎的音乐成就及其对成都音乐产业发展的具体贡献有哪些数据支撑？请提供相关的统计数据和具体事例。\n\n2. 针对“那英评论区创作吉尼斯纪录”的现象，能否提供那英评论区创纪录的具体数据（如评论数量、时间跨度等），并分析这一现象与刀郎当选人大代表事件在社交媒体影响力和公众关注度方面的差异？请结合具体数据和案例进行说明。",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011626,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 101,
+            "prompt_tokens": 1718,
+            "total_tokens": 1819,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303222020962706c009a946df"
+    },
+    {
+        "id": "20250303222036886857a6dd654ae0",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 方大同与薛凯琪长达20年的友谊中，有哪些具体事件和细节体现了他们之间深厚的情感纽带，以及这些事件对薛凯琪在方大同去世后的情感反应产生了怎样的影响？\n\n2. 在方大同因病去世后，薛凯琪通过哪些具体行为和方式表达了对挚友的缅怀与悼念，这些行为反映了她内心怎样的情感波动，以及公众对此有何种反响和讨论？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011641,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 92,
+            "prompt_tokens": 3210,
+            "total_tokens": 3302,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303222036886857a6dd654ae0"
+    },
+    {
+        "id": "20250303222047af77e40f5cf04757",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 韩国顶级财阀之子殷志源在中国街头品尝拌面时，表现出极大的喜爱，这与他在韩国对食物的挑剔态度形成鲜明对比。请问，韩国美食在国际上的评价如何，以及韩国政府为提升其美食文化形象采取了哪些具体措施？\n\n2. 殷志源作为韩国顶级财阀家族成员，其生活背景和饮食习惯在韩国社会中具有代表性。请问，韩国财阀家族的生活方式和饮食习惯对韩国普通民众的生活产生了哪些影响，以及这种现象反映了韩国社会哪些深层次的问题？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011652,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 115,
+            "prompt_tokens": 2949,
+            "total_tokens": 3064,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303222047af77e40f5cf04757"
+    },
+    {
+        "id": "202503032220593a88d08954af4bc4",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 刀郎在上海演唱会上演唱了多少首红歌，这些红歌的选择与上海作为共产党诞生地的历史背景有何关联？\n\n2. 刀郎演唱会将红歌作为主要内容的做法，在观众群体中引发了怎样的反响，具体体现在社交媒体上的讨论量和正面评价的比例是多少？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011663,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 64,
+            "prompt_tokens": 2890,
+            "total_tokens": 2954,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032220593a88d08954af4bc4"
+    },
+    {
+        "id": "20250303222110e3111782f50f4448",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在2025年第一季度内，娱乐圈中哪些五位知名人士因涉及“欲望”相关争议而导致其公众形象和口碑显著下滑，具体涉及哪些具体事件和争议点？\n\n2. 针对娱乐圈2025年初连续五位知名人士因“欲望”问题口碑跌落的现象，分析这种现象背后的社会文化因素、媒体传播机制以及公众舆论反应，对娱乐圈生态和公众人物形象管理产生了哪些具体影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741011673,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 94,
+            "prompt_tokens": 639,
+            "total_tokens": 733,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303222110e3111782f50f4448"
+    }
+]

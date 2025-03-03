@@ -162,7 +162,6 @@ if __name__ == "__main__":
     current_date = datetime.now().strftime("%Y-%m-%d")
 
     file_dict = {
-
         "娱乐": "demo/qq_ent.txt",
         "电竞": "demo/qq_esports.txt",
         "财经": "demo/qq_finance.txt",

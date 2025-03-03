@@ -1,0 +1,312 @@
+[
+    {
+        "id": "20250303215508497b60a61a4d4822",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在巴基斯坦小船运送大型收割机过黄河的事件中，具体是在黄河的哪个河段进行的？该河段的平均水深和流速是多少，这些数据如何影响了祭祀河神以确保安全的行为？\n\n2. 该纪录片中提到的巴基斯坦小船运送的大型收割机的具体型号是什么？其重量和尺寸数据是多少？与黄河上常规船只的承载能力相比，这次运输任务的超负荷比例是多少，这对祭祀河神的传统习俗有何影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741010113,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 97,
+            "prompt_tokens": 108,
+            "total_tokens": 205,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303215508497b60a61a4d4822"
+    },
+    {
+        "id": "2025030321551971cc3f98b60f4263",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. **萨尔瓦多主要河流的水质监测数据在近五年内有哪些显著变化？具体污染物种类及其浓度变化情况如何？**\n\n2. **萨尔瓦多政府针对河流污染问题采取了哪些具体治理措施？这些措施实施后，相关河流的水质改善情况及对当地居民生活的影响有哪些具体数据支持？**",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741010124,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 72,
+            "prompt_tokens": 3120,
+            "total_tokens": 3192,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030321551971cc3f98b60f4263"
+    },
+    {
+        "id": "202503032155337e8047ee8b764237",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. **关于中国新建大使馆计划的具体数据：** 中国计划在英国新建的大使馆预计占地面积是多少平方米？该面积与美国驻伦敦大使馆的面积相比如何？\n\n2. **关于被中方制裁的美国官员的相关数据：** 被中方制裁的美国官员具体是谁？他在何种情况下被制裁，以及制裁的具体措施包括哪些？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741010136,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 72,
+            "prompt_tokens": 2824,
+            "total_tokens": 2896,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032155337e8047ee8b764237"
+    },
+    {
+        "id": "202503032155473359fb982d9d48cd",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. **该事件中，失踪的一家四口在沙漠中被发现的具体时间和地点是什么？警方在调查过程中发现了哪些关键线索或证据？**\n   \n2. **失踪的一家四口在被发现时，具体的死因和死状是如何描述的？在这三年期间，他们是否有过求生的尝试，现场有哪些痕迹可以证明这一点？**",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741010151,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 75,
+            "prompt_tokens": 3338,
+            "total_tokens": 3413,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032155473359fb982d9d48cd"
+    },
+    {
+        "id": "2025030321560088ec8fb788c84ee9",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在腾讯新闻上关于“父亲为儿子自制机器人视频引热议 获外交部发言人转发”的讨论中，该视频发布后24小时内获得了多少次的观看量和转发量？\n\n2. 请问在该事件中，外交部发言人毛宁在社交媒体上转发该视频的具体时间是什么时候，以及该转发行为引发了多少条评论和多少个点赞？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741010163,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 78,
+            "prompt_tokens": 546,
+            "total_tokens": 624,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030321560088ec8fb788c84ee9"
+    },
+    {
+        "id": "202503032156126c09aebe0a7847df",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据腾讯新闻报道，近年来选择成为海女的年轻女性数量具体增加了多少？与过去相比，这一增长趋势在哪些年龄段最为显著？\n\n2. 在腾讯新闻提到的“逃离济州岛海女宿命”的现象中，能否提供具体数据说明过去多少比例的年轻女性离开了济州岛，以及目前有多少比例的年轻女性选择回归并成为海女？这一转变背后的主要社会经济因素是什么？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741010176,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 92,
+            "prompt_tokens": 2919,
+            "total_tokens": 3011,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032156126c09aebe0a7847df"
+    },
+    {
+        "id": "2025030321562356ff26a1505b4a8d",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. **阿富汗女生对现代科学教育的具体需求和期望是什么？有哪些具体学科或领域受到她们的特别关注？**\n   \n2. **塔利班对于女生学习现代科学的官方立场和政策有哪些？目前是否有具体的措施或计划来满足女生的这一需求？**",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741010187,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 57,
+            "prompt_tokens": 2901,
+            "total_tokens": 2958,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030321562356ff26a1505b4a8d"
+    },
+    {
+        "id": "20250303215636bb65f73843dd4316",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 安-225运输机在乌克兰基辅起飞飞往德国莱比锡市的首次商业飞行中，其货舱内装载的具体货物类型和重量是多少？\n\n2. 安-225运输机从修复完成到2024年3月1日期间，总共执行了多少次商业飞行任务，每次飞行的平均载重量是多少吨？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741010200,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 74,
+            "prompt_tokens": 3044,
+            "total_tokens": 3118,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303215636bb65f73843dd4316"
+    },
+    {
+        "id": "20250303215647947739a3f43e4d5c",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在腾讯新闻关于“小马科斯大骂老杜亲华”的报道中，小马科斯具体提出了哪些指责或批评杜特尔特家族亲华立场的言论？这些言论在菲律宾国内引发了怎样的舆论反应？\n\n2. 根据腾讯新闻的报道，中国因素在菲律宾政坛角力中扮演了怎样的角色？请列举具体事例说明中国因素如何影响了菲律宾国内政治势力间的博弈及其对南海局势的影响。",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741010212,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 100,
+            "prompt_tokens": 1884,
+            "total_tokens": 1984,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303215647947739a3f43e4d5c"
+    },
+    {
+        "id": "202503032157015c97974c9ba3492b",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在腾讯新闻关于“再次动用乌兹别克三兄弟盖房？大兄弟建新房进入最后筹备阶段”的报道中，乌兹别克三兄弟此次参与建房的具体时间安排和预计完成日期是什么？\n\n2. 根据腾讯新闻报道，大兄弟新房建设的最终预算是多少？与之前阿楠建房时的预算相比，有何差异？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741010223,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 78,
+            "prompt_tokens": 666,
+            "total_tokens": 744,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032157015c97974c9ba3492b"
+    }
+]

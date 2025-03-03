@@ -1,0 +1,312 @@
+[
+    {
+        "id": "202503032142388b77cfd8431443b4",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在AL战队这赛季的表现中，圣枪哥的个人战绩如何，特别是在与Viper未曾对战的比赛中，他的表现数据有哪些亮点？\n\n2. 关于“网友惋惜圣枪哥不能见到Viper”的讨论，能否提供该话题在社交媒体上的讨论量、热门观点以及相关话题的互动数据？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009361,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 71,
+            "prompt_tokens": 2948,
+            "total_tokens": 3019,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032142388b77cfd8431443b4"
+    },
+    {
+        "id": "202503032142520c4285fc940d420f",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在腾讯新闻关于“狼队晋级S组大魔王回归，滔搏被碾压狼队真崛起”的报道中，狼队在晋级S组的关键比赛中，具体是以多少比分的成绩击败滔搏的？这场比赛中，狼队哪些选手表现突出，分别获得了哪些关键数据（如击杀数、助攻数、MVP次数等）？\n\n2. 根据腾讯新闻的报道，狼队晋级S组后，其在常规赛的整体战绩如何？与同组的其他战队相比，狼队在哪些关键指标（如胜率、场均击杀、经济控制率等）上展现出明显的优势？同时，滔搏战队在被狼队碾压的比赛中有哪些数据表现，反映了其当时的竞技状态？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009378,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 155,
+            "prompt_tokens": 3024,
+            "total_tokens": 3179,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032142520c4285fc940d420f"
+    },
+    {
+        "id": "2025030321430539bbe74723bb4c11",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在腾讯新闻关于“球球再现精彩残局五发戍卫1V3”的报道中，球球完成这一操作的具体时间和比赛回合是多少？\n2. 该场比赛中，球球使用的英雄以及敌方三名被击败的英雄分别是哪些？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009390,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 58,
+            "prompt_tokens": 2575,
+            "total_tokens": 2633,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030321430539bbe74723bb4c11"
+    },
+    {
+        "id": "202503032143186882e9e268104529",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在“久违阿水可以说这么多话，网友：TES今年感觉强的可怕！”的讨论中，网友对TES的整体实力评价如何？具体有哪些数据和比赛表现支撑了这一观点？\n\n2. 针对阿水在讨论中的发言频率和内容，能否找到相关数据说明他在TES队内的沟通角色和作用？这与TES今年的战绩提升是否有直接关联？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009402,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 83,
+            "prompt_tokens": 1599,
+            "total_tokens": 1682,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032143186882e9e268104529"
+    },
+    {
+        "id": "20250303214330fd85949c2a304fe8",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在2025KPL春季赛中，深圳DYG.钎城（周诣涛）在常规赛第一轮的表现如何？具体包括他的击杀数、分均经济、分均伤害等关键数据。\n\n2. 深圳DYG在2025KPL春季赛常规赛第一轮的战绩如何？特别是在与西安WE的对战中，钎城（周诣涛）的表现有哪些亮点和不足？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009414,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 92,
+            "prompt_tokens": 1924,
+            "total_tokens": 2016,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303214330fd85949c2a304fe8"
+    },
+    {
+        "id": "202503032143439f2f8683e4e24908",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在Trent“期待与EDG的总决赛！”这一新闻事件中，Trent所在的战队在本次春季赛中的胜率和关键比赛中的表现数据是怎样的？\n\n2. EDG战队在本次春季赛中的平均KDA（击杀/死亡/助攻比）以及他们在对阵Trent所在战队时的历史战绩数据如何？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009427,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 73,
+            "prompt_tokens": 1053,
+            "total_tokens": 1126,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032143439f2f8683e4e24908"
+    },
+    {
+        "id": "202503032143531183af4a0f0640d0",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在腾讯新闻关于“可恶，拼尽全力也无法抵达吗？”的讨论中，有多少用户参与了评论，其中表达积极态度和消极态度的用户比例分别是多少？\n\n2. 该讨论话题在腾讯新闻平台上的热度如何？具体表现为多少阅读量、多少转发量和多少点赞量，并且这些数据在发布后的24小时内是如何变化的？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009437,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 76,
+            "prompt_tokens": 2943,
+            "total_tokens": 3019,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032143531183af4a0f0640d0"
+    },
+    {
+        "id": "20250303214407f31d39124c8f455f",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在腾讯新闻关于“济南RW侠.绝意（廖友侠）：放平心态，和兄弟们说我们是最棒的”的报道中，廖友侠是在哪一场比赛前后发表的这一言论？该场比赛的具体时间和对手是谁？\n\n2. 廖友侠（绝意）在发表“放平心态，和兄弟们说我们是最棒的”这一言论时，济南RW侠在当时的KPL联赛中排名如何？这一言论对随后队伍的比赛表现产生了怎样的影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009451,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 108,
+            "prompt_tokens": 1925,
+            "total_tokens": 2033,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303214407f31d39124c8f455f"
+    },
+    {
+        "id": "20250303214420c808ce68f9f64c52",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在TES对阵AL的首局比赛中，Kanavi使用蔚的击杀参与率是多少，以及他的关键团战表现对比赛胜利的贡献度如何量化？\n\n2. TES首局大胜AL的具体经济差和资源控制率（包括小龙、大龙、塔数等）分别是多少，这些数据如何反映出TES的战术布局和执行效率？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009464,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 80,
+            "prompt_tokens": 104,
+            "total_tokens": 184,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303214420c808ce68f9f64c52"
+    },
+    {
+        "id": "20250303214431e0e22dafb9d14bb4",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在该新闻发布后的24小时内，社交媒体上关于“康康 夜露 对决”这一话题的讨论量是多少？其中正面评价和负面评价的比例各占多少？\n\n2. 在电竞领域内，目前被公认为“最好的夜露使用者”的选手是谁？该选手在最近一次大型赛事中使用夜露角色的胜率是多少？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009474,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 77,
+            "prompt_tokens": 101,
+            "total_tokens": 178,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303214431e0e22dafb9d14bb4"
+    }
+]

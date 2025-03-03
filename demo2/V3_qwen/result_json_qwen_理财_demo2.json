@@ -1,0 +1,302 @@
+[
+    {
+        "id": "chatcmpl-9b0c8f28-3de7-9908-bf08-8942c3e601a5",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "深圳二手住宅网签量在11月达到7125套，环比增长了16.5%，创下近四年新高，这一数据背后反映了哪些市场变化趋势？\n\n在深圳楼市中，一手住宅预售网签量于11月份达到了8076套，环比上涨94.5%，成为最近10年以来的第二高点，这样的成交量激增对当地房地产市场的信心恢复有何具体体现？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016745,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 92,
+            "prompt_tokens": 678,
+            "total_tokens": 770,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-0ca85c0a-11e9-9c27-b53b-21200f7745bb",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "广东省此次发行的土地储备专项债总额是多少，计划用于多少个地级市的多少个项目中？\n\n土地储备专项债重启后，广东省内哪个城市的拟使用资金最多，具体金额为多少？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016760,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 43,
+            "prompt_tokens": 749,
+            "total_tokens": 792,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-42589c1c-d388-9975-89c2-d1d27c2ff083",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据国家金融监督管理总局发布的通知，港澳银行内地分行自2025年3月1日起可以开办哪些类型的银行卡业务？\n2. 国家金融监督管理总局允许港澳银行内地分行开展的新银行卡业务面向的客户群体具体包括哪些成员？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016774,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 59,
+            "prompt_tokens": 621,
+            "total_tokens": 680,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-03312991-b85d-9ec6-af25-ee16f9623a5b",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 武汉住房和城市更新工作会上提到的7条进出城通道具体是哪些道路，预计拓宽工程将在什么时间完成？\n2. 在武汉今年的城市更新计划中，除了拓宽7条进出城通道外，还有哪些重大项目被提及，这些项目的预期目标是什么？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016790,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 61,
+            "prompt_tokens": 668,
+            "total_tokens": 729,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-07dc1a2d-e8a8-9a41-82c9-4e3db400ef2d",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在“六折租房战”的背景下，哪些具体城市出台了相关政策，这些政策中包含的主要优惠措施有哪些？\n2. “六折租房战”对于低收入群体以及创业者群体分别带来了怎样的经济影响，相关报道是否提供了具体的案例或数据来说明这种影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016803,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 61,
+            "prompt_tokens": 616,
+            "total_tokens": 677,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-07b34bf6-1410-9782-8a8b-728b669bf9ee",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "根据新闻上关于“实物黄金需求上行，2025全球央行买金热持续”的讨论，设计如下两个问题：\n\n1. 2024年全球央行购金总量为多少吨，而瑞银对于2025年全球央行黄金购买量的预测是多少吨？\n2. 截至2025年初，中国已连续增持黄金多长时间，这一行为对全球黄金市场的需求曲线产生了何种影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016816,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 96,
+            "prompt_tokens": 709,
+            "total_tokens": 805,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-19dcdcd0-aee6-9734-aded-5470fd551a20",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据新闻报道，明略科技创始人吴明辉提到CEO的算法升级过程中经历的重大失败和挫折具体指哪些事件？\n2. 新闻中提及的吴明辉在创业历程中面对市场从狂热到理性回归的变化时，明略科技采取了何种策略应对投资过大项目失败以及市场低迷期？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016832,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 73,
+            "prompt_tokens": 631,
+            "total_tokens": 704,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-5067c84c-c2ee-9c7b-81e7-1efc442b32e0",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在药品价格整治行动中，江苏省挂网价格调整共涉及多少个药品品种，以及具体哪些知名药企被提及参与了此次降价？\n2. 本次药品价格整治风暴中，科伦药业生产的0.5g注射用氨苄西林钠从原价降至新价的具体数额是多少？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016847,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 69,
+            "prompt_tokens": 683,
+            "total_tokens": 752,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-dc744513-2b11-9941-bd83-38a11f0829b4",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "金价在刷新历史高点后下跌的具体数额是多少？\n专家预测2025年黄金价格有望突破的价格关口是多少？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016859,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 27,
+            "prompt_tokens": 622,
+            "total_tokens": 649,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-85ab390b-61c3-9c2c-9b5a-98909081bae0",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 2025年2月28日，两大国际原油基准价格下跌超过1%的具体数值是多少？导致这一变化的主要因素有哪些？\n2. 欧佩克计划在4月份增产的不确定性对市场情绪产生了何种影响？同时，伊拉克恢复出口以及美国关税威胁如何具体作用于国际油价走势？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016872,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 73,
+            "prompt_tokens": 671,
+            "total_tokens": 744,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    }
+]

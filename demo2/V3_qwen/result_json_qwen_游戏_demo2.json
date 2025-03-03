@@ -1,0 +1,302 @@
+[
+    {
+        "id": "chatcmpl-b7014e80-5cd5-9d71-a9fb-89f45c3a93a5",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在2月28日的《魔兽世界》Plus服热修中，针对盗贼和战士职业的具体哪些技能进行了调整？\n2. 《魔兽世界》Plus服2月28日的热修公告里，提到修复了盗贼和战士的多目标技能Bug，这些Bug具体影响了游戏中的哪些方面？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016611,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 73,
+            "prompt_tokens": 721,
+            "total_tokens": 794,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-a453ea96-394e-9384-bfce-1149c0181d16",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "任天堂在2025年3月推荐的游戏佳作中，具体提到了哪些游戏名称？\n\n新闻中提及的任天堂史上最宏伟的开放世界游戏，规模上与哪款游戏进行了比较？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016622,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 45,
+            "prompt_tokens": 675,
+            "total_tokens": 720,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-af297cb6-3532-923e-bbae-435f56ab4b83",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "TES在晋级全球先锋赛的决赛中对阵AL的具体比分是多少？\n针对TES晋级全球先锋赛后韩网热议的情况，LCK网友主要提到了哪位选手可能在未来的比赛中对369构成挑战？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016634,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 46,
+            "prompt_tokens": 732,
+            "total_tokens": 778,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-eec0c092-8e41-9697-9307-490dde3a69bc",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在“街霸2:中韩战20强杀人鞭尸,罕见bug侮辱吸血鬼”的事件中，具体描述了哪一种游戏内错误，并且此错误如何影响了比赛的结果或玩家的体验？\n2. “街霸2:中韩战20强杀人鞭尸,罕见bug侮辱吸血鬼”报道里提到的比赛发生在什么时间，参与该事件的主要选手有哪些？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016649,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 89,
+            "prompt_tokens": 751,
+            "total_tokens": 840,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-7a5eb5d5-8eec-9281-bcf6-be0ed96bf8f8",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在LPL决赛中，哪支队伍因为选手电脑突然断网而经历了比赛暂停的情况，且最终是哪两支队伍进行了冠军争夺？\n2. LPL决赛因网络问题导致的暂停持续了多长时间，并且这次事件对整个赛事流程产生了怎样的影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016663,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 62,
+            "prompt_tokens": 598,
+            "total_tokens": 660,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-e7f5ad00-7471-95c7-bd28-60f5adae98b0",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据新闻内容，女娲在王者荣耀中拥有哪些特点使得英雄强大，同时提到了哪几位英雄被指出不适合与女娲对线？\n2. 新闻中提到面对敌方选择女娲时的克制策略有哪些，具体指出了哪些英雄能够有效地对抗女娲？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016674,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 64,
+            "prompt_tokens": 681,
+            "total_tokens": 745,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-fc89b2db-2faa-9fd5-8123-e293791b268e",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在2025年3月2日发布的新闻中，提到AG超玩会需要通过最后一场比赛来确定队伍是进入S组还是A组，这场比赛计划在什么时间段进行？\n2. 新闻报道指出如果AG超玩会的当家射手在一场比赛中频繁出现失误，那么第二轮比赛AG超玩会将面临何种结果？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016689,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 78,
+            "prompt_tokens": 746,
+            "total_tokens": 824,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-c1160652-3bb8-9364-97da-e5098954318a",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "《异度神剑X：终极版》计划在哪个具体日期于Nintendo Switch平台发售？\n\n《异度神剑X：终极版》相比原版游戏，增加了哪些新内容或改进？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016700,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 43,
+            "prompt_tokens": 716,
+            "total_tokens": 759,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-ce1fa5b8-cbd5-9bca-ae76-40f51a6f10f9",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在《斗破苍穹》漫画版第623话中，药灵的戏份增加具体体现在哪些情节上，且提到药灵拥有神血对于药族未来有何种重要性？\n2. 《斗破苍穹》漫画版第623话发布后，萧潇展现孝心的具体行为有哪些，这些行为如何影响了故事的发展？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016714,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 82,
+            "prompt_tokens": 742,
+            "total_tokens": 824,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-09ee946f-4776-9104-bd11-ef5f70650b19",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据新闻报道，朱开在直播中提到LPL官方高层对Bin的态度如何？具体是哪一天进行的这次直播爆料？\n2. 新闻中指出Bin遭遇了LPL史上最严厉清算的原因是什么？有哪些具体的事件或行为导致LPL观众以及官方高层对Bin感到不满？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016731,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 67,
+            "prompt_tokens": 680,
+            "total_tokens": 747,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    }
+]

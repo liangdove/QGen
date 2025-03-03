@@ -1,0 +1,302 @@
+[
+    {
+        "id": "chatcmpl-709cf1e8-7383-923b-bd99-bd2abbd919bf",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在联想与爱立信关于标准必要专利（SEP）的交叉许可诉讼中，英国上诉法院作出有利于联想的裁决具体是在哪一天？\n2. 联想首席法律顾问Laura Quatela对于英国法院裁决有何评论，特别提到了联想在哪个方面的承诺得到了强化？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017023,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 66,
+            "prompt_tokens": 684,
+            "total_tokens": 750,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-90e1c248-9ce0-9377-b562-ced37313c3bd",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在2025年2月28日的讨论中，戴建业教授提到未来教育的重要使命是什么？这种使命如何与人工智能难以复制的独特个性相关联？\n2. 2025年3月1日搜狐网的文章中，戴建业教授对古诗词在AI时代的作用有何具体见解？根据文章内容，古诗词如何成为指引未来的“人生密码”？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017038,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 87,
+            "prompt_tokens": 692,
+            "total_tokens": 779,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-dbe18e07-eed3-9e2c-9962-e920448189bf",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 谷歌联合创始人谢尔盖·布林在内部备忘录中提议员工每周工作60小时以推动通用人工智能（AGI）发展，此建议具体基于哪些理由或预期成果？\n2. 针对谢尔盖·布林提出的每周60小时工作制以加速实现通用人工智能的观点，科技行业内其他专家和评论者有何种反应或评价？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017053,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 86,
+            "prompt_tokens": 678,
+            "total_tokens": 764,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-441bcc88-7c89-9d1d-baad-615ac8978c6a",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 安克创新在去年的奖金分红总额是多少，以及有多少名员工的年收入超过了100万元人民币？\n2. 特朗普在与马斯克连线直播中使用了安克创新的哪款产品，这一事件发生在具体的哪个日期？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017065,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 59,
+            "prompt_tokens": 678,
+            "total_tokens": 737,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-b7e60663-c287-93d4-bf50-2f51e5635c3b",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在信息爆炸时代，哪些建议被提出以帮助个体通过深度思考与实践来训练自身独特的参数？\n2. 针对信息过载导致的思维钝化现象，有哪些具体的策略可以用来保持个人的独特创造力？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017077,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 53,
+            "prompt_tokens": 656,
+            "total_tokens": 709,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-3f77afc0-3a39-9a47-bf20-7d79edd5d0ce",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据新闻报道，外卖平台为骑手全额缴纳社保的决策预估将带来多少成本？此决策对平台经济责任边界有何种影响？\n2. 新闻中提及的外卖行业社保政策变化发生在哪一天？这一历史性转折对外卖骑手的工作状态和福利待遇具体有哪些潜在影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017090,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 69,
+            "prompt_tokens": 652,
+            "total_tokens": 721,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-bff91f55-0c6f-9cc4-b31b-5f0835a57fa4",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据新闻内容，“中国制造2025”的总体结构可以概括为“一二三四五五十”，请问这一战略目标中的“一”具体指的是什么转变？\n2. “中国制造2025”视频发布于浙江，并获得了4936次观看，该视频是在哪一天发布的？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017104,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 67,
+            "prompt_tokens": 654,
+            "total_tokens": 721,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-17ef53c3-6692-9cf2-bd34-abdb892d6f8c",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据最新报道，人工智能在提供情感支持方面存在哪些局限性，使得AI无法完全取代心理咨询师？\n2. 报道中提到的心理咨询过程中的人际关系建立对于治疗效果有何重要性，以及这种人际关系是怎样的形式体现？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017116,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 57,
+            "prompt_tokens": 581,
+            "total_tokens": 638,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-890c033b-dfbe-9879-9de7-e7526fe4afdd",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 火狐Firefox浏览器隐私条款变更中，Mozilla具体删除了哪些关于用户数据处理的承诺内容？\n2. 针对火狐Firefox浏览器此次隐私政策调整，Mozilla采取了何种措施来缓解用户的担忧并确保个人数据的安全？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017128,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 56,
+            "prompt_tokens": 563,
+            "total_tokens": 619,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-ffa480a1-e690-9c65-87ec-c076aa5c8d58",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据王兴兴的展望，宇树科技计划开发的细胞大小机器人具体预期在什么时间能够实现进入人体杀死癌细胞并修复器官的功能？\n2. 王兴兴讨论的未来AI机器人技术中，提到可以让人形机器人生产出更小的人形机器人直到细胞级别，在这个过程中，涉及到的关键技术有哪些？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017142,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 76,
+            "prompt_tokens": 769,
+            "total_tokens": 845,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    }
+]

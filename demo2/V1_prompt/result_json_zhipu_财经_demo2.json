@@ -1,0 +1,312 @@
+[
+    {
+        "id": "20250303214443f3dac4e5959c406c",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. **Grantham预测的美股下跌幅度与历史崩盘数据的对比如何？**\n   - 该问题旨在通过对比Grantham预测的美股50%下跌幅度与历史上著名股市崩盘（如1929年大萧条、2000年互联网泡沫破裂、2008年金融危机等）的实际下跌数据进行比较，分析其预测的合理性及潜在影响。\n\n2. **当前AI泡沫与历史技术泡沫（如铁路、互联网）在市场规模、资金流入及投资者情绪方面的具体数据差异是什么？**\n   - 该问题旨在通过具体数据（如市场规模、资金流入量、投资者情绪指标等）对比当前AI泡沫与历史上其他技术泡沫的异同，以评估AI泡沫的严重程度及其可能的发展轨迹。",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009490,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 158,
+            "prompt_tokens": 2834,
+            "total_tokens": 2992,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303214443f3dac4e5959c406c"
+    },
+    {
+        "id": "20250303214500969dc1e30d8e4cfc",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在董明珠直播带货“发火”事件中，具体提到“没有货也要卖”的背景下，董明珠所指的是哪一款或哪一类格力产品？当时该产品的市场需求量与实际库存量分别是多少？\n\n2. 针对董明珠所言“市场是抢来的！”这一观点，能否提供在此次直播带货活动前后，格力电器在同类产品市场上的占有率变化数据，以及与主要竞争对手（如美的、海尔等）的市场份额对比情况？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009505,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 104,
+            "prompt_tokens": 1859,
+            "total_tokens": 1963,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303214500969dc1e30d8e4cfc"
+    },
+    {
+        "id": "20250303214516885c16df45c745b0",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 该投资事件中，投资者的初始投资金额为910万元，赎回时仅剩56万元，请问该投资产品的年化收益率是多少？\n\n2. 在该投资事件中，从投资到赎回的时间跨度是多少年？期间是否有任何分红或收益再投资的情况？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009518,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 63,
+            "prompt_tokens": 318,
+            "total_tokens": 381,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303214516885c16df45c745b0"
+    },
+    {
+        "id": "20250303214526ffb6d58e4f3c4622",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 神州细胞在2024年业绩快报中披露，其营业利润从何等基础值增长至5.68亿元，从而实现了8829.33%的同比增长？这一增长背后的主要驱动因素是什么？\n\n2. 在神州细胞2024年扭亏为盈的过程中，其核心产品安佳因的销售收入具体贡献了多少比例？此外，公司为即将商业化的产品扩充销售队伍所增加的销售费用具体是多少，这一策略对其整体业绩提升有何具体影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009532,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 108,
+            "prompt_tokens": 2612,
+            "total_tokens": 2720,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303214526ffb6d58e4f3c4622"
+    },
+    {
+        "id": "2025030321453949338f2cbdc14c44",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在陶冬关于“海湖庄园协议打劫全世界”的讨论中，他具体指出了哪些国家和行业可能受到该协议的负面影响，以及这些影响的具体数据和预测依据是什么？\n\n2. 根据陶冬的分析，海湖庄园协议对美国经济和全球经济的短期及长期影响分别是什么，是否有具体的经济指标（如GDP增长率、贸易逆差、汇率变动等）来量化这些影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009545,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 91,
+            "prompt_tokens": 2843,
+            "total_tokens": 2934,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030321453949338f2cbdc14c44"
+    },
+    {
+        "id": "2025030321455213205de302814a1f",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据德国央行和主要经济研究机构发布的报告，德国经济预计在未来几年内的年均增长率是多少？这一增长率与过去30年的平均水平相比有何变化？\n\n2. 德国经济目前面临的主要挑战有哪些（如技术工人短缺、能源进口价格高昂等）？这些挑战对德国经济的长期发展将产生怎样的具体影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009556,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 73,
+            "prompt_tokens": 2771,
+            "total_tokens": 2844,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030321455213205de302814a1f"
+    },
+    {
+        "id": "202503032146051928ceade378409c",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在2025年2月24日云南召开的优化营商环境加快开放招商大会上，共有多少位民营企业家坐在主宾席，其中知名企业家钟睒睒坐在哪个具体位置？\n2. 根据《云南省民营企业社会责任报告（2024）》，云南省民营经济增加值占GDP的比重是多少，对经济增长的拉动作用具体达到了多少个百分点？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009571,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 77,
+            "prompt_tokens": 3224,
+            "total_tokens": 3301,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032146051928ceade378409c"
+    },
+    {
+        "id": "20250303214619032de7b3888b417a",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. **南极人转型自营后，其全球首店在上海开业的具体日期是什么？开业当天的客流量和销售额有何统计数据？**\n\n2. **南极人计划清退90%的贴牌产品，这一决策背后的财务数据如何？具体涉及到多少家供应商和经销商的调整，以及预计对年度营收和利润的影响是多少？**",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009583,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 75,
+            "prompt_tokens": 2971,
+            "total_tokens": 3046,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303214619032de7b3888b417a"
+    },
+    {
+        "id": "20250303214633e604aca51f3a4991",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在“道达对话牛博士”中提到的下周重要会议具体是指哪次会议？会议的主要议题和预期影响是什么？\n2. 文章中提到的三大事件分别是什么？它们各自对资本市场可能产生怎样的具体影响？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009596,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 51,
+            "prompt_tokens": 3387,
+            "total_tokens": 3438,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303214633e604aca51f3a4991"
+    },
+    {
+        "id": "2025030321464466988a3018bf4fde",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在2024年，三家更换营销负责人的疫苗企业（百克生物、康泰生物、沃森生物）的具体营收和净利润下滑幅度分别是多少？这些数据与各自营销负责人更换的时间点有何关联？\n\n2. 自2023年以来，国内疫苗行业面临的经济下行、疫苗接种意愿降低、市场竞争加剧等具体影响因素的数据表现如何？这些因素对三家疫苗企业营销负责人更换的具体影响程度如何量化？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009611,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 92,
+            "prompt_tokens": 3090,
+            "total_tokens": 3182,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030321464466988a3018bf4fde"
+    }
+]

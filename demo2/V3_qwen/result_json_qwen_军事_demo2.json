@@ -1,0 +1,302 @@
+[
+    {
+        "id": "chatcmpl-f7269fe1-0df6-92dd-8f7f-dcf69241d085",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "乌军第72机步旅休整了多久之后重新投入战斗？\n\n乌军第72机步旅在弗勒达地区坚守了多少时间？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016884,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 34,
+            "prompt_tokens": 783,
+            "total_tokens": 817,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-cd9139a8-f1e3-972a-962e-fba71c8a0360",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 2025年2月27日清晨，在澳大利亚昆士兰州黄金海岸的梅恩海滩发现的324毫米鱼雷训练弹，具体是由哪个单位或机构确认了这枚鱼雷属于澳大利亚海军？\n2. 澳大利亚昆士兰州海滩上发现的324毫米鱼雷训练弹表面锈蚀情况如何，附着的贝壳和海蛎是否提供了关于鱼雷在海底停留时间的任何线索？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016901,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 100,
+            "prompt_tokens": 693,
+            "total_tokens": 793,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-158f52dd-98be-95ba-822b-620b62f3259e",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "076两栖攻击舰决定暂时不搭载歼35战斗机和空警600预警机的具体原因是什么？\n\n根据现有讨论，076两栖攻击舰未来可能转型为中型航母的时间表或条件有哪些？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016912,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 51,
+            "prompt_tokens": 718,
+            "total_tokens": 769,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-abab32e8-c57d-9a41-8eb5-896d6c16b6a5",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 重型装甲实弹训练中，坦克分队和步战车分队使用了哪些类型的弹种对目标实施精确打击？\n2. 在展现合成化作战威力的重型装甲实弹训练报道里，具体提到第74集团军某重型装甲合成旅进行了多长时间的跨昼夜实弹射击训练？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016926,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 71,
+            "prompt_tokens": 577,
+            "total_tokens": 648,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-bb96e647-4ab8-9532-861a-1239bc9b0fe8",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在关于北约对乌克兰战争影响输给深圳华强北的讨论中，具体提到了哪些类型的无人机或技术产品最初来源于深圳华强北，并且这些产品如何改变了战场上的局势？\n2. 根据相关报道，美国国防部《2023供应链风险评估》承认导航系统依赖于来自深圳华强北的MEMS传感器，这份报告具体指出了哪些供应链上的弱点，以及这些弱点如何影响了北约在乌克兰冲突中的军事行动？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016940,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 101,
+            "prompt_tokens": 599,
+            "total_tokens": 700,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-2a38bf71-b515-9a51-b6e7-eda1651e2e65",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在“箱”遇两会的报道中，蒋林峰作为全国人大代表提出了哪些具体建议来加强基层官兵的心理健康服务工作？\n2. 蒋林峰参与两会时分享了怎样的带兵理念，以及这种理念如何体现在实际的部队管理工作中？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016953,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 60,
+            "prompt_tokens": 638,
+            "total_tokens": 698,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-fca441b5-2708-9c3a-ba9a-3eee1e13899d",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在关于库尔斯克州妇女描述乌军枪杀回家取水丈夫的事件中，新闻报道提供了哪些具体的时间和地点信息？\n2. 新闻报道中提及的库尔斯克州妇女叙述乌军枪杀事件里，是否有说明涉事乌军士兵的数量以及该事件导致的伤亡人数？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016964,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 69,
+            "prompt_tokens": 746,
+            "total_tokens": 815,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-a057199f-fad8-9c39-9cc0-8dde4ad5b537",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在美航母抵达冲绳海域的事件中，中国侦察机执行任务的具体日期是什么时候？\n2. 美航母抵达冲绳海域期间，中国方面出动了哪些型号的侦察机进行监视活动？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016979,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 48,
+            "prompt_tokens": 673,
+            "total_tokens": 721,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-f914b9bf-0b9b-9d94-aea7-eabf1859cea1",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 根据新闻报道，美日联合军演中涉及的具体演习科目有哪些，这些演习从哪一年开始在日本举行？\n2. 新闻中提到的中国攻击无人机飞越琉球群岛的具体日期是什么时候，这次行动展示了哪些具体军事能力？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016993,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 57,
+            "prompt_tokens": 663,
+            "total_tokens": 720,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-dc9e8c86-1a2e-9a30-9fe1-ed570cb77b08",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 中国海军107特遣队在澳洲南部外海作业期间，编队中包含哪些类型的舰艇，以及这些舰艇具体执行了何种任务？\n2. 根据澳洲国防部披露的信息，中国海军107特遣队在澳洲南部海域停留的时间长度是多少，期间是否已经进行过实弹射击演练？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741017008,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 75,
+            "prompt_tokens": 737,
+            "total_tokens": 812,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    }
+]

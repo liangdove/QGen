@@ -1,0 +1,312 @@
+[
+    {
+        "id": "20250303213838911968f59b364cc2",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在中国人民大学引入DeepSeek AI助教后，数学学院团队开发的AI助教“数你最灵”平均每天需要回答多少个学生提问？这一数据与引入AI助教前相比，是否显著减少了教师的沟通成本？\n\n2. 南开大学师生利用DeepSeek平台创建了多少个智能体应用？在这些应用中，文学院开发的“大语智慧学伴”AI应用使用了多少种资料进行训练，并且如何通过师生互动进一步优化AI的学习效果？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009123,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 103,
+            "prompt_tokens": 2223,
+            "total_tokens": 2326,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303213838911968f59b364cc2"
+    },
+    {
+        "id": "20250303213852ad0f88c229694d23",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在腾讯新闻关于“千万不要养出一个道德感太强的孩子”的讨论中，有多少位专家或心理学家提出了他们的观点？他们的主要论点是什么？\n\n2. 该讨论引发了多少条网友评论？在这些评论中，支持与反对“培养道德感太强的孩子”的比例分别是多少？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009135,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 66,
+            "prompt_tokens": 2703,
+            "total_tokens": 2769,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303213852ad0f88c229694d23"
+    },
+    {
+        "id": "2025030321390175e06e56ca0246e1",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在DeepSeek最新发布的职业压力排名中，中小学教师位列前三的具体排名是多少？该排名是基于哪些具体的数据指标和调查方法得出的？\n\n2. 与其他位列前三的职业相比，中小学教师在哪些方面的压力表现最为突出？是否有具体的数据或案例支持这一结论？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009146,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 61,
+            "prompt_tokens": 1821,
+            "total_tokens": 1882,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030321390175e06e56ca0246e1"
+    },
+    {
+        "id": "2025030321391194c280a89c794f54",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. **2024年南部战区专业技能类文职人员招考中，入围面试体检环节的考生人数是多少？**\n   \n2. **南部战区2024年文职人员招考面试体检的具体时间和地点是如何安排的？**",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009154,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 54,
+            "prompt_tokens": 2436,
+            "total_tokens": 2490,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "2025030321391194c280a89c794f54"
+    },
+    {
+        "id": "20250303213922b9fc615d5ac64e15",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在腾讯新闻的报道中，提到了哪些具体的科学研究或统计数据来支持“孩子智商受父母双方基因共同影响”的观点？\n2. 腾讯新闻是否提供了关于不同性别孩子（例如男孩和女孩）在智商遗传上存在差异的具体案例或数据？如果有，这些数据是如何呈现和解释的？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009165,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 71,
+            "prompt_tokens": 2637,
+            "total_tokens": 2708,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303213922b9fc615d5ac64e15"
+    },
+    {
+        "id": "20250303213934cdb4330501374290",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. **C919在一年半内累计载客量达到百万的具体时间和航线分布是怎样的？**\n   \n2. **C919在击破多年质疑过程中，其安全性能和运营效率的具体数据表现如何？**",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009179,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 51,
+            "prompt_tokens": 2853,
+            "total_tokens": 2904,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303213934cdb4330501374290"
+    },
+    {
+        "id": "202503032139485bdc0b4639734ac7",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在腾讯新闻关于“习惯性愚钝”现象的报道中，提到的实验中科学家对大鱼进行观察的具体时间周期是多久？这一时间周期对孩子的教育有何启示？\n\n2. 根据腾讯新闻报道，斯坦福大学心理学教授所指出的家庭对孩子性格和特质形成的决定性因素中，具体提到了哪些家长行为或习惯会对孩子产生负面影响，导致“习惯性愚钝”？这些行为或习惯在报道中的提及频率是多少？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009192,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 98,
+            "prompt_tokens": 2788,
+            "total_tokens": 2886,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032139485bdc0b4639734ac7"
+    },
+    {
+        "id": "20250303214004300116159a2d4249",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在上海全面实施校园午餐AB制的过程中，具体有多少所中小学已经实现了AB制午餐全覆盖？这些学校分布在哪些区域？\n\n2. 自从推行校园午餐AB制以来，上海市中小学校食堂剩饭剩菜的平均减少量是多少？是否有具体数据表明“光盘行动”的效果显著提升？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009207,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 67,
+            "prompt_tokens": 2286,
+            "total_tokens": 2353,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303214004300116159a2d4249"
+    },
+    {
+        "id": "202503032140174e6eded21c2540fa",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在腾讯新闻关于“南航、南理工等大陆高校被台禁止交流”的报道中，具体涉及被禁止交流的大陆高校有多少所？这些高校的名称分别是什么？\n\n2. 根据腾讯新闻的报道，台湾方面禁止与大陆高校交流的具体时间是从何时开始实施的？在此禁令发布前，这些大陆高校与台湾高校的年均交流次数和参与师生人数是多少？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009221,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 90,
+            "prompt_tokens": 97,
+            "total_tokens": 187,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "202503032140174e6eded21c2540fa"
+    },
+    {
+        "id": "20250303214027cedccd77ddb44a0e",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在腾讯新闻关于“坚持‘四条原则’，让孩子放下手机”的讨论中，有多少家长表示支持并实际尝试了这些方法？具体实施后，他们反馈的效果如何？\n\n2. 腾讯新闻上的讨论中，提到哪些具体的“四条原则”来引导孩子放下手机？这些原则在不同年龄段的孩子中实施的成功率有何差异？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741009231,
+        "model": "glm-4-plus",
+        "object": null,
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 80,
+            "prompt_tokens": 2636,
+            "total_tokens": 2716,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        },
+        "request_id": "20250303214027cedccd77ddb44a0e"
+    }
+]

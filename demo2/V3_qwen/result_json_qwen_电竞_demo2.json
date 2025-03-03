@@ -1,0 +1,302 @@
+[
+    {
+        "id": "chatcmpl-127f2172-5b8c-92fc-9957-db5ed0505716",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在最近的赛季中，AL战队取得了怎样的成绩，以至于让网友认为表现已经足够好？\n2. 根据新闻内容，圣枪哥未能见到Viper的原因是什么？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016329,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 42,
+            "prompt_tokens": 696,
+            "total_tokens": 738,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-dfa219f7-286e-9195-971f-99fbdd5bf059",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在2024KPL春季赛第三轮第二场中，重庆狼队以何种比分战胜了长沙滔搏，此场比赛体现了S组队伍在游戏理解上的哪些优势？\n2. 截至2024年常规赛第二轮结束时，重庆狼队和长沙滔搏分别位于奖金榜的什么位置，两支队伍之间的奖金差距具体是多少？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016345,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 83,
+            "prompt_tokens": 730,
+            "total_tokens": 813,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-61959508-a85d-9f2c-bcdb-176e95709a14",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在“球球再现精彩残局五发戍卫1V3”的事件中，哪位玩家展示了卓越的个人技巧，并成功地在何种游戏模式下完成了这一壮举？\n2. “球球再现精彩残局五发戍卫1V3”所指的具体比赛发生在哪个平台或赛事上，且该事件发生的确切日期是什么时候？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016361,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 80,
+            "prompt_tokens": 652,
+            "total_tokens": 732,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-9aa9ed64-5acc-9ec5-9aa9-6551c5cedd48",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在关于“久违阿水可以说这么多话，网友：TES今年感觉强的可怕！”的讨论中，阿水具体提到了哪些方面的内容来让网友们产生这种强烈的感觉？\n2. 针对阿水发言引起网友热议的情况，该事件发生的具体日期是什么时候？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016374,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 64,
+            "prompt_tokens": 636,
+            "total_tokens": 700,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-41fe4d89-b55f-9759-b5bd-1f180563211c",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在深圳DYG与武汉eStarPro的比赛中，最终比分是多少，这场比赛对于两队争夺B组头名有何影响？\n2. 周诣涛在接受赛后采访时提到“打好接下来的比赛，尽人事听天命”，这句话是在哪一场比赛之后说的，当时比赛的结果如何？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016387,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 66,
+            "prompt_tokens": 793,
+            "total_tokens": 859,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-e2c3f24d-269b-9301-9af3-53e1a1c2ca85",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在“相爱相杀，英雄相惜？Trent期待与EDG的总决赛！”这一讨论中，Trent提到对哪支队伍的比赛最为期待，且这场比赛预定在什么时间举行？\n2. 新闻报道里，“相爱相杀，英雄相惜？Trent期待与EDG的总决赛！”中的Trent具体指的是哪位选手，这位选手在之前与EDG的对决中有过怎样的历史战绩？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016399,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 93,
+            "prompt_tokens": 677,
+            "total_tokens": 770,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-0038f62f-6673-9ba2-8174-de544b5840cb",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在新闻报道中，“可恶，拼尽全力也无法抵达吗？”这句话最初是在哪个具体事件或背景下被提及的？\n2. 针对“可恶，拼尽全力也无法抵达吗？”这一话题，社交媒体上出现了多少相关讨论帖文，以及这些讨论主要集中在哪些平台？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016415,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 66,
+            "prompt_tokens": 733,
+            "total_tokens": 799,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-b3d6fc0f-49d9-969f-9019-f5f25902f2f5",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 在济南RW侠对阵成都AG超玩会的比赛中，绝意使用鲁班七号时展现了怎样的表现，使得团队能够取得首局胜利？\n2. 绝意从武汉eStarPro转会至济南RW侠的具体日期是什么时候？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016429,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 56,
+            "prompt_tokens": 720,
+            "total_tokens": 776,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-c1f09955-478b-9486-8c45-af61472fb7ec",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "在新闻“TES首局集锦：Kanavi蔚勇敢出击，TES首局大胜AL”中，Kanavi使用蔚这个英雄的表现如何？具体体现在哪些关键数据上？\n\n这场比赛发生在什么时间，TES对阵AL的首局比赛中，除了Kanavi蔚的表现外，还有哪些重要的比赛转折点或者团队合作的数据可以说明TES为何能够取得胜利？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016445,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 81,
+            "prompt_tokens": 661,
+            "total_tokens": 742,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    },
+    {
+        "id": "chatcmpl-ae723474-6b3a-9b20-bd16-4c4027c74e85",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "1. 康康提到的夜露在哪个游戏中作为角色出现，此角色具备哪些特色技能？\n2. 康康发表关于夜露技巧评价的具体时间是什么时候？",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1741016458,
+        "model": "qwen-max",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": null,
+        "usage": {
+            "completion_tokens": 39,
+            "prompt_tokens": 693,
+            "total_tokens": 732,
+            "completion_tokens_details": null,
+            "prompt_tokens_details": null
+        }
+    }
+]
